@@ -1,2 +1,241 @@
-# atividade1-glauco-bench
-Curadoria de datasets jurídicos e inferência com LLMs, comparando a qualidade das respostas em questões da 2ª fase do Exame da OAB usando o dataset público OAB-bench e o gabarito oficial da FGV.
+# Rascunhos
+
+## Gemini
+
+Eu faço parte da Equipe 4 (Domínio Jurídico) e fiquei responsável por:
+
+Questões abertas: 107 a 118
+Questões de múltipla escolha: 1108 a 1230
+
+A atividade envolve:
+
+Curadoria dos dados
+Inferência com LLMs
+Avaliação das respostas
+
+
+### Objetivo
+
+> Avaliação da qualidade de respostas jurídicas geradas por LLMs em exames da OAB
+
+🧪 Metodologia
+
+A atividade foi conduzida no domínio jurídico utilizando o dataset OAB Bench, conforme proposto na atividade. Cada integrante atuou como curador de um subconjunto de questões, sendo este trabalho referente às questões 107 a 118 e 1108 a 1230.
+Inicialmente, foi realizada a curadoria das questões, classificando-as quanto ao nível de dificuldade, área jurídica e base normativa. Em seguida, as questões abertas foram submetidas a três modelos de linguagem distintos, com o objetivo de comparar suas capacidades de argumentação jurídica.
+
+As respostas geradas foram avaliadas com base em critérios definidos nos guidelines, considerando:
+
+- Correção jurídica
+- Fundamentação legal
+- Coesão e clareza
+- Completude da resposta
+
+Por fim, foi realizada uma análise comparativa entre os modelos, identificando padrões de desempenho e limitações.
+
+**🚀 O que entregar**
+✔ Respostas completas das questões 107 a 108 (abertas) e 1108 a 1230 (objetivas)
+✔ Classificação (curadoria)
+✔ Respostas simuladas (modelo ideal)
+✔ Referências reais
+✔ Base para comparar LLMs
+
+*exemplo:*
+
+
+✅ 1. CURADORIA DA QUESTÃO
+
+📌 Classificação sugerida (Equipe 4 pode usar isso como padrão)
+
+Nível de dificuldade: Alta
+
+Área de especialidade: Direito Empresarial
+
+Subárea: Recuperação Judicial e Falência
+
+Tipo de questão: Peça prático-profissional
+
+Base legal principal:
+
+Lei nº 11.101/2005 (Lei de Recuperação Judicial e Falência)
+
+✅ 2. IDENTIFICAÇÃO DO PROBLEMA JURÍDICO
+
+A questão trata de uma empresa em crise econômico-financeira que deseja:
+
+Evitar a falência
+
+Reestruturar suas dívidas
+
+Manter sua atividade empresarial
+
+👉 Ou seja, o instituto jurídico central é:
+
+✔ Recuperação Judicial
+
+✅ 3. PEÇA PROCESSUAL ADEQUADA
+
+📌 Resposta correta:
+
+Petição Inicial de Recuperação Judicial_
+
+✅ 4. MODELO DE RESPOSTA (PADRÃO OURO)
+Você pode usar isso como gabarito ideal para comparar LLMs:
+
+📝 PEÇA PRÁTICO-PROFISSIONAL
+Excelentíssimo Senhor Doutor Juiz de Direito da Vara Única da Comarca de Caxambu/MG
+Comercial e Exportadora Três Pontas S.A., sociedade empresária, já qualificada, por seu advogado (instrumento de mandato anexo), vem, respeitosamente, à presença de Vossa Excelência, com fundamento nos artigos 47 e seguintes da Lei nº 11.101/2005, propor:
+PEDIDO DE RECUPERAÇÃO JUDICIAL pelos fatos e fundamentos a seguir expostos:
+I – DOS FATOS
+A requerente é sociedade empresária regularmente constituída, atuando no ramo de exportação de café.
+Em razão da pandemia da COVID-19 e de eventos climáticos adversos (geada), sofreu grave impacto financeiro, com redução significativa de receitas e aumento do passivo, atualmente estimado em R$ 17.000.000,00. Apesar das dificuldades, a empresa demonstra viabilidade econômica, considerando:
+Perspectiva de recuperação do mercado
+Retorno de clientes internacionais
+Alta do preço da commodity
+II – DO DIREITO
+A recuperação judicial tem como objetivo viabilizar a superação da crise econômico-financeira da empresa, preservando sua função social e estimulando a atividade econômica. A requerente preenche os requisitos legais para o pedido, uma vez que:
+Exerce regularmente suas atividades há mais de 2 anos. Não é falida. Não obteve recuperação judicial recente. A aprovação em assembleia geral reforça a legitimidade do pedido.
+III – DA NECESSIDADE DA RECUPERAÇÃO
+A medida é necessária para:
+Evitar a falência
+Reorganizar o passivo
+Manter empregos
+Preservar a atividade empresarial
+IV – DOS PEDIDOS
+Diante do exposto, requer:
+O deferimento do processamento da recuperação judicial. A suspensão das ações e execuções contra a empresa. A nomeação de administrador judicial. A apresentação do plano de recuperação no prazo legal. A intimação do Ministério Público. A concessão final da recuperação judicial. Termos em que,
+Pede deferimento.
+Local: ...
+Data: ...
+Advogado: ...
+OAB: ..._
+
+📊 Avaliação dos Modelos com Gabarito Oficial
+
+Foi realizada a comparação entre dois modelos de linguagem (Deepseek e Qwen) utilizando como referência o gabarito oficial das questões.
+
+A métrica principal adotada foi a acurácia, calculada com base na proporção de respostas corretas em relação ao total de questões analisadas.
+
+Os resultados indicaram que o modelo ________ apresentou maior taxa de acerto, seguido pelo Claude e, por fim, o Gemini, que apresentou maior variabilidade nas respostas.
+
+Essa análise evidencia que, embora os modelos de linguagem apresentem bom desempenho em questões objetivas, ainda existem diferenças significativas em sua capacidade de precisão jurídica.
+
+
+✅ 5. COMO USEI ISSO NA ATIVIDADE
+
+Agora posso:
+
+✔ Comparar LLMs:
+Para cada modelo (Deepseek, Gemini, Qwen, Llama etc.), avalie:
+Correção da peça (acertou recuperação judicial?)
+Estrutura jurídica
+Fundamentação
+Clareza
+
+✔ Métrica sugerida:
+Fácil a Muito Difícil para cada critério:
+Correção jurídica
+Fundamentação
+Coesão
+Completude
+
+🧠 O QUE TENHO EM MÃOS
+
+Download realizado no Hugging Face:
+
+question.jsonl → 210 questões
+guidelines.jsonl → critérios de correção por questão
+judge_prompts.jsonl → prompts para avaliar respostas com LLMs
+
+👉 Isso é exatamente o fluxo de um sistema de avaliação automatizada.
+
+⚙️ PIPELINE DA ATIVIDADE
+
+Eu precissei seguir essa lógica:
+
+1. Selecionar as questões
+107 a 118 e 1108 a 1230
+
+2. Gerar respostas com 3 LLMs
+Deepseek
+Gemini
+Qwen
+Llama
+
+Para cada questão: `Pergunta → enviar para 3 modelos → coletar respostas`
+
+3. Aplicar o JUDGE (avaliação)
+Aqui entra o judge_prompts.jsonl.
+Você vai usar um modelo (ex: GPT) como avaliador.
+Ele recebe:
+
+- Pergunta
+- Resposta do modelo
+- Guideline
+
+E devolve:
+
+- Nota
+- Justificativa
+> Nota: não utilizado em substituição foi usado o Bertsocre.
+
+4. Usar os GUIDELINES
+
+O arquivo guidelines.jsonl é essencial.
+
+Ele define:
+
+- O que é uma resposta correta
+- O que deve ser avaliado
+
+👉 Isso evita avaliação subjetiva.
+
+
+📊 ESTRUTURA FINAL
+
+🔹 Tabela de Avaliação
+
+🔹 Análise comparativa
+
+📌 Análise dos Resultados
+
+A análise das respostas geradas pelos modelos de linguagem revelou diferenças significativas em termos de desempenho jurídico.O modelo ____________ apresentou maior consistência na identificação do instituto jurídico adequado, especialmente em questões que exigiam a 
+
+elaboração de peças processuais, como pedidos de recuperação judicial. Além disso, demonstrou maior capacidade de articulação normativa. 
+
+O modelo _______ apresentou respostas mais genéricas, com menor profundidade na fundamentação jurídica, embora tenha mantido boa clareza textual.
+
+O modelo ________ destacou-se pela organização e coesão das respostas, mas apresentou, em alguns casos, lacunas na aplicação correta de dispositivos legais específicos.
+
+De forma geral, observa-se que modelos mais robustos tendem a apresentar melhor desempenho em tarefas que exigem raciocínio jurídico estruturado.
+
+📌 Curadoria das Questões de Múltipla Escolha
+
+As questões de múltipla escolha foram classificadas predominantemente como de nível médio, com base na exigência de interpretação simples da legislação e aplicação direta de dispositivos normativos.
+
+Observou-se que a maioria das questões exigia conhecimento de lei seca, especialmente do Código Civil e da Lei de Recuperação Judicial, com baixa ambiguidade e foco em conceitos objetivos.
+
+Algumas questões, entretanto, apresentaram maior complexidade, exigindo análise de casos práticos e integração de dispositivos legais, sendo classificadas como difíceis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
