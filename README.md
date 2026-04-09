@@ -302,6 +302,7 @@ Esta análise resume o comportamento dos modelos testados no domínio jurídico 
 **5. Conclusão de Engenharia de Prompt**
 *   O uso de um **System Prompt** personificado ("Você faz parte da banca examinadora da FGV") foi determinante para elevar a qualidade das fundamentações, forçando os modelos a saírem de respostas genéricas para textos baseados em raciocínio jurídico analítico.
 
+<img width="1345" height="737" alt="image" src="https://github.com/user-attachments/assets/4db4e465-7cd1-4f6f-ae3b-a2e1095475ee" />
 
 
 ### 🛠️ Recomendações Técnicas para Estudos Futuros
