@@ -1,6 +1,6 @@
-# 
+# Tópicos Avançados em Engenharia de Software e Sistema de Informção
 
-## Gemini
+## Atividade 1 | Tópicos Avançados 2026-1 | Equipe JUD 4 | Victor - 202611003029
 
 Eu faço parte da Equipe 4 (Domínio Jurídico) e fiquei responsável por:
 
