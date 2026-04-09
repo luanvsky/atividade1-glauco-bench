@@ -1,10 +1,17 @@
 🧠 Estrutura ideal (isso impressiona MUITO)
+
 Título + descrição
+
 Metodologia
+
 Carregamento dos dados
+
 Execução dos modelos
+
 Avaliação (métricas)
+
 Visualização
+
 Conclusão
 
 🎯 O QUE FALAR 
