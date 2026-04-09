@@ -1,4 +1,4 @@
-# Rascunhos
+# 
 
 ## Gemini
 
@@ -304,7 +304,27 @@ Esta análise resume o comportamento dos modelos testados no domínio jurídico 
 
 
 
+### 🛠️ Recomendações Técnicas para Estudos Futuros
 
+Com base nas limitações e sucessos observados, as seguintes frentes de pesquisa são recomendadas:
+
+**1. Implementação de RAG (Retrieval-Augmented Generation)**
+*   **Problema:** Modelos às vezes alucinam fundamentos legais ou citam leis revogadas.
+*   **Solução:** Integrar uma base de dados vetorial (Vector DB) contendo a legislação brasileira atualizada e jurisprudência do STF/STJ. Isso permitiria que o modelo consultasse o texto real da lei antes de gerar a resposta, elevando o BERTScore.
+
+**2. Fine-tuning Específico em Peças Práticas**
+*   **Problema:** Modelos locais (3B ou menores) falham no formalismo da OAB (endereçamento, pedidos).
+*   **Solução:** Realizar o ajuste fino (Fine-tuning) de modelos como o Qwen ou Llama utilizando um dataset curado de espelhos de correção da FGV, focando especificamente na estrutura de petições.
+
+**3. Exploração de Modelos Locais de Médio Porte (7B a 14B)**
+*   **Observação:** O Qwen 3B teve excelente performance em objetivas, mas sofreu em subjetivas.
+*   **Estudo:** Testar modelos como Mistral 7B ou Qwen 14B via quantização (GGUF/EXL2) para verificar se o ganho em lógica jurídica justifica o maior consumo de memória RAM/VRAM.
+
+**4. Engenharia de Prompt Multi-Agente**
+*   **Solução:** Utilizar uma arquitetura de agentes onde um modelo gera a tese jurídica e outro agente (IA) atua como 'revisor da banca', criticando a resposta com base em uma checklist de critérios da FGV antes de entregar o resultado final.
+
+**5. Expansão de Métricas de Avaliação**
+*   **Sugestão:** Além do BERTScore, incorporar o **G-Eval** (utilizar um modelo superior como o GPT-4o ou Gemini 1.5-Pro para dar notas de 1 a 5 em critérios específicos como 'Fundamentação Legal' e 'Coesão'), permitindo uma análise qualitativa automatizada mais rica.
 
 
 
