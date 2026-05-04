@@ -1,0 +1,1347 @@
+[
+  {
+    "id": "42_direito_penal_questao_1",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "1\nFrederico, policial, caminha à paisana quando vê um cachorro feroz avançar na direção de crianças que brincavam na rua. Frederico, imediatamente, sacou sua arma e a apontou na direção do cachorro, com o intuito de impedir o ataque.\nJonas, que estava na janela de sua residência, mantém sob sua guarda arma de fogo legalmente registrada, ante sua autorização de posse, e tem visão parcial da situação. Ele vê apenas um homem (Frederico) apontando uma arma na direção das crianças que brincavam na rua, sem perceber a aproximação do cachorro raivoso. Assim, Jonas, acreditando que Frederico representava uma ameaça à integridade física das crianças, violando o dever de diligência e cuidado que deveria adotar em situações como a apresentada, imediatamente efetua disparo de arma de fogo contra Frederico, que cai, sem vida, após ser atingido pelo projétil da arma de fogo de Jonas. Com isso, o cachorro prosseguiu o ataque às crianças, fato que, isoladamente, levou uma delas a óbito.\nComprovados os fatos tais como aqui relatados, Jonas é denunciado por duplo homicídio doloso, sendo-lhe imputadas as mortes de Frederico e da criança. Como advogado(a) de Jonas, responda às questões a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "A) Qual a tese de Direito Penal a ser sustentada em relação à imputação de homicídio contra Frederico? Fundamente. (Valor: 0,65)"
+      },
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "B) Qual a tese de Direito Penal a ser sustentada em relação à imputação de homicídio contra a criança? Fundamente. (Valor: 0,60)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão exige do(a) examinando(a) conhecimentos sobre teoria do delito, mais precisamente, erro de tipo permissivo e relação de causalidade.\nA) Jonas não deve responder pelo homicídio doloso de Frederico, pois agiu em erro de tipo permissivo vencível ou inescusável, isto é, Jonas atirou em Frederico acreditando estar agindo em legítima defesa de terceiros (legítima defesa putativa ou descriminante putativa). Por isso, Jonas deve responder por homicídio culposo, na forma do Art. 20, § 1º, do Código Penal.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. Jonas agiu em erro de tipo permissivo ou em legítima defesa putativa ou descriminante putativa (0,40), o que impõe a desclassificação da imputação para o delito de homicídio culposo, (ou) por se tratar de erro inescusável ou vencível (0,15), na forma do Art. 20, § 1º, do CP (0,10). | 0,00/0,15/0,25/0,40/ 0,50/0,55/0,65 |\n\nA questão exige do(a) examinando(a) conhecimentos sobre teoria do delito, mais precisamente, erro de tipo permissivo e relação de causalidade.\nB) Não há nexo de causalidade entre o atuar de Jonas e a morte da criança. A criança faleceu em decorrência de circunstância totalmente independente da conduta de Jonas, não podendo este, de acordo com a teoria da causalidade adequada, adotada pelo Art. 13 do Código Penal, ser responsabilizado pelo ataque do cachorro às crianças.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B. De acordo com a teoria da causalidade adequada, não há nexo de causalidade entre o falecimento da criança e a conduta de Jonas, pois a mor. te da criança decorreu de circunstância independente (0,50), nos termos do Art. 13 do CP (0,10). | 0,00/0,50/0,60 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "jonas agiu em erro de tipo permissivo ou em legítima defesa putativa ou descriminante putativa",
+              "peso": 0.4
+            },
+            {
+              "tipo": "semantico",
+              "referencia": "por se tratar de erro inescusável ou vencível",
+              "peso": 0.15
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 20"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "de acordo com a teoria da causalidade adequada, não há nexo de causalidade entre o falecimento da criança e a conduta de jonas, pois a mor. te da criança decorreu de circunstância independente",
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 13"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "integracao_temas",
+          "doutrina",
+          "caso_pratico",
+          "multiplos_artigos"
+        ],
+        "escala": 4,
+        "nivel": "muito_dificil"
+      },
+      "especialidade": {
+        "tema": "Descriminantes Putativas e Nexo de Causalidade.",
+        "disciplina": "Direito Penal",
+        "assunto": "Teoria do Crime"
+      },
+      "legislacao": {
+        "norma": "Código Penal",
+        "url": "https://www.google.com/url?sa=E&q=http%3A%2F%2Fwww.planalto.gov.br%2Fccivil_03%2Fdecreto-lei%2Fdel2848compilado.htm",
+        "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+        "artigos": [],
+        "lei": "Lei nº 2.848/1940)."
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T18:41:24.102Z"
+    },
+    "metadados": {
+      "numero_questao_sequencial": 107,
+      "id_exame": "42",
+      "ano_exame": null,
+      "numero_questao_exame": 1,
+      "dataset": "J1"
+    }
+  },
+  {
+    "id": "42_direito_penal_questao_2",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "2\nRui, 20 anos, inconformado com o término do relacionamento com Vânia, também com 20 anos, divulgou fotos da ex-companheira nua. Em razão disso, foi denunciado e, depois do regular processamento da ação penal, foi condenado, nos termos do Art. 218-C, § 1º, do CP, à pena de um ano e quatro meses de reclusão, substituída por duas restritivas de direitos, consistentes em prestação pecuniária e multa.\nO Ministério Público foi intimado da condenação, não tendo apresentado o recurso cabível no prazo legal. Vânia e seu(ua) advogado(a) foram intimados da sentença, porém, até o momento, Vânia não havia se habilitado como assistente de acusação, ainda que não concorde com as penas substitutivas aplicadas.\nComo advogado(a) de Vânia, responda às questões a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) Qual a tese de Direito Penal a ser sustentada para a reforma da sentença condenatória? Justifique. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) Qual o recurso a ser interposto pela vítima e qual o prazo de interposição? Justifique, identificando o início da contagem do prazo. (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão exige do(a) examinando(a) conhecimentos sobre a Lei nº 11.340/2006 e sobre recursos em processo penal. A) Em relação ao Direito Penal aplicável, era essencial que o(a) examinando(a) identificasse que há, entre Rui e Vânia, uma relação íntima de afeto, ainda que já encerrada, o que atrai a incidência da lei de violência doméstica e familiar contra a mulher, de forma a ser inviável a aplicação isolada de pena pecuniária, nos termos do Art. 17 da Lei nº 11.340/2006.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. Inviabilidade de aplicação isolada de pena pecuniária no âmbito da Lei de Violência Doméstica e Familiar contra a Mulher (0,50), nos termos do Art. 17 da Lei nº 11.340/2006 (0,10). | 0,00/0,50/0,60 |\n\nA questão exige do(a) examinando(a) conhecimentos sobre a Lei nº 11.340/2006 e sobre recursos em processo penal. B) Apelação supletiva, no prazo de 15 (quinze) dias após o transcurso do prazo recursal do MP, nos termos do Art. 598 do CPP ou Súmula 448, do STF.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B1. Apelação supletiva (0,20), nos termos do Art. 598 do CPP ou Súmula 448, do STF (0,10). | 0,00/0,20/0,30 |\n| B2. No prazo de 15 dias (0,15) após o transcurso do prazo recursal do MP (0,20). | 0,00/0,15/0,20/0,35 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 17"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B1",
+          "secao": "---",
+          "peso_total": 0.3,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "apelação supletiva",
+              "peso": 0.2
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 598",
+                "sumula 598",
+                "sumula 448"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "secao": "---",
+          "peso_total": 0.35,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "no prazo de 15 dias",
+              "peso": 0.15
+            },
+            {
+              "tipo": "semantico",
+              "referencia": "após o transcurso do prazo recursal do mp",
+              "peso": 0.2
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "nivel": "dificil",
+        "escala": 3,
+        "criterios": [
+          "integracao_temas",
+          "caso_pratico",
+          "multiplos_artigos",
+          "sumula"
+        ]
+      },
+      "especialidade": {
+        "tema": "Lei Maria da Penha e Apelação do Assistente não habilitado",
+        "disciplina": "Direito Penal",
+        "assunto": "Crimes contra a Dignidade Sexual / Recursos"
+      },
+      "legislacao": {
+        "norma": "Lei 11.340/06, CP e CPP",
+        "url": "",
+        "urn": "",
+        "artigos": [],
+        "lei": "Art. 17 (LMP) e Art. 598 (CPP)"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T18:46:10.531Z"
+    },
+    "metadados": {
+      "numero_questao_sequencial": 108,
+      "id_exame": "42",
+      "ano_exame": null,
+      "numero_questao_exame": 2,
+      "dataset": "J1"
+    }
+  },
+  {
+    "id": "42_direito_penal_questao_3",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "3\nDouglas foi denunciado pela prática do delito de trânsito de participação em corrida do tipo \"racha\" (Art. 308 da Lei nº 9.503/1997 - CTB) e por falsa identidade (Art. 307 do CP). A denúncia foi recebida no dia 10/02/2020. Em razão da pandemia do Coronavírus-19, os autos ficaram paralisados aguardando a retomada da pauta de audiências presenciais do Juízo, o que somente aconteceu em 2022. Assim, em 10/10/2023, Douglas foi condenado como incurso nas penas do Art. 308 do CTB e absolvido em relação ao delito do Art. 307 do Código Penal, por falta de provas.\nApenas o Ministério Público interpôs tempestiva apelação, postulando a condenação de Douglas pelo delito de falsa identidade. Por maioria, o Tribunal de Justiça denegou o recurso de apelação, mantendo na íntegra a sentença recorrida, o que motivou a oposição de embargos infringentes por parte do Ministério Público.\nComo advogado(a) de Douglas, você foi intimado, no dia 10/09/2024, para apresentar suas contrarrazões. Assim, com base nos dados do enunciado, responda às questões a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) Qual a tese de extinção da punibilidade que, neste momento, pode ser deduzida por Douglas? Fundamente, identificando sobre qual fato recai. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) Indique a tese processual que deve ser arguida em face do recurso oposto pelo MP. Justifique. (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão exige do(a) examinando(a) conhecimentos sobre prescrição e recursos.\nA) Item anulado.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. Item anulado. | 0,00/0,60 |\n\nA questão exige do(a) examinando(a) conhecimentos sobre prescrição e recursos.\nB) O recurso de embargos infringentes é inadmissível, porquanto exclusivo em favor da defesa, nos termos do Art. 609, parágrafo único, do CPP.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B. O recurso de embargos infringentes é inadmissível, porquanto exclusivo em favor da defesa (0,55), nos termos do Art. 609, parágrafo único, do CPP (0,10). | 0,00/0,55/0,65 |",
+      "criterios": [
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "o recurso de embargos infringentes é inadmissível, porquanto exclusivo em favor da defesa",
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 609"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "caso_pratico",
+          "multiplos_artigos",
+          "jurisprudencia",
+          "excecao",
+          "integracao_temas"
+        ],
+        "nivel": "muito_dificil",
+        "escala": 4
+      },
+      "especialidade": {
+        "disciplina": "Direito Penal",
+        "assunto": "Prescrição e Recursos",
+        "tema": "Prescrição da pretensão punitiva intercorrente e tese defensiva em recurso do MP"
+      },
+      "legislacao": {
+        "url": "urn:lex:br:federal:decreto.lei:1941-10-03;3689",
+        "norma": "Código Penal",
+        "urn": "urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+        "lei": "Código de Processo Penal",
+        "artigos": []
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T18:56:14.422Z"
+    },
+    "metadados": {
+      "ano_exame": null,
+      "numero_questao_sequencial": 109,
+      "id_exame": "42",
+      "dataset": "J1",
+      "numero_questao_exame": 3
+    }
+  },
+  {
+    "id": "42_direito_penal_questao_4",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "4\nThiago cumpria pena em regime semiaberto quando preencheu os requisitos objetivos para progredir ao regime aberto, tendo formulado o requerimento respectivo.\nO Juiz, ao apreciar o pedido, condicionou a efetiva progressão à existência de vaga em casa de albergado, que, no momento, encontrava-se lotada, devendo o condenado aguardar na unidade de semiaberto.\nThiago interpôs agravo em execução, de forma que o Juiz reconsiderou a decisão anterior e permitiu que Thiago cumprisse o restante da pena em albergue domiciliar, desde que se comprometesse à prestação de serviços à comunidade como condição especial do regime aberto, na forma do Art. 113 da LEP.\nComo advogado(a) de Thiago, responda às questões a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "A) A inexistência de vaga no regime mais brando pode impedir a progressão de regime? Justifique. (Valor: 0,65)"
+      },
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "B) É cabível a imposição de prestação de serviços à comunidade como condição especial do regime aberto? Justifique. (Valor: 0,60)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão exige do examinando conhecimentos sobre execução penal.\nA) Não. A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, nos termos da Súmula Vinculante 56.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. Não. A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso (0,55), nos termos da Súmula Vinculante 56 (0,10). | 0,00/0,55/0,65 |\n\nA questão exige do examinando conhecimentos sobre execução penal.\nB) Não. É inadmissível a fixação de pena substitutiva como condição especial ao regime aberto, nos termos do enunciado 493 da Súmula da Jurisprudência do Superior Tribunal de Justiça.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B. Não. É inadmissível a fixação de pena substitutiva como condição especial ao regime aberto (0,50), nos termos do enunciado 493 da Súmula da Jurisprudência do Superior Tribunal de Justiça (0,10). | 0,00/0,50/0,60 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "não. a falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso",
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "sumula 56"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "não. é inadmissível a fixação de pena substitutiva como condição especial ao regime aberto",
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "sumula 493"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "escala": 4,
+        "nivel": "muito_dificil",
+        "criterios": [
+          "caso_pratico",
+          "multiplos_artigos",
+          "integracao_temas",
+          "excecao",
+          "sumula",
+          "jurisprudencia",
+          "alta_ambiguidade"
+        ]
+      },
+      "especialidade": {
+        "assunto": "Execução Penal",
+        "disciplina": "Direito Penal",
+        "tema": "Progressão de regime e cumprimento em regime aberto sem vaga / prisão domiciliar"
+      },
+      "legislacao": {
+        "norma": "Lei de Execução Penal, Código Penal",
+        "url": "http://www.planalto.gov.br/ccivil_03/leis/l7210.htm, http://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm",
+        "urn": "urn:lex:br:federal:lei:1984-07-11;7210, urn:lex:br:federal:decreto.lei:1940-12-07;2848",
+        "artigos": [],
+        "lei": "Lei nº 7.210/1984, Decreto-Lei nº 2.848/1940"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T19:00:56.758Z"
+    },
+    "metadados": {
+      "id_exame": "42",
+      "numero_questao_sequencial": 110,
+      "ano_exame": null,
+      "numero_questao_exame": 4,
+      "dataset": "J1"
+    }
+  },
+  {
+    "id": "42_direito_tributario_peca_profissional",
+    "tipo_questao": "PEÇA PRÁTICO-PROFISSIONAL",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "A sociedade empresária ABC Ltda., com estabelecimento no Município X (sede de comarca de Vara Única), especializada em reciclagem de lixo, foi contratada para prestar serviços de remoção, tratamento e reciclagem de lixo no Município Y, local onde recolheu o Imposto sobre Serviços (ISS) devido naquela operação.\nMeses após, recebeu uma notificação de débito da Secretaria de Fazenda do Município X cobrando o ISS daquele serviço prestado no Município Y, sob a alegação de possuir estabelecimento fixo em seu território. Na notificação, foi aplicada uma multa de 150% do valor do imposto cobrado e a sociedade empresária foi advertida de que, caso não pagasse a dívida no prazo de 30 (trinta) dias, teria o seu estabelecimento interditado.\nA sociedade empresária o(a) contratou, como advogado(a), para defender seus interesses e promover a medida judicial cabível, tendo urgência sobretudo em razão da ameaça de interdição do estabelecimento. Por se tratar de serviço de reciclagem de lixo, a sociedade empresária precisará comprovar o exato local em que o realizou, devendo juntar fotos e requerer prova pericial.\nDiante dos fatos expostos, redija a medida judicial cabível para que seu cliente não tenha que pagar tal tributo e respectiva multa, nem tenha seu estabelecimento interditado, ciente de que será necessária dilação probatória. (Valor: 5,00)\nObs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",
+    "perguntas": [],
+    "pontuacao_total": 5,
+    "gabarito": {
+      "gabarito_completo": "A medida judicial cabível é a ação anulatória, dada a sua natureza desconstitutiva, tendo por objetivo desconstituir lançamento tributário que já está definitivamente constituído reputado ilegal ou irregular pelo contribuinte. Não cabe mandado de segurança, pois o enunciado deixa claro que haverá necessidade de dilação probatória no curso do processo. O objetivo da ação é desconstituir o lançamento referente ao ISS descrito no enunciado, conforme o Art. 38 da Lei nº 6.830/1980.\nA ação deve ser endereçada à Vara Única da Comarca do Município X, ente federado que lavrou o auto de infração e também onde tem sede a empresa, sendo de competência da Justiça Estadual por se tratar de tributo municipal (ISS).\nA autora é a ABC Ltda., enquanto o réu é o Município X, ente federado que está a cobrar indevidamente o tributo.\nOs fatos devem ser descritos brevemente nos termos colocados pelo enunciado.\nNo mérito, o examinando deve ser capaz de identificar que:\n1) O ISS é devido ao Município Y, local da efetiva prestação do serviço de remoção, tratamento e reciclagem de lixo, por expressa exceção prevista no Art. 3º, inciso VI, da LC 116/2003: Art. 3º. \"O serviço considera- se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local: VI - da execução da varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer, no caso dos serviços descritos no subitem 7.09 da lista anexa.\"\n2) A multa de 150%, que ultrapassa o próprio valor do imposto cobrado, ostenta natureza confiscatória, em violação ao Art. 150, inciso IV, da CRFB/88: Art. 150. \"Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: IV - utilizar tributo com efeito de confisco.\"\n3) A ameaça de interdição do estabelecimento constitui sanção política e meio coercitivo indireto ilegal de cobrança de tributos, por impedir o livre exercício da atividade econômica da empresa, conforme a Súmula 70 do STF: \"É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo\" ou Súmula 547 do STF: Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas, despache mercadorias nas alfândegas e exerça suas atividades profissionais.\nConsiderando-se que a sociedade empresária está em vias de ter seu estabelecimento interditado caso não pague a ilegal dívida e respectiva multa, o examinando deve requerer antecipação de tutela (tutela de urgência), demonstrando a existência dos requisitos de fumus boni iuris e periculum in mora, de modo a poder se abster de efetuar qualquer recolhimento a título deste imposto e multa sem que tenha seu estabelecimento interditado, suspendendo-se a exigibilidade do crédito tributário, conforme o Art. 151, inciso V, do CTN.\nNos pedidos, deve o examinado requerer aquilo que tipicamente é previsto no CPC para uma ação anulatória tributária, indicando também o pedido de produção de provas, sobretudo a pericial, além de respeitar as normas de fechamento da peça.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| Endereçamento |  |\n| 1. Juízo: Vara Única da Comarca do Município X (0,10). | 0,00/0,10 |\n| 2. Autora: ABC Ltda. (0,10); réu: Município X (0,10). | 0,00/0,10/0,20 |\n| 3. Cabimento da ação anulatória: o crédito tributário já foi definitivamente constituído pelo lançamento, tendo inclusive sido o debito notificado ao contribuinte, sendo necessário desconstituir o lançamento por meio de uma ação anulatória (0,40), nos termos do Art. 38 da Lei nº 6.830/1980 (0,10). | 0,00/0,40/0,50 |\n| 4. Breve descrição dos fatos (0,10). | 0,00/0,10 |\n| Fundamentos |  |\n| 5. O ISS é devido ao Município Y, local da efetiva prestação do serviço de remoção, tratamento e reciclagem de lixo (0,60), por expressa exceção prevista no Art. 3º, inciso VI, da LC 116/2003 (0,10). | 0,00/0,60/0,70 |\n| 6. A multa de 150%, que ultrapassa o próprio valor do imposto cobrado, ostenta natureza confiscatória (0,60), em violação ao Art. 150, inciso IV, da CRFB/88 (0,10). | 0,00/0,60/0,70 |\n| 7. A ameaça de interdição do estabelecimento constitui sanção política e meio coercitivo indireto ilegal de cobrança de tributos, por impedir o livre exercício da atividade econômica da empresa (0,60), nos termos da Súmula 70 ou da Súmula 547, ambas do STF (0,10). | 0,00/0,60/0,70 |\n| Tutela provisória de urgência |  |\n| 8. Probabilidade do direito (fumus boni iuris) (0,25). | 0,00/0,25 |\n| 9. Perigo de dano ou risco ao resultado útil do processo (periculum in mora), em razão de que a empresa está em vias de ter seu estabelecimento interditado (0,25). | 0,00/0,25 |\n| Pedidos |  |\n| 10. Citação do réu (0,10). | 0,00/0,10 |\n| 11. Seja concedida a tutela provisória de urgência, suspendendo-se a interdição do estabelecimento (0,10) e a exigibilidade do crédito tributário (0,10) com base no Art. 151, inciso V, do CTN (0,10). | 0,00/0,10/ 0,20/0,30 |\n| 12. Seja julgada procedente a ação, para desconstituir o lançamento tributário referente ao imposto e sua respectiva multa (0,40). | 0,00/0,40 |\n| 13. Opção pela não realização de audiência de conciliação ou de mediação (0,10), nos termos do Art. 319, inciso VII, do CPC (0,10) ou indicação do não cabimento de conciliação (0,10), nos termos do Art. 334, § 4º, inciso II, do CPC (0,10). | 0,00/0,10/0,20 |\n| 14. Indicação das provas a serem produzidas (0,10), sobretudo a prova pericial (0,10). | 0,00/0,10/0,20 |\n| 15. Condenação ao ressarcimento de custas e honorários advocatícios (0,10). | 0,00/0,10 |\n| Fechamento |  |\n| 16. Valor da causa (0,10). | 0,00/0,10 |\n| 17. Data, local, advogado e OAB ... (0,10). | 0,00/0,10 |",
+      "criterios": [
+        {
+          "id": "1",
+          "secao": "Endereçamento",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "juízo: vara única da comarca do município x",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "secao": "Endereçamento",
+          "peso_total": 0.2,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "autora: abc ltda.",
+              "peso": 0.1
+            },
+            {
+              "tipo": "semantico",
+              "referencia": "; réu: município x",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "secao": "Endereçamento",
+          "peso_total": 0.5,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "cabimento da ação anulatória: o crédito tributário já foi definitivamente constituído pelo lançamento, tendo inclusive sido o debito notificado ao contribuinte, sendo necessário desconstituir o lançamento por meio de uma ação anulatória",
+              "peso": 0.4
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 38"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "secao": "Endereçamento",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "breve descrição dos fatos",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "secao": "Fundamentos",
+          "peso_total": 0.7,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "o iss é devido ao município y, local da efetiva prestação do serviço de remoção, tratamento e reciclagem de lixo",
+              "peso": 0.6
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 3"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "secao": "Fundamentos",
+          "peso_total": 0.7,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "a multa de 150%, que ultrapassa o próprio valor do imposto cobrado, ostenta natureza confiscatória",
+              "peso": 0.6
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 150",
+                "inciso iv",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "secao": "Fundamentos",
+          "peso_total": 0.7,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "a ameaça de interdição do estabelecimento constitui sanção política e meio coercitivo indireto ilegal de cobrança de tributos, por impedir o livre exercício da atividade econômica da empresa",
+              "peso": 0.6
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "sumula 70",
+                "sumula 547"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "secao": "Tutela provisória de urgência",
+          "peso_total": 0.25,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "",
+              "peso": 0.25
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "secao": "Tutela provisória de urgência",
+          "peso_total": 0.25,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": ", em razão de que a empresa está em vias de ter seu estabelecimento interditado",
+              "peso": 0.25
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "secao": "Pedidos",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "citação do réu",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "11",
+          "secao": "Pedidos",
+          "peso_total": 0.3,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "seja concedida a tutela provisória de urgência, suspendendo-se a interdição do estabelecimento",
+              "peso": 0.1
+            },
+            {
+              "tipo": "semantico",
+              "referencia": "e a exigibilidade do crédito tributário",
+              "peso": 0.1
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 151",
+                "inciso v"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "secao": "Pedidos",
+          "peso_total": 0.4,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "seja julgada procedente a ação, para desconstituir o lançamento tributário referente ao imposto e sua respectiva multa",
+              "peso": 0.4
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "secao": "Pedidos",
+          "peso_total": 0.4,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "opção pela não realização de audiência de conciliação ou de mediação",
+              "peso": 0.1
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 319",
+                "inciso vii"
+              ],
+              "peso": 0.1
+            },
+            {
+              "tipo": "semantico",
+              "referencia": "ou indicação do não cabimento de conciliação",
+              "peso": 0.1
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 334"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "secao": "Pedidos",
+          "peso_total": 0.2,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "indicação das provas a serem produzidas",
+              "peso": 0.1
+            },
+            {
+              "tipo": "semantico",
+              "referencia": ", sobretudo a prova pericial",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "secao": "Pedidos",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "condenação ao ressarcimento de custas e honorários advocatícios",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "secao": "Fechamento",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "valor da causa",
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "secao": "Fechamento",
+          "peso_total": 0.1,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "data, local, advogado e oab ...",
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "caso_pratico",
+          "caso_complexo",
+          "multiplos_artigos",
+          "excecao",
+          "integracao_temas",
+          "jurisprudencia",
+          "alta_ambiguidade"
+        ],
+        "nivel": "muito_dificil",
+        "escala": 4
+      },
+      "especialidade": {
+        "assunto": "ISS e Competência Tributária",
+        "disciplina": "Direito Tributário",
+        "tema": "Conflito de competência entre municípios e anulação de cobrança indevida de ISS"
+      },
+      "legislacao": {
+        "artigos": [],
+        "lei": "Constituição Federal de 1988, Lei nº 5.172/1966 (CTN), Lei Complementar nº 116/2003",
+        "urn": "urn:lex:br:federal:constituicao:1988-10-05, urn:lex:br:federal:lei:1966-10-25;5172,  urn:lex:br:federal:lei.complementar:2003-07-31;116",
+        "norma": "Constituição Federal, Código Tributário Nacional, Lei Complementar do ISS",
+        "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm, http://www.planalto.gov.br/ccivil_03/leis/l5172.htm, http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T19:07:54.811Z"
+    },
+    "metadados": {
+      "ano_exame": null,
+      "numero_questao_sequencial": 111,
+      "id_exame": "42",
+      "dataset": "J1",
+      "numero_questao_exame": null
+    }
+  },
+  {
+    "id": "42_direito_tributario_questao_1",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "1\nJosé Silva, inconformado com o fato de ter pago, nos últimos dois anos, taxa municipal de combate a incêndios que reputa indevida, protocoliza pedido administrativo de restituição do indébito tributário junto ao Fisco municipal. Contudo, a decisão final na esfera administrativo-tributária lhe é desfavorável, de modo que José decide contratar você, como advogado(a), requerendo que entre com ação anulatória da decisão administrativa que denegou a restituição.\nDiante desse cenário, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar sua resposta. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) Qual o prazo prescricional para propositura dessa ação anulatória da decisão administrativa que denegou a restituição? Fundamente. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) Tem razão Jose em sua insurgencia contra o pagamento dessa taxa municipal de combate de incêndios? Justifique, indicando o fundamento legal. (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A) A ação anulatória da decisão administrativa que denegar a restituição do indébito tributário prescreve em dois anos, cf. o Art. 169, caput, do CTN.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| A. A ação anulatória da decisão administrativa que denegar a restituição do indébito tributário prescreve em dois anos (0,50), conforme o Art. 169, caput, do CTN (0,10). | 0,00/0,50/0,60 |\n\nB) Sim, tem razão. O combate a incêndios é feito pelo Corpo de Bombeiros, um órgão estadual, não tendo o município competência para instituir taxa sobre atividade realizada por outro ente federado fora do âmbito das atribuições municipais, conforme o Art. 145, inciso II, da CRFB/88 ou o Art. 77, caput, Art. 77, caput, ou Art. 80, ambos do CTN. No mesmo sentido: STF. RE 643.247 (repercussão geral), Rel. Min. Marco Aurélio, Pleno, julg. 24/05/2017 .\ne/ou\nSim, tem razão. O combate a incêndios é serviço público que não está dotado de especificidade e divisibilidade, razão pela qual não pode ser remunerado mediante a espécie tributária \"taxa\", conforme o Art. 145, inciso II, da CRFB/88 ou Art. 77, caput, do CTN.\nNo mesmo sentido: STF. ADI 2.908, Rel. Min. Cármen Lúcia, Pleno, julg. 11/10/2019: \"A taxa anual de segurança contra incêndio tem como fato gerador a prestação de atividade essencial geral e indivisível pelo corpo de bombeiros, sendo de utilidade genérica, devendo ser custeada pela receita dos impostos.\" No mesmo sentido: STF. ADI 4.411, Rel. Min. Marco Aurélio, Pleno, julg. 18/08/2020.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| B. Sim. O combate a incêndios é feito pelo Corpo de Bombeiros, um órgão estadual, não tendo o município competência para instituir taxa sobre atividade realizada por outro ente federado fora do âmbito das atribuições municipais (0,55), segundo o Art. 145, inciso II, da CRFB/88 ou Art. 77, caput, ou Art. 80, ambos do CTN (0,10). ou Sim. O combate a incêndio é serviço público que não está dotado de especificidade e divisibilidade, razão pela qual não pode ser remunerado mediante a espécie tributária &quot;taxa&quot; (0,55), segundo o Art. 145, inciso II, da CRFB/88 ou o Art. 77, caput, do CTN (0,10). | 0,00/0,55/0,65 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "a ação anulatória da decisão administrativa que denegar a restituição do indébito tributário prescreve em dois anos",
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 169"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 1.3,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "sim. o combate a incêndios é feito pelo corpo de bombeiros, um órgão estadual, não tendo o município competência para instituir taxa sobre atividade realizada por outro ente federado fora do âmbito das atribuições municipais",
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 145",
+                "inciso ii",
+                "art 77",
+                "art 80",
+                "crfb"
+              ],
+              "peso": 0.1
+            },
+            {
+              "tipo": "semantico",
+              "referencia": ". ou sim. o combate a incêndio é serviço público que não está dotado de especificidade e divisibilidade, razão pela qual não pode ser remunerado mediante a espécie tributária &quot;taxa&quot;",
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 145",
+                "inciso ii",
+                "art 77",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "nivel": "dificil",
+        "escala": 3,
+        "criterios": [
+          "caso_pratico",
+          "jurisprudencia",
+          "interpretacao_simples"
+        ]
+      },
+      "especialidade": {
+        "tema": "Fixação da pena",
+        "disciplina": "Direito Penal",
+        "assunto": "Dosimetria da pena"
+      },
+      "legislacao": {
+        "url": "",
+        "norma": "Código Penal",
+        "urn": "",
+        "lei": "Art. 59 CP",
+        "artigos": []
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T22:04:15.215Z"
+    },
+    "metadados": {
+      "numero_questao_exame": 1,
+      "dataset": "J1",
+      "numero_questao_sequencial": 112,
+      "id_exame": "42",
+      "ano_exame": null
+    }
+  },
+  {
+    "id": "42_direito_tributario_questao_2",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "2\nLei Ordinária Municipal nº XXX, de 1º de outubro de 2022, alterou todas as alíquotas do Imposto sobre Serviços (ISS) previstas na Lei Complementar Municipal nº YYY/2015, majorando-as de 2% para 5%.\nA Barbearia Júpiter Ltda. foi autuada em janeiro de 2023, por diferenças nos valores recolhidos de Imposto sobre Serviços (ISS) dos anos de 2019 a 2021, pela aplicação da nova alíquota de 5%, tendo o auditor fiscal consignado expressamente que teria adotado as alíquotas da nova lei, uma vez que seria a norma vigente no momento da lavratura do auto de infração, inclusive citando o brocardo latino \"tempus regit actum\".\nInconformada com essa cobrança, a barbearia contrata você, como advogado(a), para defender seus interesses. Diante desse cenário, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "A) O auditor fiscal agiu corretamente ao aplicar a alíquota majorada, prevista na nova lei, na lavratura do auto de infração, cobrando a diferença do Imposto sobre Serviços (ISS)? Justifique. (Valor: 0,65)"
+      },
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "B) A nova lei ordinária municipal poderia alterar tal alíquota de ISS para 5%? Justifique. (Valor: 0,60)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A) Não. O auditor fiscal não agiu corretamente, pois o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada, segundo o Art. 144 ou Art. 105 ambos do CTN, ou o Art. 150, inciso III, alínea a, da CRFB/88.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| A. Não, pois o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada (0,55), com base no Art. 144 ou Art. 105 ambos do CTN, ou no Art. 150, inciso III, alínea a, da CRFB/88 (0,10). | 0,00/0,55/0,65 |\n\nB) Sim, pois a nova lei ordinária municipal observou a alíquota máxima de ISS de 5%, prevista no Art. 8º, inciso II, da LC nº 116/2003.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| B. Sim, pois a nova lei ordinária municipal observou a alíquota máxima de ISS de 5% (0,50), prevista no Art. 8º, inciso II, da LC nº 116/2003 (0,10). | 0,00/0,50/0,60 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 144",
+                "art 105",
+                "art 150",
+                "inciso iii",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 8"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "escala": 4,
+        "nivel": "muito_dificil",
+        "criterios": [
+          "caso_pratico",
+          "multiplos_artigos",
+          "jurisprudencia",
+          "integracao_temas"
+        ]
+      },
+      "especialidade": {
+        "assunto": "Recursos",
+        "disciplina": "Direito Penal",
+        "tema": "Cabimento e efeitos recursais"
+      },
+      "legislacao": {
+        "norma": "CPP",
+        "url": "",
+        "urn": "",
+        "artigos": [],
+        "lei": ""
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T22:06:10.680Z"
+    },
+    "metadados": {
+      "ano_exame": null,
+      "id_exame": "42",
+      "numero_questao_sequencial": 113,
+      "dataset": "J1",
+      "numero_questao_exame": 2
+    }
+  },
+  {
+    "id": "42_direito_tributario_questao_3",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "3\nO Estado Alfa editou uma nova lei sobre IPVA, alterando as alíquotas originalmente estabelecidas desse tributo, de maneira a fixar duas alíquotas diferenciadas (4% e 2%) em razão do uso do automóvel como carro de passeio e como táxi, respectivamente. A mesma lei estabeleceu também uma alíquota majorada de 10% em relação àquela incidente sobre os automóveis nacionais, caso o automóvel seja importado.\nDiante desse cenário, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) É válida a adoção de alíquotas diferenciadas de IPVA em razão do uso do automóvel como carro de passeio e como táxi? Justifique. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) É válida a alíquota diferenciada para automóveis importados? Justifique. (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A) Sim. A adoção de alíquotas diferenciadas em função do uso do automóvel como carro de passeio e como táxi é válida, pois o IPVA é tributo autorizado a ter alíquotas diferenciadas em função do tipo e da utilização do automóvel, cf. Art. 155, § 6º, inciso II, da CRFB/88.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| A. Sim. O IPVA é tributo autorizado a ter alíquotas diferenciadas em função do tipo e da utilização do automóvel (0,50), cf. Art. 155, § 6º, inciso II, da CRFB/88 (0,10). | 0,00/0,50/0,60 |\n\nB) Não é válida. É vedado aos Estados estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino, conforme o Art. 152 da CRFB/88. Assim, o simples fato de o veículo ser de procedência estrangeira não autoriza tal diferenciação na alíquota tributária de IPVA.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| B. Não. É vedado aos Estados estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino (0,55), conforme o Art. 152 da CRFB/88 (0,10). | 0,00/0,55/0,65 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "sim. o ipva é tributo autorizado a ter alíquotas diferenciadas em função do tipo e da utilização do automóvel",
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 155",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "não. é vedado aos estados estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino",
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 152",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "escala": 3,
+        "nivel": "dificil",
+        "criterios": [
+          "caso_pratico",
+          "interpretacao_simples"
+        ]
+      },
+      "especialidade": {
+        "assunto": "Provas",
+        "disciplina": "Direito Penal",
+        "tema": "Produção de prova"
+      },
+      "legislacao": {
+        "norma": "Código de Processo Penal",
+        "url": "http://www.planalto.gov.br/ccivil_03/decreto-lei/del3689compilado.htm",
+        "artigos": [],
+        "lei": "Decreto-Lei nº 3.689/1941",
+        "urn": "urn:lex:br:federal:decreto.lei:1941-10-03;3689"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T22:09:44.448Z"
+    },
+    "metadados": {
+      "dataset": "J1",
+      "numero_questao_exame": 3,
+      "ano_exame": null,
+      "id_exame": "42",
+      "numero_questao_sequencial": 114
+    }
+  },
+  {
+    "id": "42_direito_tributario_questao_4",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "4\nUm projeto de lei estadual de iniciativa do Tribunal de Justiça do Estado Alfa pretende alterar a divisão das comarcas judiciais nesse ente federado. Além dessa alteração, em um de seus artigos, foi prevista a instituição de uma nova isenção da taxa judiciária. Foi apresentada a estimativa do impacto financeiro e orçamentário referente à concessão da nova isenção.\nNo momento em que cabia ao Governador sancionar o projeto de lei, na parte referente à isenção, houve veto, sob dois argumentos: i) a lei isentiva tributária estava mesclada com tema de organização judiciária; ii) foi violada a reserva de iniciativa para leis em matéria tributária, que seria do Chefe do Executivo, por aplicação do princípio da simetria quanto ao Presidente da República, conforme o Art. 61, §1º, inciso II, alínea b, da CRFB/88.\nDiante desse cenário, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar sua resposta. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) Tem razão o Governador em seu argumento de que não poderia haver mescla de lei isentiva tributária com tema de organização judiciária? Justifique. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) Tem razão o Governador em seu argumento de que foi violada a reserva de iniciativa em matéria tributária, que seria do Chefe do Executivo por aplicação do princípio da simetria quanto ao Presidente da República? Justifique (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A) Sim. Para a concessão da isenção tributária sobre a taxa judiciária, deve-se seguir o princípio da legalidade específica previsto no Art. 150, § 6º, da CRFB/88, in verbis: § 6º Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no Art. 155, § 2º, inciso XII, alínea g.\nPortanto, seria necessária uma lei específica que regulasse exclusivamente a isenção ou o correspondente tributo (taxa judiciária). O uso de uma lei que altera a divisão das comarcas e que também trata da isenção de um tributo viola o Art. 150, § 6º, da CRFB/88.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| A. Sim. É necessária uma lei específica para regular exclusivamente tal isenção ou o correspondente tributo (taxa judiciária). O uso de uma lei que trata ao mesmo tempo de organização judicial e de isenção tributária (0,50) viola o Art. 150, §6º, da CRFB/88 (0,10). | 0,00/0,50/0,60 |\n\nB) Não. Não existe reserva de iniciativa para leis em matéria tributária ao chefe do Executivo. O Presidente da República, conforme o Art. 61, §1º, inciso II, alínea b, da CRFB/88, detém reserva de iniciativa para leis em matéria tributária apenas em relação aos Territórios Federais.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n| --- | --- |\n| B. Não. Não existe reserva de iniciativa para leis em matéria tributária ao chefe do Executivo (0,35). O Presidente da República, conforme o Art. 61, §1º, inciso II, alínea b, da CRFB/88, detém reserva de iniciativa para leis em matéria tributária apenas em relação aos Territórios Federais (0,30). | 0,00/0,30/0,35 0,65 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 150",
+                "crfb"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.35
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 61",
+                "crfb"
+              ],
+              "peso": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "escala": 4,
+        "nivel": "muito_dificil",
+        "criterios": [
+          "caso_pratico",
+          "multiplos_artigos",
+          "integracao_temas",
+          "jurisprudencia"
+        ]
+      },
+      "especialidade": {
+        "disciplina": "Direito Tributário",
+        "assunto": "Competência tributária",
+        "tema": "ISS e conflito entre municípios"
+      },
+      "legislacao": {
+        "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm, http://www.planalto.gov.br/ccivil_03/leis/l5172.htm, http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp116.htm",
+        "norma": "Constituição Federal, Código, Lei Complementar do ISS Tributário Nacional, ",
+        "urn": "urn:lex:br:federal:constituicao:1988-10-05 , urn:lex:br:federal:lei:1966-10-25;5172, urn:lex:br:federal:lei.complementar:2003-07-31;116",
+        "lei": "CF/1988, Lei nº 5.172/1966, LC nº 116/2003",
+        "artigos": []
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-03-30T22:13:40.627Z"
+    },
+    "metadados": {
+      "numero_questao_exame": 4,
+      "dataset": "J1",
+      "numero_questao_sequencial": 115,
+      "id_exame": "42",
+      "ano_exame": null
+    }
+  },
+  {
+    "id": "42_direito_empresarial_peca_profissional",
+    "tipo_questao": "PEÇA PRÁTICO-PROFISSIONAL",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "A companhia fechada Comercial e Exportadora Três Pontas S.A., cujo objeto é a exportação de café de alta qualidade, passa por grave crise financeira em razão da pandemia de 2020 e de 2021, além dos efeitos de forte geada na região sul de Minas Gerais, em 2022, que afetou as plantações de café, diminuindo sensivelmente a safra, sobretudo em cafés de alta qualidade. A sociedade foi regularmente constituída em 1970 e tem sua sede e seu único estabelecimento em Caxambu, MG.\nO balanço patrimonial do ano de 2020 já acusava um prejuízo líquido de R$ 2.000.000,00 (dois milhões de reais), que aumentou para R$ 6.000.000,00 (seis milhões de reais) e para R$ 14.000.000,00 (catorze milhões de reais). Atualmente, o valor total do passivo que precisa ser renegociado e novado é de R$ 17.000.000,00 (dezessete milhões de reais). Existem demandas trabalhistas provenientes de rescisões de contratos de trabalho que comprometem o fluxo de caixa, e a sociedade está há cinco meses sem Certidão Negativa de Débito (CND) por não ter condição de renová-la.\nAs receitas da companhia vinham crescendo e seu fluxo de caixa era positivo até o primeiro semestre de 2020. A partir de então, o volume de receita com as exportações caiu mais de 80%, mas vinha se recuperando lentamente. Todavia, com a geada de 2022, voltou a cair. A receita atual é apenas de 45% do que era em 2019.\nMesmo com cortes no número de empregados, redução salarial, férias coletivas e alienação de um imóvel para obter recursos para pagar credores, a situação está longe de se normalizar. O acionista controlador investiu R$ 2.000.000,00 (dois milhões de reais) no segundo semestre de 2022, mas esse valor é de longa recuperação, pois depende da atividade da sociedade. Contudo, existe perspectiva de melhora a médio prazo em razão da alta do preço da commodity no mercado internacional e da volta de alguns clientes internacionais da União Europeia.\nVocê, como advogado(a), é procurado(a) pelo Diretor-Presidente e representante legal, Dr. Caldas Botelho, que lhe pede o ajuizamento de medida para superar a crise por que passa a devedora, permitindo seu saneamento e, sobretudo, afastar a possibilidade de decretação de falência.\nA sociedade já sofreu dois pedidos de falência, que puderam ser afastados com depósito elisivo, mas não se sabe até quando ela terá êxito em casos futuros.\nO Dr. Caldas Botelho informou também que a companhia já aprovou a medida em Assembleia Geral extraordinária, conforme documento que lhe entregou.\nConsiderando que a Comarca de Caxambu, MG, é de vara única, elabore a peça processual adequada. (Valor: 5.00)\nObs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.",
+    "perguntas": [],
+    "pontuacao_total": 5,
+    "gabarito": {
+      "gabarito_completo": "A peça processual adequada é a petição inicial ou requerimento de recuperação judicial, que tem seu fundamento no Art. 48, caput, da Lei nº 11.101/2005.\nNa elaboração da peça, o examinando deverá observar, no que couber, o conteúdo do Art. 319 do CPC (requisitos da petição inicial) por força do Art. 189 da Lei nº 11.101/2005. Ademais, os requisitos formais do Art. 48 da Lei nº 11.101/2005 devem ser apontados no decorrer da peça, com referência expressa à exposição de motivos, prevista no Art. 51, inciso I, da Lei nº 11.101/2005, e os outros documentos exigidos nos incisos II a XI desse artigo, que devem ser todos nominados de per si.\nA correta instrução da petição inicial da ação de recuperação judicial é condição para o deferimento do seu processamento, nos termos do Art. 52, caput, da Lei nº 11.101/2005. A simples menção genérica a \"documentos em anexo\" ou aos incisos do Art. 51 da Lei nº 11.101/2005 não confere pontuação.\nA estrutura a ser observada na peça é a seguinte:\nI- Endereçamento: Ao Juízo da Comarca de Vara Única de Caxambu, MG, com base nas informações do enunciado e no Art. 3º da Lei nº 11.101/2005.\nII- Qualificação da requerente: Comercial e Exportadora Três Pontas S.A., representada pelo seu Diretor-Presidente Sr. Caldas Botelho etc.\nIII- Fundamentos jurídicos:\nA petição deverá adotar como fundamentos jurídicos os requisitos subjetivos e objetivos do Art. 48, caput, da Lei nº\n11.101/2005, além de indicar que já houve a aprovação do pedido pela Assembleia Geral da companhia.\na) a devedora é uma sociedade empresária que exerce suas atividades regularmente há mais de dois anos (ou desde 1970), podendo requerer recuperação judicial de acordo com o Art. 48, caput, da Lei nº 11.101/2005;\nb) a sociedade não está falida;\nc) a sociedade não obteve concessão de recuperação judicial há menos de cinco anos (ou nunca requereu tal medida); d) nem o acionista controlador nem qualquer dos administradores foram condenados pelos crimes previstos na Lei nº 11.101/2005;\ne) houve aprovação prévia do pedido de recuperação judicial pela Assembleia Geral de acionistas, em cumprimento ao Art. 122, inciso IX, da Lei nº 6.404/1976.\nIV- Exposição das causas concretas da situação patrimonial da sociedade e das razões da crise econômico-financeira, por exigência do Art. 51, inciso I, da Lei nº 11.101/2005.\nV- Menção aos demais documentos a serem anexados à petição inicial, exigidos no Art. 51 da Lei nº 11.101/2005 e à ata da Assembleia Geral que aprovou a medida, de forma expressa e individualizada, a saber:\na) demonstrações contábeis relativas aos três últimos exercícios sociais e as levantadas para instruir o pedido;\nb) relação nominal completa de todos os credores;\nc) relação integral dos empregados;\nd) Certidão da Junta Comercial comprovando a regularidade e o tempo de exercício da empresa;\ne) estatuto social atualizado;\nf) atas de nomeação dos atuais administradores;\ng) relação dos bens particulares do sócio controlador e dos administradores;\nh) extratos atualizados das contas bancárias da sociedade e de suas aplicações financeiras;\ni) Certidão do Cartório de Protestos da Comarca de Caxambu, MG;\nj) relação das ações judiciais em que a sociedade é parte;\nk) relatório detalhado do passivo fiscal;\nl) relação de bens e direitos integrantes do ativo não circulante;\nm) ata da Assembleia Geral que aprovou o pedido de recuperação judicial.\nVI- Pedidos:\na) deferimento do processamento da recuperação judicial, com base no caput do Art. 52 da Lei nº 11.101/2005 (o simples pedido de procedência não pontua);\nb) nomeação do administrador judicial;\nc) dispensa da apresentação de certidões negativas para que o devedor exerça suas atividades, nos termos do Art. 52, inciso II, da Lei nº 11.101/2005;\nd) suspensão das execuções em face da devedora, nos termos do Art. 52, inciso III, da Lei nº 11.101/2005;\ne) publicação do edital do processamento e da relação de credores, nos termos do Art. 52, § 1º, da Lei nº 11.101/2005; f) concessão da recuperação judicial.\nVII- Valor da causa (Art. 51, § 5º, da Lei nº 11.101/2005): R$ 17.000.000,00 (dezessete milhões de reais).\nVIII- Fechamento da peça: Local ou Município ... , Data ... , Advogado ... , OAB ...\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| I. Endereçamento |  |\n| Ao Juízo de Vara Única da Comarca de Caxambu/MG (0,10) | 0,00/0,10 |\n| II. Qualificação da Requerente: |  |\n| Comercial e Exportadora Três Pontas S.A., representada por seu Diretor-Presidente Caldas Botelho etc. (0,10). | 0,00/0,10 |\n| III. Fundamentos Jurídicos |  |\n| a) a devedora é uma sociedade empresária que exerce suas atividades regulamente há mais de dois anos (ou desde 1970), podendo requerer recuperação judicial (0,30), de acordo com o Art. 48, caput, da Lei nº 11.101/2005 (0,10); | 0,00/0,30/0,40 |\n| b) a sociedade não está falida (0,30); | 0,00/0,30 |\n| c) a sociedade não obteve, há menos de 5 anos, concessão de recuperação judicial (0,30); | 0,00/0,30 |\n| d) nenhum administrador ou acionista controlador foi condenado por qualquer dos crimes previstos na Lei nº 11.101/2005 (0,30); | 0,00/0,30 |\n| e) houve aprovação prévia do pedido de recuperação judicial pela assembleia-geral de acionistas (0,30), em cumprimento ao Art. 122, inciso IX, da Lei nº 6.404/1976 (0,10). | 0,00/0,30/0,40 |\n| IV. Exposição das causas concretas da situação patrimonial da sociedade e das razões da crise econômico-financeira (0,10), com fundamento no Art. 51, inciso I, da Lei nº 11.101/2005 (0,10). | 0,00/0,10/0,20 |\n| V. Menção expressa e individualizada aos documentos a serem anexados à petição inicial |  |\n| a) demonstrações contábeis relativas aos três últimos exercícios sociais e as levantadas para instruir o pedido (0,10); | 0,00/0,10 |\n| b) relação nominal completa de todos os credores (0,10); | 0,00/0,10 |\n| c) relação integral dos empregados (0,10); | 0,00/0,10 |\n| d) Certidão da Junta Comercial comprovando a regularidade e o tempo de exercício da sociedade empresária (0,10); | 0,00/0,10 |\n| e) estatuto social atualizado (0,10); | 0,00/0,10 |\n| f) atas de nomeação dos atuais administradores (0,10); | 0,00/0,10 |\n| g) relação dos bens particulares do sócio controlador e dos administradores (0,10); | 0,00/0,10 |\n| h) extratos atualizados das contas bancárias da sociedade e de suas aplicações financeiras (0,10); | 0,00/0,10 |\n| i) Certidão do Cartório de Protestos da Comarca de Caxambu, MG (0,10); | 0,00/0,10 |\n| j) relação das ações judiciais em que a sociedade é parte (0,10); | 0,00/0,10 |\n| k) relatório detalhado do passivo fiscal (0,10); | 0,00/0,10 |\n| l) relação de bens e direitos integrantes do ativo não circulante (0,10); | 0,00/0,10 |\n| m) ata da Assembleia Geral que aprovou o pedido de recuperação judicial (0,10). | 0,00/0,10 |\n| VI. Dos Pedidos |  |\n| a) deferimento do processamento da recuperação judicial (0,20), com base no Art. 52, caput, da Lei nº 11.101/2005 (0,10); | 0,00/0,20/0,30 |\n| b) nomeação do administrador judicial (0,20); | 0,00/0,20 |\n| c) dispensa da apresentação de Certidões Negativas para que o devedor exerça suas atividades (0,20); | 0,00/0,20 |\n| d) suspensão das ações e execuções em face do devedor (0,20); | 0,00/0,20 |\n| e) publicação do edital do processamento e da relação de credores (0,20); | 0,00/0,20 |\n| f) concessão da recuperação judicial (0,20). | 0,00/0,20 |\n| VII. Valor da causa |  |\n| R$ 17.000.000,00 (dezessete milhões de reais) (0,10), segundo o Art. 51, § 5º, da Lei nº 11.101/2005 (0,10). | 0,00/0,20 |\n| VIII. Fechamento |  |\n| Local ou Município ... , Data ... , Advogado ... , OAB ... (0,10). | 0,00/0,10 |\n|  |  |",
+      "criterios": []
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "caso_pratico",
+          "interpretacao_simples"
+        ],
+        "nivel": "dificil",
+        "escala": 3
+      },
+      "especialidade": {
+        "assunto": "Crédito tributário",
+        "disciplina": "Direito Tributário",
+        "tema": "Lançamento e cobrança"
+      },
+      "legislacao": {
+        "norma": "Código Tributário Nacional",
+        "url": "http://www.planalto.gov.br/ccivil_03/leis/l5172.htm",
+        "artigos": [],
+        "lei": "Lei nº 5.172/1966",
+        "urn": "urn:lex:br:federal:lei:1966-10-25;5172"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-04-01T19:50:24.536Z"
+    },
+    "metadados": {
+      "dataset": "J1",
+      "numero_questao_exame": null,
+      "ano_exame": null,
+      "id_exame": "42",
+      "numero_questao_sequencial": 116
+    }
+  },
+  {
+    "id": "42_direito_empresarial_questao_1",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "1\nOs sócios da sociedade limitada Adelândia Bar e Restaurante Ltda. deliberaram por unanimidade a alienação do único estabelecimento, situado na cidade de Trindade, GO.\nApós a alienação, que foi feita sem qualquer notificação prévia aos credores ou sem qualquer pagamento a eles, não restaram no patrimônio da pessoa jurídica bens suficientes para solver o seu passivo.\nDiante da situação narrada, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "A) Qual medida prevista na legislação empresarial poderá ser tomada por qualquer dos credores da sociedade empresária diante da alienação do estabelecimento? Justifique. (Valor: 0,60)"
+      },
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "B) Qual o efeito da deliberação dos sócios no tocante à aprovação da alienação do estabelecimento sobre a responsabilidade de cada um na sociedade? Justifique. (Valor: 0,65)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão tem por objetivo verificar os conhecimentos do(a) examinando(a) sobre as consequências da alienação de estabelecimento de sociedade limitada, autorizada por deliberação dos sócios, em infração à lei, isto é, sem a notificação ou pagamento prévio aos credores. O Art. 1.145 do CC determina que \"se ao alienante (no caso a sociedade Adelândia Bar e Restaurante Ltda.) não restarem bens suficientes para solver o seu passivo, a eficácia da alienação do estabelecimento depende do pagamento de todos os credores, ou do consentimento destes, de modo expresso ou tácito, em trinta dias a partir de sua notificação.\" O ato praticado pela sociedade é considerado \"ato de falência\" e qualquer credor pode requerer a decretação de sua falência. Por se tratar de deliberação infringente da lei - autorizou a alienação sem a notificação/pagamento prévio aos credores - os sócios respondem ilimitadamente perante os credores, como prevê o Art. 1.080 do CC.\nA) A alienação (ou transferência) do estabelecimento sem o consentimento de todos os credores e sem ficar a sociedade com bens suficientes para solver o seu passivo autoriza qualquer credor a requerer a decretação da falência da sociedade, com base no Art. 94, inciso III, alínea c, da Lei nº 11.101/05, OU o credor que se sentir prejudicado poderá pleitear a anulação do negócio jurídico, com fundamento no Art. 159 do CC.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. A alienação (ou transferência) do estabelecimento, sem o consentimento de todos os credores e sem ficar a sociedade com bens suficientes para solver o seu passivo, autoriza qualquer credor a requerer a decretação da falência da sociedade (0,50), com base no Art. 94, inciso III, alínea c, da Lei nº 11.101/05 (0,10) OU o credor que se sentir prejudicado poderá pleitear a anulação do negócio jurídico (0,50), com base no Art. 159 do CC (0,10). | 0,00/0,50/0,60 |\n\nB) Por se tratar de deliberação infringente da lei, torna-se ilimitada a responsabilidade dos sócios perante os credores, de acordo com o Art. 1.080 caput do CC.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B2. Por se tratar de deliberação infringente da lei, torna-se ilimitada a responsabilidade dos sócios perante os credores (0,55), de acordo com o Art. 1.080 caput do CC (0,10). | 0,00/0,55/0,65 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 1.2,
+          "componentes": [
+            {
+              "tipo": "semantico",
+              "referencia": "do estabelecimento, sem o consentimento de todos os credores e sem ficar a sociedade com bens suficientes para solver o seu passivo, autoriza qualquer credor a requerer a decretação da falência da sociedade",
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 94",
+                "inciso iii"
+              ],
+              "peso": 0.1
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 159"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B2",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 1"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "caso_pratico",
+          "interpretacao_simples",
+          "jurisprudencia"
+        ],
+        "escala": 3,
+        "nivel": "dificil"
+      },
+      "especialidade": {
+        "assunto": "Direitos fundamentais",
+        "disciplina": "Direito Constitucional",
+        "tema": "Garantias constitucionais"
+      },
+      "legislacao": {
+        "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+        "norma": "Constituição Federal",
+        "lei": "CF/1988",
+        "artigos": [],
+        "urn": "urn:lex:br:federal:constituicao:1988-10-05"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-04-01T19:52:46.213Z"
+    },
+    "metadados": {
+      "numero_questao_exame": 1,
+      "dataset": "J1",
+      "id_exame": "42",
+      "numero_questao_sequencial": 117,
+      "ano_exame": null
+    }
+  },
+  {
+    "id": "42_direito_empresarial_questao_2",
+    "tipo_questao": "QUESTÃO",
+    "prompt_system": "Você é um bacharel em direito que está realizando a segunda fase da prova da Ordem dos Advogados do Brasil (OAB), organizada pela FGV. Sua tarefa é responder às questões discursivas e elaborar uma peça processual, demonstrando seu conhecimento jurídico, capacidade de raciocínio e habilidade de aplicar a legislação e jurisprudência pertinentes ao caso apresentado.\n\n# ATENÇÃO\n\nNa elaboração dos textos da peça prático-profissional e das respostas às questões discursivas, você deverá incluir todos os dados que se façam necessários, sem, contudo, produzir qualquer identificação ou informações além daquelas fornecidas e permitidas nos enunciados contidos no caderno de prova. A omissão de dados que forem legalmente exigidos ou necessários para a correta solução do problema proposto acarretará em descontos na pontuação atribuída a você nesta fase. Você deve estar atento para não gerar nenhum dado diferente que dê origem a uma marca identificadora.\n\nA detecção de qualquer marca identificadora no espaço destinado à transcrição dos textos definitivos acarretará a anulação da prova prático-profissional e a eliminação de você. Assim, por exemplo, no fechamento da peça, você deve optar por utilizar apenas “reticências” ou “XXX”, ou seja: data “...” ou Data “XXX”, local “...” ou Local “XXX”, Advogado “...” ou Advogado “XXX”, inscrição OAB “...” ou Inscrição OAB “XXX”, destacando-se que, no corpo das respostas, você não deverá criar nenhum dado gerador de marca de identificação.\n\n# OBSERVAÇÔES\n\nPEÇA PRÁTICO-PROFISSIONAL: A peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.\n\nQUESTÃO: Você deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.\n\nA partir de agora, todas as suas respostas comporão o texto definitivo (não o caderno de rascunhos).\n",
+    "questao": "2\nO empresário individual Ubiratã pretendia vender três carros executivos de sua frota e, para tanto, contratou dois corretores com o fito de mediar a venda, ambos sem cláusula de exclusividade.\nO primeiro corretor foi atuante na transmissão das propostas ao cliente e o segundo prestou todos os esclarecimentos acerca da segurança do negócio. Por questões pessoais, a venda mediada pelos corretores não se concretizou diante da desistência de Ubiratã na véspera do dia marcado para a assinatura do contrato.\nCom base nos fatos narrados e nas disposições sobre o contrato de corretagem, excluída a possibilidade de arrependimento do cliente, responda aos itens a seguir.\nObs .: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.",
+    "perguntas": [
+      {
+        "pontuacao_pergunta": 0.65,
+        "texto": "A) Ubiratã deve comissão aos dois corretores? Justifique. (Valor: 0,65)"
+      },
+      {
+        "pontuacao_pergunta": 0.6,
+        "texto": "B) Caso o negócio pretendido por Ubiratã e mediado pelos corretores se concluísse, qual seria a regra para o pagamento da comissão? Justifique. (Valor: 0,60)"
+      }
+    ],
+    "pontuacao_total": 1.25,
+    "gabarito": {
+      "gabarito_completo": "A questão tem por objetivo aferir se o(a) examinando(a) é capaz de identificar a regra legal quanto á repartição equânime da comissão em caso de pluralidade de corretores. Também se espera que o(a) examinando(a) esteja apto(a) a reconhecer que o contrato de corretagem traz para o corretor uma obrigação de resultado - obter para o cliente a concretização do negócio - sob pena de não auferir a comissão em caso de desistência antes de sua concretização. Este é o entendimento consolidado da jurisprudência do STJ e, conforme previsto no item 3.5.12 do Edital, \"as questões da prova prático-profissional poderão ser formuladas de modo que, necessariamente, a resposta reflita a jurisprudência pacificada dos Tribunais Superiores.\"\nConforme reiteradas decisões do STJ, \"Esta Corte Superior de Justiça tem entendimento consolidado em sua jurisprudência no sentido que o contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que é exigível o pagamento da comissão quando a aproximação resulta na efetiva contratação\" (trecho da ementa do AgInt no AREsp 1992038/SP, Quarta Turma, Relator Ministro Luis Felipe Salomão, Data do Julgamento 23/05/2022, Data da Publicação/Fonte DJe 27/05/2022). No mesmo sentido, foi afirmado no julgamento do AgRg no AREsp n. 514.317/SP (Relator Ministro Raul Araújo, Quarta Turma, julgado em 25/8/2015, DJe 16/9/2015) que o \"contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que somente é cabível a comissão de corretagem quando o corretor efetua a aproximação entre comprador e vendedor, resultando na efetiva venda do imóvel\".\nA) Não. Como a desistência do negócio por parte de Ubiratã ocorreu antes do dia marcado para a assinatura do contrato, não se verificou o resultado previsto, ou seja, a venda dos veículos, de acordo com o Art. 725 do Código Civil.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| A. Não. Como a desistência do negócio por parte de Ubiratã ocorreu antes do dia marcado para a assinatura do contrato, não ser verificou o resultado previsto, ou seja, a venda dos veículos (0,55), de acordo com o Art. 725 do Código Civil (0,10). | 0,00/0,55/0,65 |\n\nB) Se o negócio pretendido se concluísse com a intermediação dos dois corretores, a comissão seria paga a ambos em partes iguais, de acordo com o Art. 728 do Código Civil.\n\nDISTRIBUIÇÃO DE PONTOS\n\n| ITEM | PONTUAÇÃO |\n|---|---|\n| B. Se o negócio pretendido se concluísse com a intermediação dos dois corretores, a remuneração/comissão seria paga a ambos em partes iguais (0,50), de acordo com o Art. 728 do Código Civil (0,10). | 0,00/0,50/0,60 |",
+      "criterios": [
+        {
+          "id": "A",
+          "secao": "---",
+          "peso_total": 0.65,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.55
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 725"
+              ],
+              "peso": 0.1
+            }
+          ]
+        },
+        {
+          "id": "B",
+          "secao": "---",
+          "peso_total": 0.6,
+          "componentes": [
+            {
+              "tipo": "legislacao",
+              "termos": [],
+              "peso": 0.5
+            },
+            {
+              "tipo": "legislacao",
+              "termos": [
+                "art 728"
+              ],
+              "peso": 0.1
+            }
+          ]
+        }
+      ]
+    },
+    "classificacao": {
+      "dificuldade": {
+        "criterios": [
+          "caso_pratico",
+          "integracao_temas",
+          "jurisprudencia",
+          "alta_ambiguidade"
+        ],
+        "nivel": "dificil",
+        "escala": 3
+      },
+      "especialidade": {
+        "assunto": "Controle da Administração",
+        "disciplina": "Direito Constitucional",
+        "tema": "Legalidade e abuso de poder"
+      },
+      "legislacao": {
+        "urn": "urn:lex:br:federal:constituicao:1988-10-05, urn:lex:br:federal:lei:1992-06-02;8429",
+        "artigos": [],
+        "lei": "CF/1988, Lei nº 8.429/1992",
+        "norma": "Constituição Federal, Lei de Improbidade Administrativa",
+        "url": "http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm, http://www.planalto.gov.br/ccivil_03/leis/l8429.htm"
+      },
+      "curador": "Victor",
+      "dt_classificacao": "2026-04-02T09:35:06.100Z"
+    },
+    "metadados": {
+      "dataset": "J1",
+      "numero_questao_exame": 2,
+      "ano_exame": null,
+      "id_exame": "42",
+      "numero_questao_sequencial": 118
+    }
+  }
+]
