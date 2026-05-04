@@ -1,0 +1,16 @@
+id_pergunta,modelo_avaliado,nota_j1,nota_j2,divergencia,usou_recurso,nota_final,justificativa_final
+107,phi-3-mini,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+107,qwen2-1.5b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+107,tinyllama-1.1b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+108,phi-3-mini,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+108,qwen2-1.5b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+108,tinyllama-1.1b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+109,phi-3-mini,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+109,qwen2-1.5b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+109,tinyllama-1.1b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+110,phi-3-mini,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+110,qwen2-1.5b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+110,tinyllama-1.1b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+111,phi-3-mini,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+111,qwen2-1.5b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.
+111,tinyllama-1.1b,0.0,0.0,0.0,False,0.0,Consenso entre juízes iniciais.

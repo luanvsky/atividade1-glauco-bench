@@ -1,0 +1,70 @@
+id_pergunta,modelo_avaliado,resposta_gpt_oss
+107,phi-3-mini,"**Revisão Técnica da Resposta Jurídica**
+
+| Item | Avaliação | Observações / Sugestões |
+|------|-----------|------------------------|
+| **1. Adequação ao Tema** | **Inadequada** | O enunciado pede uma análise jurídica sobre “microsoft/Phi-3-mini-4k-instruct-gguf”, que é um modelo de linguagem de IA desenvolvido pela Microsoft. A resposta fornecida trata de competência legislativa sobre ensino (art. 225 da CF), o que não tem relação com a questão. |
+| **2. Fundamentação Legal** | **Incorreta / Irrelevante** | O art. 225 da CF trata da educação e da competência compartilhada entre União e Estados. Não há conexão lógica entre esse dispositivo e a regulamentação de um modelo de IA. |
+| **3. Coerência Argumentativa** | **Fraca** | A resposta faz uma transição abrupta: “portanto, a lei editada pelo Estado‑membro está dentro de sua competência” sem demonstrar como o tema do modelo de IA se encaixa"
+107,qwen2-1.5b,
+107,tinyllama-1.1b,"**Revisão Técnica da Resposta Jurídica**
+
+| Item | Avaliação | Observações / Correções |
+|------|-----------|------------------------|
+| **Clareza e Coerência** | **Baixa** | O texto apresenta frases desconexas (“disciplinar uniforme”, “mensaliências”, “padrão de providência"
+108,phi-3-mini,
+108,qwen2-1.5b,
+108,tinyllama-1.1b,
+109,phi-3-mini,
+109,qwen2-1.5b,
+109,tinyllama-1.1b,
+110,phi-3-mini,"**Revisão Técnica – Resposta Jurídica sobre Prerrogativas da Administração Pública**
+
+| Item | Observação | Comentário / Sugestão |
+|------|------------|-----------------------|
+| **1. Clareza e Coerência** | O texto apresenta ideias repetitivas e algumas falhas de digitação (“enquinas”). | Corrigir erros ortográficos e evitar repetições. Ex.: “enquanto e garantias” → “enquanto garantias”. |
+| **2. Estrutura** | O parágrafo mistura conceitos sem distinção clara entre *poderes* e *deveres*. | Separar em tópicos: (i) Prerrogativas da Administração; (ii) Poderes e Deveres; (iii) Equilíbrio com a função social. |
+| **3. Fundamento Constitucional** | O texto menciona “Constituição” de forma genérica. | Referenciar explicitamente os dispositivos: Art. 37 (princípios), Art. 38 (poderes), Art. 39 (deveres). |
+| **4. Legislação Complementar**"
+110,qwen2-1.5b,
+110,tinyllama-1.1b,
+111,phi-3-mini,
+111,qwen2-1.5b,
+111,tinyllama-1.1b,
+112,phi-3-mini,
+112,qwen2-1.5b,
+112,tinyllama-1.1b,
+113,phi-3-mini,
+113,qwen2-1.5b,
+113,tinyllama-1.1b,
+114,phi-3-mini,
+114,qwen2-1.5b,
+114,tinyllama-1.1b,
+115,phi-3-mini,
+115,qwen2-1.5b,
+115,tinyllama-1.1b,"**Revisão Técnica – Resposta Jurídica sobre Desapropriação**
+
+| Item | Avaliação | Observações / Correções |
+|------|-----------|--------------------------|
+| **1. Contextualização do Tema** | **Inadequada** | A resposta inicia com “No contexto de desapropriação, em geral, os requisitos constitucionais são observados pela Administração Pública.” – isso é correto em princípio, mas a redação subsequente se desvia completamente do tema, tratando de “responsabilidade da Administração” de forma genérica e sem relação direta com a desapropriação. |
+| **2. Princípios Fundamentais** | **Errôneos / Descontextualizados** | Os itens listados (ex.: “cumprimentá‑las”, “ajustar os processos ajustados”) são incoerentes e não refletem os princípios constitucionais que regem a desapropriação (legalidade, motivação, publicidade, motivação, etc.). |
+| **3. Diretriz para os Requisitos Constitucionais** | **Vazio de conteúdo jurídico** | A “diretriz” apresentada não menciona os requisitos formais (necessidade, interesse público, indenização, etc.) nem os procedimentos (notificação, audiência, decisão judicial). |
+| **4. Requisitos Constitucionais** | **"
+116,phi-3-mini,
+116,qwen2-1.5b,
+116,tinyllama-1.1b,"**Revisão Técnica – Resposta Jurídica sobre “Instabilidade” em Contratos Administrativos**
+
+| Item | Observação | Sugestão de Melhoria |
+|------|------------|----------------------|
+| **1. Definição de “instabilidade”** | O texto apresenta “instabilidade” como um conceito genérico e pouco preciso. No direito administrativo, não há um termo jurídico formal chamado “instabilidade” para contratos. O que se costuma analisar são: <br>• **Inexecução** (art. 55, Lei 8.666/93; art. 55, Lei 14.133/202"
+117,phi-3-mini,
+117,qwen2-1.5b,
+117,tinyllama-1.1b,
+118,phi-3-mini,
+118,qwen2-1.5b,
+118,tinyllama-1.1b,"## 1. Análise crítica da resposta fornecida
+
+| Item | O que foi dito | Por que é incorreto ou incompleto | Evidência / Referência |
+|------|----------------|-----------------------------------|------------------------|
+| **1.1** | “No âmbito do Poder discricionário da Administração Pública, não se admitem que o agente público administrativo exerça o Poder discricionário.” | A frase contradiz a própria definição de poder discricionário. O agente público **exerce** esse poder, mas dentro de limites legais e constitucionais. | Art. 37, § 2º, CF; Art. 5º, LIV e LV, CF. |
+| **1.2** | “O termo “Poder discricionário” é uma forma técnica e fundamentada para designar o Poder do governo que tem autoridade para determinar as condições e os objetivos específicos dos atos administrativos.” | A definição está confusa e omite a distinção entre *poder discricionário* e *poder não discricionário*. | Lei 9.784/99, § 1"
