@@ -1,12 +1,15 @@
 # Onde estou !!!
 
 Esta imagem detalha um protocolo sofisticado de arquitetura de avaliação projetado para mitigar a subjetividade em sistemas de inteligência artificial. O método utiliza uma banca colegiada de juízes automatizados, onde múltiplos modelos de linguagem colaboram e se fiscalizam para garantir a consistência e imparcialidade dos resultados. Um sistema de arbitragem é acionado apenas em casos de divergência técnica ou falhas lógicas, assegurando que o veredito final seja matematicamente robusto. Ao registrar cada etapa do processo em um banco de dados, a estratégia transforma a simples correção automática em um fluxo de trabalho de rastreabilidade e auditoria estatística.
-<img width="1290" height="508" alt="deigo" src="https://github.com/user-attachments/assets/ee21350b-050e-43bb-8654-252d9e879119" />
+
+<img width="1600" height="808" alt="wagner_dash" src="https://github.com/user-attachments/assets/2cb06e12-84f3-4da1-9e3e-ac5ffb1a9ddb" />
+
 
 Este **diagrama** ilustra o Consensus via Lightweight Efficient Voting, um método inovador para validar a precisão de respostas geradas por inteligência artificial. O sistema utiliza agentes avaliadores automatizados que comparam uma resposta candidata com um gabarito de referência para verificar se os fatos essenciais coincidem. Ao empregar um mecanismo de votação por consenso, múltiplos modelos menores determinam se a informação está correta, garantindo uma verificação rigorosa e imparcial. O objetivo central é otimizar o processo de auditoria de dados, tornando a validação de conteúdos complexos mais ágil e menos dependente de supervisão humana constante.
-<img width="1600" height="808" alt="wagner_dash" src="https://github.com/user-attachments/assets/2cb06e12-84f3-4da1-9e3e-ac5ffb1a9ddb" />
----
 
+<img width="1290" height="508" alt="deigo" src="https://github.com/user-attachments/assets/ee21350b-050e-43bb-8654-252d9e879119" />
+
+---
 
 Estas imagens apresentam o painel de controle central de uma ferramenta projetada para realizar a auditoria e avaliação de modelos de linguagem através da técnica de "LLM-as-a-Judge". A interface organiza métricas cruciais, como a cobertura de dados, taxas de sucesso e correlação entre diferentes avaliadores, permitindo uma visão analítica sobre o desempenho de modelos candidatos. Através de filtros globais e indicadores estatísticos, o sistema busca garantir a consistência e a qualidade das respostas, identificando falhas críticas ou divergências que necessitam de intervenção humana. Em suma, o console funciona como um ambiente de monitoramento técnico para validar a eficácia de inteligências artificiais em tarefas específicas de processamento de informação.
 
