@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/d:\\1 - PROCC\\1-Disciplinas\\SAS\\document.aux": true,
+        "**/d:\\1 - PROCC\\1-Disciplinas\\SAS\\document.log": true,
+        "**/d:\\1 - PROCC\\1-Disciplinas\\SAS\\document.gz": true,
+        "**/d:\\1 - PROCC\\1-Disciplinas\\SAS\\document.out": true
+    }
+}

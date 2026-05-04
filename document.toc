@@ -1,0 +1,6 @@
+\babel@toc {brazilian}{}\relax 
+\contentsline {chapter}{\numberline {1}Este é um capítulo sei lá o que escrever}{5}{}%
+\contentsline {section}{\numberline {1.1}Esta é a primeira seção que não sei onde vai parar}{5}{}%
+\contentsline {section}{\numberline {1.2}Não sei o que colocar aqui para as demais ações}{5}{}%
+\contentsline {subsection}{\numberline {1.2.1}Esta é uma subseção}{6}{}%
+\contentsline {subsubsection}{Esta é uma subsubseção}{6}{}%
