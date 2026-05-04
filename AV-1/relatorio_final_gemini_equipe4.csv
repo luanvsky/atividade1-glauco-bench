@@ -1,0 +1,1204 @@
+ID da Questão,Resposta Gemini,Gabarito Oficial (Guidelines),BERTScore_Precision,BERTScore_Recall,BERTScore_F1
+42_direito_penal_questao_1,"A correção será atribuída com base na capacidade de articulação do raciocínio jurídico, na correta identificação dos institutos e conceitos, na aplicação adequada da legislação e na profundidade da análise. A mera citação de artigos sem a devida fundamentação não pontuará.
+
+**ESCALA DE PONTUAÇÃO:**
+
+*   **0 a 0,5 pontos:** Identificação superficial dos fatos sem a correta aplicação dos institutos jurídicos.
+*   **0,5 a 1,0 ponto:** Identificação de alguns institutos, mas com falhas na fundamentação ou na conexão lógica.
+*   **1,0 a 2,0 pontos:** Boa identificação dos institutos e tentativa de aplicação, mas com lacunas no raciocínio ou na completude da análise.
+*   **2,0 a 3,0 pontos:** Adequada identificação e aplicação dos institutos, com raciocínio jurídico coerente, mas com possibilidade de aprofundamento ou maior precisão em alguns pontos.
+*   **3,0 a 4,0 pontos:** Excelente identificação e aplicação dos institutos, com raciocínio jurídico completo, preciso e bem fundamentado, abordando todos os pontos relevantes do caso.
+
+---
+
+### **PADRÃO DE RESPOSTA ESPERADO (ANÁLISE ANALÍTICA):**
+
+Como advogado de Jonas, a defesa deve focar em descaracterizar o dolo em ambos os homicídios imputados, buscando a desclassificação para modalidades culposas ou, em menor grau, a exclusão da ilicitude para um deles, a depender da profundidade da análise do erro.
+
+**1. Homicídio de Frederico:**
+
+*   **Identificação do instituto:** A situação vivida por Jonas configura um caso de **legítima defesa putativa** ou **erro de tipo permissivo**, nos termos do Art. 20, § 1º, do Código Penal.
+    *   **Fundamentação:** Jonas acreditava, por um erro sobre a realidade fática, que agia em legítima defesa de terceiros (as crianças), ao ver Frederico apontando uma arma na direção delas, sem perceber a verdadeira ameaça do cachorro. Ele representou uma situação de legítima defesa que, na verdade, não existia no plano real, mas sim na sua mente (erro de tipo permissivo).
+
+*   **Análise da Escusabilidade/Inescusabilidade do Erro:**
+    *   O Art. 20, § 1º, CP estabelece que ""É isento de pena quem, por erro plenamente justificado pelas circunstâncias, supõe situação de fato que, se existisse, tornaria a ação legítima. Não há isenção de pena quando o erro deriva de culpa e o fato é punível como crime culposo.""
+    *   **Defesa de Jonas:** O examinando deve argumentar que o erro de Jonas não foi ""plenamente justificado pelas circunstâncias"", pois o enunciado menciona que ele agiu ""violando o dever de diligência e cuidado que deveria adotar em situações como a apresentada"". Essa frase é crucial e aponta para a **inescusabilidade (vencibilidade) do erro**.
+    *   **Consequência Jurídica:** Sendo o erro inescusável, afasta-se o dolo, mas permite a punição pela modalidade culposa, se prevista em lei. O homicídio culposo está previsto no Art. 121, § 3º, do Código Penal.
+    *   **Conclusão para Frederico:** A defesa deve pleitear a **desclassificação do crime de homicídio doloso para homicídio culposo** (Art. 121, § 3º, CP) em relação à morte de Frederico.
+
+**2. Homicídio da Criança:**
+
+*   **Ausência de Dolo:**
+    *   **Fundamentação:** Em relação à morte da criança, é manifesta a **ausência de dolo** por parte de Jonas. O intuito de Jonas era, justamente, *proteger* as crianças, não causar-lhes mal. Ele jamais quis o resultado morte da criança, nem assumiu o risco de produzi-lo ao atirar em Frederico (pelo contrário, acreditava estar evitando um mal maior). Portanto, a imputação de homicídio doloso para a morte da criança é descabida.
+
+*   **Nexo de Causalidade e Imputação Objetiva:**
+    *   **Nexo Causal:** Nos termos do Art. 13 do Código Penal, o resultado (morte da criança) foi causado pela conduta de Jonas (disparo contra Frederico), que retirou a proteção que Frederico oferecia. A ação de Jonas foi *conditio sine qua non* para a morte da criança, pois sem ela, Frederico teria impedido o ataque do cachorro.
+    *   **Imputação Objetiva:** A conduta de Jonas, embora equivocada em sua percepção, criou um risco proibido que se concretizou no resultado morte da criança. Ao remover o protetor (Frederico), Jonas permitiu que o perigo original (cachorro) se concretizasse.
+
+*   **Análise da Culpa:**
+    *   **Fundamentação:** Se a conduta de Jonas em relação a Frederico foi culposa (erro inescusável por violação do dever de diligência e cuidado), essa mesma conduta culposa é a causa da morte da criança. Jonas, por imprudência ou negligência (ao não verificar melhor a situação antes de atirar), ao remover Frederico, gerou um risco (ou permitiu a concretização de um risco) que era previsível para a proteção das crianças. A morte da criança é, portanto, uma consequência da imprudência inicial de Jonas.
+    *   **Conclusão para a Criança:** A defesa deve pleitear a **desclassificação do crime de homicídio doloso para homicídio culposo** (Art. 121, § 3º, CP) também em relação à morte da criança.
+
+**Conclusão Geral da Defesa:**
+
+*   Como advogado de Jonas, a tese central é que **não houve duplo homicídio doloso**.
+*   Em relação à morte de Frederico, o crime deve ser desclassificado para **homicídio culposo** (Art. 121, § 3º, CP) em decorrência de erro de tipo permissivo inescusável (Art. 20, § 1º, CP).
+*   Em relação à morte da criança, o crime também deve ser desclassificado para **homicídio culposo** (Art. 121, § 3º, CP), pois não havia dolo (vontade de matar a criança ou assumir o risco) e a morte foi uma consequência da conduta imprudente ou negligente de Jonas ao atirar em Frederico.
+*   Tratar-se-ia, portanto, de um **concurso formal de crimes culposos** (Art. 70, CP), ou seja, uma única ação (disparo) que produziu dois resultados culposos.
+
+---
+
+**Critérios de Pontuação Específicos:**
+
+*   **Identificação da Legítima Defesa Putativa/Erro de Tipo Permissivo (Art. 20, §1º CP) e sua análise:** Até 1,5 ponto.
+    *   Pontuação pela correta identificação do instituto.
+    *   Pontuação pela análise da escusabilidade/inescusabilidade do erro e suas consequências (afastamento do dolo, possibilidade de culpa).
+*   **Análise da desclassificação para Homicídio Culposo (Art. 121, §3º CP) para Frederico:** Até 0,5 ponto.
+*   **Análise da ausência de dolo na morte da criança:** Até 0,5 ponto.
+*   **Análise do nexo causal e da imputação objetiva na morte da criança:** Até 0,5 ponto.
+*   **Análise da culpa na morte da criança e desclassificação para Homicídio Culposo:** Até 0,5 ponto.
+*   **Coerência, clareza da argumentação e conclusão geral:** Até 0,5 ponto.","A questão exige do(a) examinando(a) conhecimentos sobre teoria do delito, mais precisamente, erro de tipo permissivo e relação de causalidade.
+A) Jonas não deve responder pelo homicídio doloso de Frederico, pois agiu em erro de tipo permissivo vencível ou inescusável, isto é, Jonas atirou em Frederico acreditando estar agindo em legítima defesa de terceiros (legítima defesa putativa ou descriminante putativa). Por isso, Jonas deve responder por homicídio culposo, na forma do Art. 20, § 1º, do Código Penal.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. Jonas agiu em erro de tipo permissivo ou em legítima defesa putativa ou descriminante putativa (0,40), o que impõe a desclassificação da imputação para o delito de homicídio culposo, (ou) por se tratar de erro inescusável ou vencível (0,15), na forma do Art. 20, § 1º, do CP (0,10). | 0,00/0,15/0,25/0,40/ 0,50/0,55/0,65 | A questão exige do(a) examinando(a) conhecimentos sobre teoria do delito, mais precisamente, erro de tipo permissivo e relação de causalidade.
+B) Não há nexo de causalidade entre o atuar de Jonas e a morte da criança. A criança faleceu em decorrência de circunstância totalmente independente da conduta de Jonas, não podendo este, de acordo com a teoria da causalidade adequada, adotada pelo Art. 13 do Código Penal, ser responsabilizado pelo ataque do cachorro às crianças.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B. De acordo com a teoria da causalidade adequada, não há nexo de causalidade entre o falecimento da criança e a conduta de Jonas, pois a mor. te da criança decorreu de circunstância independente (0,50), nos termos do Art. 13 do CP (0,10). | 0,00/0,50/0,60 |",0.6634947061538696,0.6968523263931274,0.6797645092010498
+42_direito_penal_questao_2,"A correção será analítica, atribuindo pontos pelo raciocínio jurídico e fundamentação legal.
+
+---
+
+**Análise da Questão e Pontuação:**
+
+**A. Vânia pode recorrer da sentença? (1,00 ponto)**
+
+*   **Sim, Vânia pode recorrer da sentença.** Embora não tenha se habilitado como assistente de acusação até o momento, a legislação processual penal permite que o ofendido ou seu representante legal intervenham em qualquer fase do processo, desde que o façam antes do trânsito em julgado da sentença. Uma vez habilitada como assistente, ela poderá interpor o recurso cabível.
+*   **Fundamentação Legal:** Art. 268 do Código de Processo Penal (CPP), que estabelece a possibilidade de o ofendido intervir como assistente do Ministério Público em todos os termos da ação pública. O Art. 269 do CPP complementa, permitindo que o assistente seja admitido enquanto não passar em julgado a sentença. O Art. 598, parágrafo único, do CPP garante ao assistente a possibilidade de recorrer, inclusive quando o Ministério Público não o fizer.
+
+**Pontuação Detalhada:**
+*   Afirmar que sim e mencionar a necessidade de habilitação como assistente: 0,50 ponto.
+*   Fundamentação legal (Art. 268, 269 e 598, parágrafo único, CPP): 0,50 ponto.
+
+---
+
+**B. Quais os requisitos para que Vânia possa recorrer? (1,00 ponto)**
+
+Os requisitos para que Vânia possa recorrer são:
+
+1.  **Habilitação como Assistente de Acusação:** Vânia, por meio de seu advogado, deve requerer sua habilitação nos autos do processo como assistente do Ministério Público, nos termos do Art. 268 e 269 do CPP. A admissão deve ocorrer antes do trânsito em julgado.
+2.  **Interesse Recursal:** Vânia demonstra interesse em recorrer ao discordar das penas substitutivas aplicadas, buscando, presumivelmente, um agravamento da situação do condenado ou uma modalidade de cumprimento da pena mais severa, que corresponda à sua expectativa de justiça.
+3.  **Representação por Advogado:** Vânia já está assistida por advogado, o que é uma exigência legal para a prática de atos processuais.
+4.  **Observância do Prazo Legal:** O recurso deve ser interposto dentro do prazo estabelecido em lei para o assistente de acusação.
+
+**Pontuação Detalhada:**
+*   Mencionar a necessidade de habilitação como assistente de acusação: 0,40 ponto.
+*   Mencionar a existência de interesse recursal (discordância com a substituição): 0,30 ponto.
+*   Mencionar a representação por advogado e a observância do prazo legal: 0,30 ponto.
+
+---
+
+**C. Qual o prazo para Vânia interpor o recurso cabível? (1,00 ponto)**
+
+*   O Ministério Público foi intimado da condenação e não apresentou recurso no prazo legal. O prazo para o Ministério Público recorrer de uma sentença condenatória é de 5 dias (Art. 593, caput, c/c Art. 598, caput, CPP).
+*   Quando o Ministério Público não recorre no prazo, o assistente de acusação (uma vez habilitado) tem um prazo subsidiário para interpor o recurso. Este prazo é de **15 dias**, contados a partir do dia seguinte ao término do prazo do Ministério Público.
+*   **Fundamentação Legal:** Art. 598, parágrafo único, do Código de Processo Penal.
+
+**Pontuação Detalhada:**
+*   Identificar o prazo do MP (5 dias) e que ele não recorreu: 0,30 ponto.
+*   Identificar o prazo do assistente (15 dias): 0,40 ponto.
+*   Explicar que o prazo do assistente inicia após o do MP e fundamentar (Art. 598, parágrafo único, CPP): 0,30 ponto.
+
+---
+
+**D. Qual o recurso cabível? (0,50 ponto)**
+
+*   O recurso cabível contra a sentença condenatória, em face da qual Vânia busca a alteração das penas, é a **Apelação**.
+*   **Fundamentação Legal:** Art. 593, inciso I, do Código de Processo Penal, que estabelece que caberá apelação ""das sentenças definitivas de condenação ou absolvição proferidas por juiz singular"".
+
+**Pontuação Detalhada:**
+*   Identificar o recurso como Apelação: 0,25 ponto.
+*   Fundamentação legal (Art. 593, I, CPP): 0,25 ponto.
+
+---
+
+**E. Vânia pode pleitear a alteração das penas substitutivas? (1,50 ponto)**
+
+*   **Sim, Vânia pode pleitear a alteração das penas substitutivas.** Como assistente de acusação, o ofendido possui interesse em obter a justa e integral aplicação da lei penal, o que inclui a correta dosimetria da pena e a adequação das condições de seu cumprimento. A discordância com a substituição da pena privativa de liberdade por restritivas de direitos, ou com as modalidades escolhidas (prestação pecuniária e multa), configura um legítimo interesse recursal do assistente.
+*   O assistente de acusação pode buscar o agravamento da condenação, incluindo a revisão da substituição de pena, a alteração das condições das penas restritivas de direitos ou até mesmo o afastamento da substituição para que a pena privativa de liberdade seja cumprida. Vânia, ao discordar das penas substitutivas, busca um resultado mais severo ou mais adequado à gravidade do delito e aos seus interesses como vítima, o que está dentro do escopo do recurso de apelação do assistente.
+*   **Fundamentação Legal:** O Art. 598, parágrafo único, do CPP, ao permitir que o assistente recorra, não impõe restrições ao objeto do recurso, desde que haja interesse no agravamento da condenação ou na reforma da sentença em aspectos que lhe são desfavoráveis. A substituição da pena é um aspecto da individualização da sanção penal e, portanto, pode ser objeto de irresignação do assistente.
+
+**Pontuação Detalhada:**
+*   Afirmar que sim: 0,25 ponto.
+*   Explicar que a discordância com as substitutivas se enquadra no interesse de ""agravar a condenação"" ou buscar um resultado mais justo/adequado à vítima: 0,75 ponto.
+*   Fundamentação legal (Art. 598, parágrafo único, CPP): 0,50 ponto.
+
+---
+**Pontuação Total: 5,00 pontos**","A questão exige do(a) examinando(a) conhecimentos sobre a Lei nº 11.340/2006 e sobre recursos em processo penal. A) Em relação ao Direito Penal aplicável, era essencial que o(a) examinando(a) identificasse que há, entre Rui e Vânia, uma relação íntima de afeto, ainda que já encerrada, o que atrai a incidência da lei de violência doméstica e familiar contra a mulher, de forma a ser inviável a aplicação isolada de pena pecuniária, nos termos do Art. 17 da Lei nº 11.340/2006.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. Inviabilidade de aplicação isolada de pena pecuniária no âmbito da Lei de Violência Doméstica e Familiar contra a Mulher (0,50), nos termos do Art. 17 da Lei nº 11.340/2006 (0,10). | 0,00/0,50/0,60 | A questão exige do(a) examinando(a) conhecimentos sobre a Lei nº 11.340/2006 e sobre recursos em processo penal. B) Apelação supletiva, no prazo de 15 (quinze) dias após o transcurso do prazo recursal do MP, nos termos do Art. 598 do CPP ou Súmula 448, do STF.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B1. Apelação supletiva (0,20), nos termos do Art. 598 do CPP ou Súmula 448, do STF (0,10). | 0,00/0,20/0,30 |
+| B2. No prazo de 15 dias (0,15) após o transcurso do prazo recursal do MP (0,20). | 0,00/0,15/0,20/0,35 |",0.6706204414367676,0.6746440529823303,0.672626256942749
+42_direito_penal_questao_3,"Prezados(as) Senhores(as) Desembargadores(as),
+
+**CONTRARRAZÕES AOS EMBARGOS INFRINGENTES**
+
+**Processo nº** [Número do Processo - fictício, se não fornecido]
+**Embargante:** Ministério Público
+**Embargado:** Douglas
+
+Douglas, já devidamente qualificado nos autos do processo em epígrafe, vem, respeitosamente, por seu(sua) advogado(a) que estas subscreve, perante Vossas Excelências, apresentar as presentes CONTRARRAZÕES AOS EMBARGOS INFRINGENTES opostos pelo Ministério Público, pelos fatos e fundamentos jurídicos a seguir expostos, pugnando pelo seu não conhecimento e, subsidiariamente, pelo seu improvimento.
+
+---
+
+### I. BREVE SÍNTESE DOS FATOS
+
+Douglas foi denunciado pela prática dos delitos previstos nos arts. 308 do CTB e 307 do CP. A denúncia foi recebida em 10/02/2020. Devido à paralisação processual causada pela pandemia de COVID-19, a audiência de instrução e julgamento somente ocorreu em 2022.
+
+Em 10/10/2023, foi proferida sentença que condenou Douglas pelo delito do art. 308 do CTB e o absolveu em relação ao crime de falsa identidade (art. 307 do CP), por falta de provas.
+
+O Ministério Público interpôs apelação, buscando a condenação de Douglas pelo delito de falsa identidade. Por maioria, o Tribunal de Justiça denegou provimento ao recurso ministerial, mantendo a absolvição. Diante da decisão não unânime desfavorável à sua pretensão, o Ministério Público opôs embargos infringentes, dos quais Douglas foi intimado para apresentar contrarrazões em 10/09/2024.
+
+---
+
+### II. PRELIMINARMENTE
+
+#### A) DO INCABIMENTO DOS EMBARGOS INFRINGENTES OPOSTOS PELO MINISTÉRIO PÚBLICO
+
+**Pontuação: (até 3,0 pontos)**
+*   **Raciocínio Jurídico:** Compreensão da natureza dos embargos infringentes como recurso privativo da defesa. Correta aplicação do art. 609, parágrafo único, do CPP. Análise do caráter da decisão recorrida (favorável ao réu).
+*   **Fundamentação Legal:** Art. 609, parágrafo único, do Código de Processo Penal.
+
+Os embargos infringentes constituem um recurso com finalidade específica e delimitação taxativa, conforme previsão do art. 609, parágrafo único, do Código de Processo Penal:
+
+""Art. 609. Os recursos, apelações e embargos serão processados e julgados de acordo com o disposto neste Capítulo:
+Parágrafo único. Quando não for unânime a decisão de segunda instância, desfavorável ao réu, admitem-se embargos infringentes e de nulidade, que poderão ser opostos nos 10 (dez) dias seguintes à publicação de acórdão, na parte em que houver divergência.""
+
+Da análise do dispositivo legal, depreende-se claramente que os embargos infringentes são um recurso **exclusivo da defesa**, cabíveis apenas quando há uma decisão não unânime de segunda instância que seja **desfavorável ao réu**.
+
+No caso em tela, a decisão do Tribunal de Justiça, embora não unânime, **denegou provimento à apelação do Ministério Público**, mantendo a absolvição de Douglas em relação ao delito de falsa identidade (art. 307 do CP). Trata-se, portanto, de uma decisão **manifestamente favorável ao réu**.
+
+O Ministério Público, na qualidade de órgão acusador, não possui legitimidade nem interesse para a interposição de embargos infringentes contra uma decisão que beneficia o acusado, ainda que tenha sido proferida por maioria. Admitir tal recurso em favor da acusação subverteria a lógica recursal do Código de Processo Penal e a própria finalidade dos embargos infringentes, que visam a reexaminar a matéria em prol da liberdade do indivíduo, quando a decisão condenatória ou a não absolvição não foi unânime.
+
+Assim, impõe-se o não conhecimento dos embargos infringentes opostos pelo Ministério Público, por flagrante ausência de pressuposto recursal objetivo e subjetivo.
+
+#### B) DA PRESCRIÇÃO DA PRETENSÃO PUNITIVA REFERENTE AO DELITO DE FALSA IDENTIDADE (ART. 307 DO CP)
+
+**Pontuação: (até 4,0 pontos)**
+*   **Raciocínio Jurídico:** Correta identificação do crime e da pena máxima abstrata. Aplicação precisa do prazo prescricional conforme o art. 109 do CP. Análise dos marcos interruptivos da prescrição. Cálculo correto do lapso temporal. Argumentação sobre a natureza da prescrição (matéria de ordem pública) e a inaplicabilidade da suspensão em razão da pandemia para fins de cômputo prescricional.
+*   **Fundamentação Legal:** Art. 307 do CP; Art. 109, inciso VI, do CP; Art. 117, incisos I e IV, do CP; Art. 61 do CP; Art. 648, inciso VII, do CPP.
+
+A prescrição da pretensão punitiva é matéria de ordem pública, que pode e deve ser reconhecida de ofício em qualquer fase do processo e em qualquer grau de jurisdição, nos termos dos arts. 61 do Código Penal e 648, inciso VII, do Código de Processo Penal.
+
+O delito de falsa identidade, previsto no art. 307 do Código Penal, comina pena máxima de **1 (um) ano de detenção**. Conforme o art. 109, inciso VI, do Código Penal, a pretensão punitiva prescreve em **3 (três) anos** se o máximo da pena é igual ou inferior a 1 (um) ano.
+
+Analisemos os marcos interruptivos da prescrição (art. 117 do CP):
+
+1.  **Recebimento da denúncia:** 10/02/2020 (art. 117, inciso I, do CP).
+2.  **Publicação da sentença condenatória recorrível:** 10/10/2023 (art. 117, inciso IV, do CP).
+
+Entre a data do recebimento da denúncia (10/02/2020) e a data da publicação da sentença condenatória (10/10/2023), transcorreu um período de **3 (três) anos e 8 (oito) meses**.
+
+Verifica-se, portanto, que o lapso temporal de 3 (três) anos, necessário para a consumação da prescrição da pretensão punitiva do Estado para o delito do art. 307 do CP, foi ultrapassado *antes mesmo* da prolação da sentença.
+
+É importante ressaltar que a paralisação dos autos em razão da pandemia de COVID-19, embora tenha gerado atraso processual, **não configura causa de suspensão ou interrupção da prescrição** nos termos do Código Penal (arts. 116 e 117). O art. 116 do CP elenca taxativamente as causas de suspensão, e a paralisação geral da pauta de audiências por calamidade pública não se enquadra em nenhuma delas.
+
+Desse modo, a pretensão punitiva do Estado em relação ao delito de falsa identidade já se encontra fulminada pela prescrição, não havendo mais possibilidade de se rediscutir a condenação de Douglas por este crime.
+
+---
+
+### III. DO MÉRITO (Subsidiariamente, caso as preliminares sejam afastadas)
+
+#### C) DA MANUTENÇÃO DA ABSOLVIÇÃO QUANTO AO DELITO DO ART. 307 DO CP
+
+**Pontuação: (até 3,0 pontos)**
+*   **Raciocínio Jurídico:** Reafirmação da ausência de provas como base da absolvição. Invocação do princípio do *in dubio pro reo*. Valorização da decisão de primeiro grau e dos votos divergentes no TJ que mantiveram a absolvição.
+*   **Fundamentação Legal:** Art. 386, inciso VII, do Código de Processo Penal. Princípio do *in dubio pro reo*.
+
+Ainda que, de forma remota e contra a lei, sejam superadas as preliminares arguidas, no mérito, a decisão do Tribunal de Justiça que manteve a absolvição de Douglas pelo delito de falsa identidade (Art. 307 do CP) deve ser integralmente preservada.
+
+A sentença de primeiro grau absolveu o réu por **falta de provas**, fundamento previsto no art. 386, inciso VII, do Código de Processo Penal. Tal decisão foi referendada pela maioria do e. Tribunal de Justiça que denegou o recurso de apelação ministerial, o que demonstra a persistência de uma dúvida razoável quanto à autoria ou materialidade delitiva por parte da acusação.
+
+É cediço que, no processo penal, a condenação exige prova robusta e incontroversa da autoria e da materialidade do delito. A dúvida, por menor que seja, deve sempre militar em favor do réu, em respeito ao basilardo princípio do **in dubio pro reo**. Se o próprio Tribunal de Justiça, ainda que por maioria, entendeu por manter a absolvição, e se houve votos divergentes pela não condenação, isso apenas reforça a ausência de certeza indispensável para uma condenação penal.
+
+Os embargos infringentes buscam valorizar a divergência e, no caso, a divergência apontava para a manutenção da absolvição. Não há, nos autos, elementos probatórios novos ou suficientemente contundentes que justifiquem a reforma da decisão absolutória e o afastamento da dúvida que beneficiou o réu tanto em primeira quanto em segunda instância.
+
+---
+
+### IV. DOS PEDIDOS
+
+Diante do exposto, o Embargado Douglas requer a Vossas Excelências que:
+
+1.  **PRELIMINARMENTE**, seja acolhida a preliminar de **INCABIMENTO DOS EMBARGOS INFRINGENTES** opostos pelo Ministério Público, por serem estes um recurso privativo da defesa, não podendo ser manejados contra decisão favorável ao réu, nos termos do art. 609, parágrafo único, do Código de Processo Penal, pugnando pelo seu **NÃO CONHECIMENTO**.
+2.  **PRELIMINARMENTE**, e caso a preliminar anterior não seja acolhida, seja acolhida a preliminar de **PRESCRIÇÃO DA PRETENSÃO PUNITIVA** do Estado quanto ao delito de falsa identidade (art. 307 do CP), declarando-se a extinção da punibilidade de Douglas, nos termos do art. 109, inciso VI, c/c art. 117, incisos I e IV, todos do Código Penal, com base nos arts. 61 do CP e 648, inciso VII, do CPP.
+3.  **SUBSIDIARIAMENTE**, no mérito, caso as preliminares sejam afastadas, seja mantida a decisão do Tribunal de Justiça que denegou provimento à apelação ministerial, preservando-se a absolvição de Douglas em relação ao delito do art. 307 do Código Penal, por insuficiência probatória, em respeito ao princípio do *in dubio pro reo*.
+
+Nestes termos,
+Pede deferimento.
+
+[Local], 10 de setembro de 2024.
+
+**Advogado(a) de Douglas**
+OAB/[Número da OAB]","A questão exige do(a) examinando(a) conhecimentos sobre prescrição e recursos.
+A) Item anulado.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. Item anulado. | 0,00/0,60 | A questão exige do(a) examinando(a) conhecimentos sobre prescrição e recursos.
+B) O recurso de embargos infringentes é inadmissível, porquanto exclusivo em favor da defesa, nos termos do Art. 609, parágrafo único, do CPP.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B. O recurso de embargos infringentes é inadmissível, porquanto exclusivo em favor da defesa (0,55), nos termos do Art. 609, parágrafo único, do CPP (0,10). | 0,00/0,55/0,65 |",0.5876363515853882,0.6217543482780457,0.6042141318321228
+42_direito_penal_questao_4,"## BANCA EXAMINADORA FGV - CORREÇÃO ANALÍTICA
+
+**Disciplina:** Direito Penal e Processual Penal (Execução Penal)
+**Questão:** 4
+**Enunciado:** Thiago cumpria pena em regime semiaberto quando preencheu os requisitos objetivos para progredir ao regime aberto, tendo formulado o requerimento respectivo.
+O Juiz, ao apreciar o pedido, condicionou a efetiva progressão à existência de vaga em casa de albergado, que, no momento, encontrava-se lotada, devendo o condenado aguardar na unidade de semiaberto.
+Thiago interpôs agravo em execução, de forma que o Juiz reconsiderou a decisão anterior e permitiu que Thiago cumprisse o restante da pena em albergue domiciliar, desde que se comprometesse à prestação de serviços à comunidade como condição especial do regime aberto, na forma do Art. 113 da LEP.
+Como advogado(a) de Thiago, responda às questões a seguir.
+Obs.: o(a) examinando(a) deve fundamentar suas respostas. A mera citação do dispositivo legal não confere pontuação.
+
+---
+
+### **Padrão de Resposta Esperado e Critérios de Pontuação:**
+
+A questão exige do(a) examinando(a) a capacidade de identificar e refutar as ilegalidades presentes em ambas as decisões judiciais, demonstrando conhecimento da legislação de execução penal e da jurisprudência consolidada sobre o tema.
+
+**Pontuação Total: 5,00 pontos**
+
+---
+
+#### **I. Análise da Primeira Decisão Judicial (Condicionamento à existência de vaga em casa de albergado)**
+
+**Pontos Cruciais a serem abordados (2,50 pontos):**
+
+1.  **Ilegalidade da restrição:** O examinando deve argumentar que a decisão do juiz é ilegal por condicionar a progressão de regime, para a qual Thiago já preencheu os requisitos objetivos, à existência de vaga em casa de albergado.
+2.  **Violação ao princípio da individualização da pena e dignidade da pessoa humana:** Manter o apenado em regime mais gravoso (semiaberto) do que aquele a que faz jus (aberto), por inércia ou falha do Estado em prover a estrutura adequada, representa uma regressão ""de facto"" e viola princípios constitucionais.
+3.  **Solução adequada frente à falta de vaga:** O examinando deve indicar que, na ausência de vaga em estabelecimento adequado (casa de albergado), o apenado deve ser imediatamente colocado em prisão domiciliar, sem prejuízo de outras condições compatíveis com o regime aberto.
+
+**Raciocínio Jurídico Esperado:**
+O candidato deve demonstrar que a falta de estrutura estatal não pode prejudicar o direito do apenado à progressão de regime. A impossibilidade material de implementar o regime adequado impõe ao Estado a obrigação de colocar o condenado em regime menos gravoso até que a vaga surja, sendo a prisão domiciliar a alternativa mais compatível com o regime aberto.
+
+**Fundamentação Legal e Jurisprudencial Esperada:**
+*   **Súmula Vinculante nº 56 do STF:** ""A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, devendo-se observar, nessa hipótese, os parâmetros fixados no RE 641.320/RS.""
+*   **RE 641.320/RS (repercussão geral):** Estabelece que, na falta de vaga, deve-se conceder a saída antecipada, liberdade eletronicamente monitorada ou prisão domiciliar.
+*   **Art. 112 da Lei de Execução Penal (LEP):** Requisitos para a progressão de regime (cumprimento de fração de pena e bom comportamento carcerário).
+*   **Princípios da dignidade da pessoa humana, individualização da pena e legalidade.**
+
+**Distribuição de Pontos para a Parte I:**
+*   Identificação da ilegalidade da manutenção em regime mais gravoso pela ausência de vaga: 0,50
+*   Menção à Súmula Vinculante nº 56 do STF e explicação de sua aplicação ao caso: 1,00
+*   Proposição da solução correta (prisão domiciliar ou similar) como medida alternativa à falta de vaga: 0,50
+*   Argumentação sobre a violação de princípios constitucionais (dignidade, individualização da pena) pela falha estatal: 0,50
+
+---
+
+#### **II. Análise da Segunda Decisão Judicial (Imposição de Prestação de Serviços à Comunidade como condição especial)**
+
+**Pontos Cruciais a serem abordados (2,50 pontos):**
+
+1.  **Natureza da Prestação de Serviços à Comunidade (PSC):** O examinando deve argumentar que a PSC é uma **pena restritiva de direitos** (Art. 43, IV, CP; Art. 46, CP), e não uma mera condição para o cumprimento do regime aberto.
+2.  **Ilegalidade da imposição como ""condição especial"":** O juiz não pode impor uma nova pena (PSC) como ""condição especial"" do regime aberto. As condições do regime aberto (Art. 36 do CP e Art. 115 da LEP) e as condições especiais (Art. 113, parágrafo único, da LEP e Art. 116 da LEP) visam monitorar o cumprimento da pena e a ressocialização, mas não criar ou adicionar novas sanções penais não previstas na sentença condenatória ou na legislação.
+3.  **Princípio da legalidade das penas e da individualização da pena:** A decisão judicial viola o princípio da legalidade (Art. 5º, XXXIX, CF), pois o juiz não pode criar sanções penais ou modificar a natureza da pena imposta na sentença. A PSC, como pena, só poderia ser aplicada em substituição à pena privativa de liberdade (Art. 44 do CP) ou como parte de uma nova condenação, não como condição de regime.
+4.  **Função do Art. 113 da LEP:** O artigo trata das condições *gerais* e *especiais* para o cumprimento da pena nos regimes aberto e semiaberto, que servem para fiscalizar e orientar o apenado, mas não para impor sanções de natureza penal diversas daquelas fixadas na sentença. O parágrafo único do Art. 113 da LEP permite que o juiz estabeleça condições *específicas* ""adequadas à situação pessoal do condenado"", mas isso não autoriza a imposição de uma nova *pena*.
+
+**Raciocínio Jurídico Esperado:**
+O candidato deve distinguir claramente entre ""pena"" e ""condição"". A PSC é uma sanção autônoma. Impor uma pena restritiva de direitos como ""condição"" de regime de cumprimento de pena privativa de liberdade seria uma aberração jurídica, uma forma de *bis in idem* ou de criação de pena *extra legem*, sem respaldo na sentença ou na lei.
+
+**Fundamentação Legal Esperada:**
+*   **Art. 43, IV, do Código Penal (CP):** Classifica a PSC como pena restritiva de direitos.
+*   **Art. 44 do CP:** Condições para a substituição da pena privativa de liberdade por restritivas de direitos.
+*   **Art. 36 do CP e Art. 115 da LEP:** Condições obrigatórias do regime aberto (trabalho, pernoite, etc.).
+*   **Art. 113 da LEP e Art. 116 da LEP:** Preveem a possibilidade de imposição de condições especiais, mas sempre dentro do escopo de fiscalização e ressocialização, e não de criação de novas penas.
+*   **Art. 5º, XXXIX, da CF (Princípio da legalidade penal):** ""Não há crime sem lei anterior que o defina, nem pena sem prévia cominação legal.""
+
+**Distribuição de Pontos para a Parte II:**
+*   Identificação da PSC como pena restritiva de direitos e não como mera condição de regime: 0,75
+*   Argumentação sobre a ilegalidade de o juiz impor uma nova pena como ""condição especial"": 0,75
+*   Menção e explicação da violação aos princípios da legalidade das penas e da individualização da pena: 0,50
+*   Correta interpretação do alcance do Art. 113 da LEP e dos Arts. 36 e 44 do CP, distinguindo ""pena"" de ""condição"": 0,50
+
+---
+
+### **Conclusão e Pontuação Final:**
+
+Um(a) examinando(a) que aborde todos esses pontos com clareza, coesão e a devida fundamentação legal e jurisprudencial demonstrará pleno domínio do tema e alcançará a pontuação máxima.
+
+**Exemplo de Pontuação Final:**
+
+*   **Identificação e refutação da primeira ilegalidade (falta de vaga):** 2,50/2,50
+*   **Identificação e refutação da segunda ilegalidade (PSC como condição):** 2,50/2,50
+*   **Total:** 5,00/5,00
+
+Candidatos que apenas citem os dispositivos sem desenvolver o raciocínio ou que confundam os conceitos de pena e condição terão suas pontuações significativamente reduzidas.","A questão exige do examinando conhecimentos sobre execução penal.
+A) Não. A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso, nos termos da Súmula Vinculante 56.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. Não. A falta de estabelecimento penal adequado não autoriza a manutenção do condenado em regime prisional mais gravoso (0,55), nos termos da Súmula Vinculante 56 (0,10). | 0,00/0,55/0,65 | A questão exige do examinando conhecimentos sobre execução penal.
+B) Não. É inadmissível a fixação de pena substitutiva como condição especial ao regime aberto, nos termos do enunciado 493 da Súmula da Jurisprudência do Superior Tribunal de Justiça.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B. Não. É inadmissível a fixação de pena substitutiva como condição especial ao regime aberto (0,50), nos termos do enunciado 493 da Súmula da Jurisprudência do Superior Tribunal de Justiça (0,10). | 0,00/0,50/0,60 |",0.5908967852592468,0.6181747317314148,0.6042280793190002
+42_direito_tributario_peca_profissional,"## Banca Examinadora da FGV – Correção Analítica
+
+**Peça Prático-Profissional: AÇÃO ANULATÓRIA DE DÉBITO FISCAL C/C PEDIDO DE TUTELA DE URGÊNCIA**
+
+**Enunciado:** A sociedade empresária ABC Ltda., com estabelecimento no Município X (sede de comarca de Vara Única), especializada em reciclagem de lixo, foi contratada para prestar serviços de remoção, tratamento e reciclagem de lixo no Município Y, local onde recolheu o Imposto sobre Serviços (ISS) devido naquela operação.
+Meses após, recebeu uma notificação de débito da Secretaria de Fazenda do Município X cobrando o ISS daquele serviço prestado no Município Y, sob a alegação de possuir estabelecimento fixo em seu território. Na notificação, foi aplicada uma multa de 150% do valor do imposto cobrado e a sociedade empresária foi advertida de que, caso não pagasse a dívida no prazo de 30 (trinta) dias, teria o seu estabelecimento interditado.
+A sociedade empresária o(a) contratou, como advogado(a), para defender seus interesses e promover a medida judicial cabível, tendo urgência sobretudo em razão da ameaça de interdição do estabelecimento. Por se tratar de serviço de reciclagem de lixo, a sociedade empresária precisará comprovar o exato local em que o realizou, devendo juntar fotos e requerer prova pericial.
+Diante dos fatos expostos, redija a medida judicial cabível para que seu cliente não tenha que pagar tal tributo e respectiva multa, nem tenha seu estabelecimento interditado, ciente de que será necessária dilação probatória. (Valor: 5,00)
+Obs .: a peça deve abranger todos os fundamentos de Direito que possam ser utilizados para dar respaldo à pretensão. A simples menção ou transcrição do dispositivo legal não confere pontuação.
+
+---
+
+### Critérios de Avaliação e Atribuição de Pontos (Valor Total: 5,00)
+
+A correção será feita com base na adequação da peça à situação apresentada, na solidez do raciocínio jurídico e na correta fundamentação legal. A simples menção ou transcrição de dispositivos legais sem o devido desenvolvimento do raciocínio não será pontuada.
+
+---
+
+### I. Adequação da Medida Judicial (0,50 pontos)
+
+*   **Pontuação:**
+    *   **0,50:** Apresentação de **Ação Anulatória de Débito Fiscal c/c Pedido de Tutela de Urgência** (ou similar, como ""Ação Declaratória de Inexistência de Relação Jurídico-Tributária c/c Anulatória de Auto de Infração e Pedido de Tutela de Urgência"").
+    *   **0,25:** Apresentação de Ação Anulatória de Débito Fiscal sem o pedido expresso de tutela de urgência (ignora a urgência da interdição).
+    *   **0,00:** Mandado de Segurança (inadequado pela necessidade explícita de dilação probatória, vedada nesta via).
+
+*   **Raciocínio Jurídico:** O candidato deve demonstrar que compreendeu a necessidade de discutir o mérito do débito fiscal (que demanda dilação probatória) e, simultaneamente, de obter uma medida liminar urgente para evitar a interdição do estabelecimento.
+*   **Fundamentação Legal:** Art. 319 e ss. do Código de Processo Civil (CPC).
+
+---
+
+### II. Endereçamento e Qualificação das Partes (0,50 pontos)
+
+*   **Pontuação:**
+    *   **0,50:** Endereçamento correto ao Juízo da Vara Única da Comarca do Município X (ou Vara de Fazenda Pública, se houver). Qualificação completa do Autor (ABC Ltda.) e do Réu (Município X).
+    *   **0,25:** Pequenas incorreções (ex: falta de alguns dados da qualificação, mas compreensível).
+    *   **0,00:** Erros graves no endereçamento (ex: endereçar ao Tribunal) ou qualificação totalmente incompleta ou errada.
+
+*   **Raciocínio Jurídico:** Demonstra conhecimento das regras de competência e dos requisitos formais de uma petição inicial.
+
+---
+
+### III. Síntese dos Fatos (0,50 pontos)
+
+*   **Pontuação:**
+    *   **0,50:** Exposição clara, concisa e objetiva dos fatos relevantes do enunciado, sem adiantar fundamentos jurídicos. Deve mencionar: prestação do serviço em Município Y, pagamento do ISS em Y, cobrança indevida por Município X, multa e ameaça de interdição.
+    *   **0,25:** Exposição confusa, prolixa ou com omissão de fatos relevantes.
+
+*   **Raciocínio Jurídico:** Capacidade de organizar e sintetizar as informações fornecidas no caso concreto.
+
+---
+
+### IV. Do Direito – Ilegalidade da Cobrança do ISS (1,50 pontos)
+
+*   **Pontuação:**
+    *   **1,50:** Desenvolvimento completo e articulado, abordando:
+        *   A competência tributária municipal para o ISS (Art. 156, III, CF/88).
+        *   A aplicação da Lei Complementar nº 116/2003.
+        *   A regra geral do local do estabelecimento prestador (Art. 3º, *caput*, LC 116/03).
+        *   A **exceção específica** para o serviço de ""remoção, tratamento ou incineração de lixo, rejeitos e outros resíduos quaisquer"" (item **7.09 da Lista Anexa à LC 116/03**), cujo ISS é devido no local da **prestação do serviço** (Município Y), independentemente do local do estabelecimento do prestador.
+        *   Argumentação da impossibilidade de bitributação (bis in idem), já que o ISS foi corretamente recolhido em Município Y, conforme a lei.
+        *   Ilegalidade da cobrança do ISS pelo Município X.
+    *   **1,00:** Aborda a CF e LC 116/03, mas o raciocínio sobre a exceção para o serviço de lixo (item 7.09) ou a distinção entre local da prestação e estabelecimento é superficial ou incompleto, não demonstrando clareza sobre a competência.
+    *   **0,50:** Apenas menciona os dispositivos (CF/LC 116) sem desenvolver o raciocínio jurídico sobre a competência e a especificidade do serviço.
+    *   **0,00:** Não aborda a competência tributária do ISS ou fundamenta de forma equivocada.
+
+*   **Raciocínio Jurídico:** Demonstra conhecimento aprofundado da legislação do ISS, sua hierarquia normativa (CF e LC), e a capacidade de aplicá-la ao caso concreto, distinguindo regras gerais de exceções.
+*   **Fundamentação Legal:** Art. 156, III, da CF/88; Art. 3º e item 7.09 da Lista de Serviços Anexa à Lei Complementar nº 116/2003; Princípio da legalidade e vedação à bitributação.
+
+---
+
+### V. Do Direito – Ilegalidade da Multa (0,50 pontos)
+
+*   **Pontuação:**
+    *   **0,50:** Argumentação de que a multa de 150% é abusiva, confiscatória e desproporcional, violando o princípio do não-confisco.
+    *   **0,25:** Apenas a menção ao Art. 150, IV, CF, sem desenvolvimento do raciocínio de confisco.
+    *   **0,00:** Não aborda a ilegalidade da multa.
+
+*   **Raciocínio Jurídico:** Conhecimento dos limites constitucionais do poder de tributar, especialmente em relação às sanções tributárias.
+*   **Fundamentação Legal:** Art. 150, IV, da CF/88 (vedação ao confisco).
+
+---
+
+### VI. Da Tutela de Urgência (1,00 ponto)
+
+*   **Pontuação:**
+    *   **1,00:** Desenvolvimento completo e articulado, apresentando:
+        *   **Fundamentação Legal:** Art. 300 e ss. do CPC.
+        *   ***Fumus boni iuris* (Probabilidade do Direito):** Evidenciado pela ilegalidade da cobrança do ISS pelo Município X (conforme item IV) e da multa (conforme item V).
+        *   **Perigo de Dano ou Risco ao Resultado Útil do Processo (*Periculum in mora*):** Caracterizado pela ameaça de interdição do estabelecimento em 30 dias, o que causaria grave prejuízo à atividade empresarial e sua subsistência, inviabilizando até mesmo a prestação de serviço essencial (reciclagem).
+        *   **Pedido específico:** Suspensão da exigibilidade do crédito tributário (Art. 151, V, do CTN) E, principalmente, impedir a interdição do estabelecimento.
+        *   (Opcional, mas agrega): Mencionar a possibilidade de oferecer caução ou depósito judicial como garantia, se exigido pelo juízo, para reforçar a medida.
+    *   **0,75:** Aborda a tutela de urgência, mas um dos requisitos (fumus ou periculum) ou um dos pedidos específicos é mal desenvolvido ou ausente.
+    *   **0,50:** Apenas menciona a tutela de urgência e cita o artigo, sem demonstrar os requisitos no caso concreto.
+    *   **0,00:** Não aborda a tutela de urgência, apesar da urgência explícita no enunciado.
+
+*   **Raciocínio Jurídico:** Capacidade de identificar a urgência da situação, aplicar os requisitos legais da tutela de urgência e articular os danos iminentes e a probabilidade do direito.
+*   **Fundamentação Legal:** Art. 300 e ss. do CPC; Art. 151, V, do CTN.
+
+---
+
+### VII. Dos Pedidos e Meios de Prova (0,50 pontos)
+
+*   **Pontuação:**
+    *   **0,50:**
+        *   Pedidos finais claros e coerentes: Concessão e confirmação da tutela de urgência, citação do réu, procedência da ação para anular o auto de infração/notificação de débito, declarar a inexistência da relação jurídico-tributária com o Município X quanto ao ISS e à multa, condenação em custas e honorários.
+        *   Requerimento de todos os meios de prova admitidos em direito, **com destaque e especificação para prova documental (notificação, contrato, comprovantes de pagamento em Y, fotos) e, principalmente, prova pericial** (conforme solicitado no enunciado para comprovar o local da prestação do serviço).
+    *   **0,25:** Pedidos genéricos ou incoerentes, ou omissão da especificação das provas essenciais (especialmente a prova pericial e fotos).
+    *   **0,00:** Pedidos ausentes ou totalmente incoerentes.
+
+*   **Raciocínio Jurídico:** Demonstração de que o candidato sabe como formalizar os pleitos judiciais decorrentes da argumentação e compreende a necessidade da dilação probatória.
+*   **Fundamentação Legal:** Art. 319, VI, do CPC.
+
+---
+
+### VIII. Valor da Causa e Fechamento (0,00 pontos - pode haver decréscimo se ausente ou incorreto)
+
+*   **Valor da Causa:** Atribuição do valor correspondente ao montante do débito fiscal contestado (ISS + multa).
+*   **Fechamento:** Termos em que, pede deferimento. Local, Data, Advogado(a), OAB nº.
+
+*   **Observação:** Estes itens não atribuem pontos, mas a sua ausência ou incorreção pode gerar um pequeno decréscimo da nota final, demonstrando falta de atenção aos aspectos formais da peça.
+
+---
+
+**Observação Final:** A avaliação valoriza a clareza, a objetividade, a capacidade de argumentação jurídica e a correta aplicação dos institutos legais ao caso concreto. A mera transcrição de artigos sem a devida correlação com os fatos e a pretensão da peça não será considerada para pontuação.","A medida judicial cabível é a ação anulatória, dada a sua natureza desconstitutiva, tendo por objetivo desconstituir lançamento tributário que já está definitivamente constituído reputado ilegal ou irregular pelo contribuinte. Não cabe mandado de segurança, pois o enunciado deixa claro que haverá necessidade de dilação probatória no curso do processo. O objetivo da ação é desconstituir o lançamento referente ao ISS descrito no enunciado, conforme o Art. 38 da Lei nº 6.830/1980.
+A ação deve ser endereçada à Vara Única da Comarca do Município X, ente federado que lavrou o auto de infração e também onde tem sede a empresa, sendo de competência da Justiça Estadual por se tratar de tributo municipal (ISS).
+A autora é a ABC Ltda., enquanto o réu é o Município X, ente federado que está a cobrar indevidamente o tributo.
+Os fatos devem ser descritos brevemente nos termos colocados pelo enunciado.
+No mérito, o examinando deve ser capaz de identificar que:
+1) O ISS é devido ao Município Y, local da efetiva prestação do serviço de remoção, tratamento e reciclagem de lixo, por expressa exceção prevista no Art. 3º, inciso VI, da LC 116/2003: Art. 3º. ""O serviço considera- se prestado, e o imposto, devido, no local do estabelecimento prestador ou, na falta do estabelecimento, no local do domicílio do prestador, exceto nas hipóteses previstas nos incisos I a XXV, quando o imposto será devido no local: VI - da execução da varrição, coleta, remoção, incineração, tratamento, reciclagem, separação e destinação final de lixo, rejeitos e outros resíduos quaisquer, no caso dos serviços descritos no subitem 7.09 da lista anexa.""
+2) A multa de 150%, que ultrapassa o próprio valor do imposto cobrado, ostenta natureza confiscatória, em violação ao Art. 150, inciso IV, da CRFB/88: Art. 150. ""Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito Federal e aos Municípios: IV - utilizar tributo com efeito de confisco.""
+3) A ameaça de interdição do estabelecimento constitui sanção política e meio coercitivo indireto ilegal de cobrança de tributos, por impedir o livre exercício da atividade econômica da empresa, conforme a Súmula 70 do STF: ""É inadmissível a interdição de estabelecimento como meio coercitivo para cobrança de tributo"" ou Súmula 547 do STF: Não é lícito à autoridade proibir que o contribuinte em débito adquira estampilhas, despache mercadorias nas alfândegas e exerça suas atividades profissionais.
+Considerando-se que a sociedade empresária está em vias de ter seu estabelecimento interditado caso não pague a ilegal dívida e respectiva multa, o examinando deve requerer antecipação de tutela (tutela de urgência), demonstrando a existência dos requisitos de fumus boni iuris e periculum in mora, de modo a poder se abster de efetuar qualquer recolhimento a título deste imposto e multa sem que tenha seu estabelecimento interditado, suspendendo-se a exigibilidade do crédito tributário, conforme o Art. 151, inciso V, do CTN.
+Nos pedidos, deve o examinado requerer aquilo que tipicamente é previsto no CPC para uma ação anulatória tributária, indicando também o pedido de produção de provas, sobretudo a pericial, além de respeitar as normas de fechamento da peça.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| Endereçamento |  |
+| 1. Juízo: Vara Única da Comarca do Município X (0,10). | 0,00/0,10 |
+| 2. Autora: ABC Ltda. (0,10); réu: Município X (0,10). | 0,00/0,10/0,20 |
+| 3. Cabimento da ação anulatória: o crédito tributário já foi definitivamente constituído pelo lançamento, tendo inclusive sido o debito notificado ao contribuinte, sendo necessário desconstituir o lançamento por meio de uma ação anulatória (0,40), nos termos do Art. 38 da Lei nº 6.830/1980 (0,10). | 0,00/0,40/0,50 |
+| 4. Breve descrição dos fatos (0,10). | 0,00/0,10 |
+| Fundamentos |  |
+| 5. O ISS é devido ao Município Y, local da efetiva prestação do serviço de remoção, tratamento e reciclagem de lixo (0,60), por expressa exceção prevista no Art. 3º, inciso VI, da LC 116/2003 (0,10). | 0,00/0,60/0,70 |
+| 6. A multa de 150%, que ultrapassa o próprio valor do imposto cobrado, ostenta natureza confiscatória (0,60), em violação ao Art. 150, inciso IV, da CRFB/88 (0,10). | 0,00/0,60/0,70 |
+| 7. A ameaça de interdição do estabelecimento constitui sanção política e meio coercitivo indireto ilegal de cobrança de tributos, por impedir o livre exercício da atividade econômica da empresa (0,60), nos termos da Súmula 70 ou da Súmula 547, ambas do STF (0,10). | 0,00/0,60/0,70 |
+| Tutela provisória de urgência |  |
+| 8. Probabilidade do direito (fumus boni iuris) (0,25). | 0,00/0,25 |
+| 9. Perigo de dano ou risco ao resultado útil do processo (periculum in mora), em razão de que a empresa está em vias de ter seu estabelecimento interditado (0,25). | 0,00/0,25 |
+| Pedidos |  |
+| 10. Citação do réu (0,10). | 0,00/0,10 |
+| 11. Seja concedida a tutela provisória de urgência, suspendendo-se a interdição do estabelecimento (0,10) e a exigibilidade do crédito tributário (0,10) com base no Art. 151, inciso V, do CTN (0,10). | 0,00/0,10/ 0,20/0,30 |
+| 12. Seja julgada procedente a ação, para desconstituir o lançamento tributário referente ao imposto e sua respectiva multa (0,40). | 0,00/0,40 |
+| 13. Opção pela não realização de audiência de conciliação ou de mediação (0,10), nos termos do Art. 319, inciso VII, do CPC (0,10) ou indicação do não cabimento de conciliação (0,10), nos termos do Art. 334, § 4º, inciso II, do CPC (0,10). | 0,00/0,10/0,20 |
+| 14. Indicação das provas a serem produzidas (0,10), sobretudo a prova pericial (0,10). | 0,00/0,10/0,20 |
+| 15. Condenação ao ressarcimento de custas e honorários advocatícios (0,10). | 0,00/0,10 |
+| Fechamento |  |
+| 16. Valor da causa (0,10). | 0,00/0,10 |
+| 17. Data, local, advogado e OAB ... (0,10). | 0,00/0,10 |",0.7060753107070923,0.7137002944946289,0.7098673582077026
+42_direito_tributario_questao_1,"Olá, examinando(a)!
+Vamos à análise detalhada da sua resposta.
+
+---
+
+**PARECER DA BANCA EXAMINADORA – QUESTÃO 1**
+
+**I. Visão Geral da Questão**
+
+A questão aborda um caso de restituição de indébito tributário (taxa de combate a incêndios) e a escolha da medida judicial adequada após uma negativa administrativa. O ponto central da avaliação é a capacidade do(a) examinando(a) de identificar a ação judicial correta para reaver o valor pago, diferenciando-a daquela inicialmente proposta pelo cliente, e de fundamentar a inconstitucionalidade/ilegalidade da exação tributária em questão.
+
+**II. Padrão de Resposta Esperado**
+
+O(a) examinando(a) deveria:
+
+1.  **Rejeitar a Ação Anulatória da Decisão Administrativa como medida principal:** Explicar que, embora a decisão administrativa possa ser objeto de controle judicial, a mera anulação da negativa administrativa não garante diretamente a restituição do indébito. A finalidade do cliente é reaver o dinheiro, e o Judiciário não está adstrito à decisão administrativa sobre a legalidade do tributo. A via administrativa, se esgotada, apenas autoriza a via judicial, não a condiciona a uma ""anulação"" da decisão administrativa.
+
+2.  **Indicar a Ação de Repetição/Restituição de Indébito Tributário como a medida judicial adequada:** Apontar que esta é a ação própria para pleitear a devolução de tributos pagos indevidamente.
+
+3.  **Fundamentar a Inconstitucionalidade/Ilegalidade da Taxa de Combate a Incêndios Municipal:**
+    *   Explicar a natureza da taxa como tributo vinculado a um serviço público específico e divisível.
+    *   Argumentar que o serviço de combate a incêndios, pela sua natureza universal e indivisível, não se enquadra nos requisitos para ser custeado por taxa, devendo ser financiado por impostos gerais.
+    *   Citar a jurisprudência pacífica do Supremo Tribunal Federal (STF) sobre o tema, em especial a **Súmula 649 do STF** (""Não é constitucional a cobrança, pelos Municípios, de taxa de segurança contra incêndio"") e a **Súmula Vinculante 19** (""A taxa cobrada exclusivamente em razão dos serviços públicos de coleta, remoção e tratamento ou destinação de lixo ou resíduos provenientes de imóveis, bem como da iluminação pública, não é compatível com a Constituição Federal"") ou, idealmente, a argumentação subjacente a elas para o caso de taxa de incêndio (universalidade e indivisibilidade). Embora a SV 19 não trate diretamente de incêndio, ela reforça o conceito de serviço divisível/indivisível. A Súmula 649 é a mais direta e esperada.
+
+4.  **Fundamentar legalmente:** Mencionar dispositivos como o art. 145, II, da CF/88 (natureza da taxa), arts. 77 e 79 do CTN (serviços específicos e divisíveis) e arts. 165 e 168 do CTN (restituição de indébito e prazo prescricional).
+
+---
+
+**III. Análise Analítica da Resposta do(a) Examinando(a) (Simulada)**
+
+Consideremos uma hipotética resposta do(a) examinando(a) para análise:
+
+**(INÍCIO DA RESPOSTA HIPOTÉTICA DO(A) EXAMINANDO(A))**
+
+""Prezado(a) José,
+
+Sua intenção de anular a decisão administrativa é compreensível, mas a ação correta para o seu caso não é a ação anulatória da decisão administrativa. Isso porque o Judiciário não está vinculado à decisão do Fisco municipal. Mesmo que a decisão seja anulada, não necessariamente você terá o dinheiro de volta.
+
+A medida judicial adequada é a Ação de Repetição de Indébito Tributário. Através dela, buscamos diretamente a devolução dos valores pagos indevidamente. O prazo para propor essa ação é de 5 anos, contados da extinção do crédito tributário (art. 168 do CTN), o que se encaixa no seu caso, pois você pagou nos últimos dois anos.
+
+A taxa municipal de combate a incêndios é inconstitucional. O STF já decidiu que esse tipo de taxa não pode ser cobrado pelos municípios. O serviço de combate a incêndios é um serviço público essencial e indivisível, que beneficia a todos e não pode ser cobrado como taxa, que exige um serviço específico e divisível. Por isso, essa taxa viola o art. 145, II, da Constituição Federal e o art. 77 do CTN. O serviço deve ser custeado por impostos gerais.
+
+Dessa forma, entraremos com uma Ação de Repetição de Indébito para reaver o que você pagou.""
+
+**(FIM DA RESPOSTA HIPOTÉTICA DO(A) EXAMINANDO(A))**
+
+---
+
+**IV. Atribuição de Pontos e Justificativa (Com Base na Resposta Hipotética)**
+
+| Critério de Pontuação                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Pontuação Máxima | Pontuação Atribuída (Resposta Hipotética) | Justificativa da Pontuação Atribuída |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------- | :--------------------------------------- | :----------------------------------- |
+| **A. Identificação e Justificativa da Não Adequação da ""Ação Anulatória da Decisão Administrativa"" (1,5 pontos)** <br> - Reconhecer que a ação anulatória da decisão administrativa não é a via adequada. (0,5) <br> - Argumentar que o Judiciário não está adstrito à decisão administrativa e que a anulação da decisão administrativa não garante a restituição do indébito (não é o objetivo final). (1,0) | 1,5              | 1,0                                      | O examinando identificou corretamente que a ação anulatória não é a via adequada e justificou que ""o Judiciário não está vinculado à decisão do Fisco municipal"" e que a anulação ""não necessariamente você terá o dinheiro de volta"". A justificativa é boa, mas poderia ter sido um pouco mais elaborada no sentido de que o mérito da legalidade do tributo é o que importa, e não apenas a formalidade da decisão administrativa. |
+| **B. Identificação da Medida Judicial Correta: ""Ação de Repetição/Restituição de Indébito Tributário"" (1,5 pontos)** <br> - Indicar claramente a ação de repetição de indébito tributário. (1,0) <br> - Explicar a sua finalidade (restituição de valores pagos indevidamente). (0,5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | 1,5              | 1,5                                      | Pontuação integral. A ação foi corretamente identificada e sua finalidade explicada de forma clara. |
+| **C. Fundamentação Legal e Racional da Inconstitucionalidade/Ilegalidade da Taxa de Combate a Incêndios (4,0 pontos)** <br> - Explicar a natureza jurídica da taxa (tributo vinculado a serviço específico e divisível - art. 145, II, CF e arts. 77/79 CTN). (1,0) <br> - Argumentar que o serviço de combate a incêndios é universal/indivisível e, portanto, não pode ser custeado por taxa. (1,5) <br> - Citar a jurisprudência do STF (Súmula 649 e/ou Súmula Vinculante 19). (1,5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | 4,0              | 3,5                                      | O examinando explicou a natureza da taxa, a indivisibilidade do serviço de combate a incêndios e a violação ao art. 145, II, da CF e art. 77 do CTN. Mencionou ""O STF já decidiu que esse tipo de taxa não pode ser cobrado pelos municípios"", o que é correto e reflete o teor da Súmula 649, mas a *citação expressa da súmula* (Súmula 649) traria a pontuação máxima por demonstrar conhecimento específico da jurisprudência consolidada. A ausência da citação *textual* da súmula impede a pontuação integral neste subtópico. |
+| **D. Fundamentação Legal Adicional e Prazos (1,5 pontos)** <br> - Citação dos arts. 165 e 168 do CTN (restituição de indébito e prazo prescricional). (1,0) <br> - Correta aplicação do prazo prescricional ao caso concreto. (0,5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | 1,5              | 1,5                                      | Pontuação integral. Os artigos foram corretamente citados e aplicados ao caso. |
+| **E. Clareza e Coerência da Argumentação (1,5 pontos)** <br> - Organização das ideias e linguagem jurídica adequada. (1,0) <br> - Coerência interna da resposta e objetividade. (0,5)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | 1,5              | 1,5                                      | A resposta é clara, bem organizada e utiliza linguagem jurídica adequada de forma geral. |
+| **TOTAL**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | **10,0**         | **9,0**                                  |                                      |
+
+---
+
+**V. Comentários Finais ao(à) Examinando(a)**
+
+Sua resposta demonstra um sólido conhecimento jurídico sobre o tema. Você identificou corretamente a ação cabível e a inconstitucionalidade da taxa de combate a incêndios municipal. A argumentação sobre a natureza do serviço e a violação aos preceitos constitucionais e do CTN está bem desenvolvida.
+
+A principal melhoria seria a citação expressa da **Súmula 649 do STF**, que é o entendimento consolidado e direto sobre a inconstitucionalidade das taxas de segurança contra incêndio cobradas por municípios. Isso demonstraria um domínio ainda maior da jurisprudência aplicável e garantiria a pontuação máxima no quesito de fundamentação da inconstitucionalidade.
+
+No mais, a estrutura da sua ""orientação ao cliente"" é didática e objetiva, cumprindo o papel de um(a) advogado(a) que esclarece a situação e aponta o caminho correto.
+
+Parabéns pelo bom desempenho!","A) A ação anulatória da decisão administrativa que denegar a restituição do indébito tributário prescreve em dois anos, cf. o Art. 169, caput, do CTN.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| A. A ação anulatória da decisão administrativa que denegar a restituição do indébito tributário prescreve em dois anos (0,50), conforme o Art. 169, caput, do CTN (0,10). | 0,00/0,50/0,60 | B) Sim, tem razão. O combate a incêndios é feito pelo Corpo de Bombeiros, um órgão estadual, não tendo o município competência para instituir taxa sobre atividade realizada por outro ente federado fora do âmbito das atribuições municipais, conforme o Art. 145, inciso II, da CRFB/88 ou o Art. 77, caput, Art. 77, caput, ou Art. 80, ambos do CTN. No mesmo sentido: STF. RE 643.247 (repercussão geral), Rel. Min. Marco Aurélio, Pleno, julg. 24/05/2017 .
+e/ou
+Sim, tem razão. O combate a incêndios é serviço público que não está dotado de especificidade e divisibilidade, razão pela qual não pode ser remunerado mediante a espécie tributária ""taxa"", conforme o Art. 145, inciso II, da CRFB/88 ou Art. 77, caput, do CTN.
+No mesmo sentido: STF. ADI 2.908, Rel. Min. Cármen Lúcia, Pleno, julg. 11/10/2019: ""A taxa anual de segurança contra incêndio tem como fato gerador a prestação de atividade essencial geral e indivisível pelo corpo de bombeiros, sendo de utilidade genérica, devendo ser custeada pela receita dos impostos."" No mesmo sentido: STF. ADI 4.411, Rel. Min. Marco Aurélio, Pleno, julg. 18/08/2020.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| B. Sim. O combate a incêndios é feito pelo Corpo de Bombeiros, um órgão estadual, não tendo o município competência para instituir taxa sobre atividade realizada por outro ente federado fora do âmbito das atribuições municipais (0,55), segundo o Art. 145, inciso II, da CRFB/88 ou Art. 77, caput, ou Art. 80, ambos do CTN (0,10). ou Sim. O combate a incêndio é serviço público que não está dotado de especificidade e divisibilidade, razão pela qual não pode ser remunerado mediante a espécie tributária &quot;taxa&quot; (0,55), segundo o Art. 145, inciso II, da CRFB/88 ou o Art. 77, caput, do CTN (0,10). | 0,00/0,55/0,65 |",0.6856200695037842,0.647572934627533,0.6660535931587219
+42_direito_tributario_questao_2,"A correção será realizada de forma analítica, atribuindo-se pontos ao raciocínio jurídico demonstrado e à correta fundamentação legal, conforme os critérios da FGV.
+
+---
+
+**PARECER JURÍDICO - DEFESA DE BARBEARIA JÚPITER LTDA.**
+
+**I. IDENTIFICAÇÃO DOS PONTOS CENTRAIS E FUNDAMENTOS JURÍDICOS**
+
+A autuação da Barbearia Júpiter Ltda. apresenta flagrantes ilegalidades e inconstitucionalidades que merecem ser impugnadas. Os pontos centrais para a defesa de seus interesses residem na análise da validade formal da lei que majorou as alíquotas e, principalmente, na irretroatividade da legislação tributária em relação ao fato gerador do Imposto sobre Serviços (ISS).
+
+**II. ANÁLISE DOS ITENS**
+
+Para uma defesa robusta, abordaremos os seguintes aspectos:
+
+**1. Vício de Inconstitucionalidade Formal ou de Legalidade da Lei Ordinária Municipal nº XXX/2022 (0 a 3,0 pontos)**
+
+*   **Raciocínio Jurídico:**
+    *   A Constituição Federal estabelece, em seu art. 146, III, ""a"", que cabe à Lei Complementar federal estabelecer normas gerais em matéria de legislação tributária, especialmente sobre definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados na Constituição, os respectivos fatos geradores, bases de cálculo e contribuintes. O ISS é um imposto de competência municipal, mas sujeito a estas normas gerais.
+    *   Embora a Lei Complementar nº 116/2003 (federal) estabeleça as competências e as diretrizes gerais do ISS, a definição das alíquotas mínimas e máximas é matéria de Lei Complementar (art. 156, § 3º, I, da CF).
+    *   A questão informa que as alíquotas anteriores do ISS eram previstas na **Lei Complementar Municipal nº YYY/2015**. Se a matéria (definição das alíquotas do ISS) já era tratada por uma Lei Complementar municipal, e o próprio município se auto-impôs a exigência de lei complementar para dispor sobre o tema, uma posterior alteração por **Lei Ordinária Municipal nº XXX/2022** caracteriza vício de inconstitucionalidade formal (ou ilegalidade hierárquica dentro da ordem jurídica municipal).
+    *   Uma Lei Ordinária não pode alterar ou revogar dispositivo de Lei Complementar, pois estas possuem rito legislativo e quórum de aprovação distintos e hierarquia superior na disciplina de certas matérias. A alteração das alíquotas, neste contexto, exigiria, no mínimo, nova Lei Complementar municipal, ainda que para se adequar a limites impostos pela Lei Complementar federal.
+
+*   **Fundamentação Legal:**
+    *   Art. 146, III, ""a"", da Constituição Federal.
+    *   Princípio da Reserva de Lei Complementar, no caso de o próprio município ter estabelecido tal exigência para a matéria.
+
+**2. Ilegalidade da Aplicação Retroativa da Alíquota de 5% (0 a 6,0 pontos)**
+
+*   **Raciocínio Jurídico:**
+    *   **Irretroatividade da Lei Tributária Majorante:** O principal argumento reside na estrita observância do princípio da irretroatividade da lei tributária, conforme previsto na Constituição Federal e no Código Tributário Nacional (CTN). A autuação aplica a alíquota de 5% (Lei XXX/2022) a fatos geradores ocorridos nos anos de 2019 a 2021, período em que a alíquota vigente era de 2% (Lei YYY/2015).
+    *   **Fato Gerador:** No direito tributário, a legislação aplicável é aquela vigente na data da ocorrência do fato gerador. O ISS tem seu fato gerador na prestação do serviço. Portanto, cada serviço prestado em 2019, 2020 e 2021 teve sua obrigação tributária constituída sob a égide da Lei Complementar Municipal nº YYY/2015, com alíquota de 2%.
+    *   **Proibição Constitucional:** O art. 150, III, ""a"", da Constituição Federal, proíbe a cobrança de tributos em relação a fatos geradores ocorridos *antes do início da vigência* da lei que os houver instituído ou aumentado. No caso, a Lei Ordinária nº XXX/2022, que majorou a alíquota para 5%, entrou em vigor em 1º de outubro de 2022 e só poderia produzir efeitos para fatos geradores *posteriores* a sua vigência e, respeitada a anterioridade nonagesimal (art. 150, III, ""c"", da CF), a partir de 1º de janeiro de 2023.
+    *   **Regra do CTN:** O art. 144 do CTN estabelece que ""o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada"". O art. 105 do CTN também reforça que a legislação aplicável ao fato gerador é aquela em vigor à data da sua ocorrência.
+    *   **Erro na Justificativa do Auditor:** A citação do brocardo ""tempus regit actum"" e a justificativa de que a ""norma vigente no momento da lavratura do auto de infração"" seria a aplicável é equivocada. O princípio ""tempus regit actum"" aplica-se a normas de caráter processual ou formal, que regulam os atos procedimentais em si (como prazos para recurso, forma de intimação etc.). Ele **não** se aplica a normas de direito material tributário que definem a própria obrigação tributária, como o fato gerador, a base de cálculo e a alíquota. Para estas, prevalece o princípio da irretroatividade, sendo a lei aplicável a vigente à época do fato gerador.
+
+*   **Fundamentação Legal:**
+    *   Art. 150, III, ""a"" e ""c"", da Constituição Federal (Princípio da Irretroatividade e Anterioridade Nonagesimal).
+    *   Art. 105 do Código Tributário Nacional.
+    *   Art. 144 do Código Tributário Nacional.
+
+**3. Conclusão e Medidas a Serem Adotadas (0 a 1,0 ponto)**
+
+*   A autuação da Barbearia Júpiter Ltda., ao aplicar a alíquota majorada de 5% a fatos geradores ocorridos entre 2019 e 2021, é **manifestamente ilegal e inconstitucional**.
+*   Como advogado(a), o(a) primeiro(a) passo é apresentar uma **defesa administrativa** contra o Auto de Infração, arguindo todas as ilegalidades e inconstitucionalidades apontadas, requerendo o cancelamento da autuação ou, subsidiariamente, o recálculo do ISS devido para os períodos de 2019 a 2021 com a aplicação da alíquota de 2%, que era a vigente à época dos respectivos fatos geradores.
+*   Caso a defesa administrativa seja indeferida, será cabível a propositura de **medida judicial** (como um Mandado de Segurança ou uma Ação Anulatória de Débito Fiscal) para questionar judicialmente a cobrança indevida.
+
+---
+**Critérios de Pontuação:**
+
+*   **Vício Formal da Lei (1.0 a 3.0 pontos):**
+    *   Identificação da Lei Ordinária alterando Lei Complementar (0.5 pts).
+    *   Explicação sobre a hierarquia das leis e a impossibilidade de Lei Ordinária alterar Lei Complementar (1.0 pts).
+    *   Referência ao Art. 146, III, ""a"" da CF e/ou a própria exigência municipal de Lei Complementar (1.0 pts).
+    *   Coerência e clareza na argumentação (0.5 pts).
+*   **Irretroatividade e Ilegalidade da Aplicação (1.0 a 6.0 pontos):**
+    *   Identificação do princípio da irretroatividade da lei tributária (1.0 pts).
+    *   Explicação de que a lei aplicável é a vigente na data do fato gerador (1.0 pts).
+    *   Citação e explicação do Art. 150, III, ""a"" da CF (1.5 pts).
+    *   Citação e explicação do Art. 144 do CTN (1.5 pts).
+    *   Crítica fundamentada à aplicação do ""tempus regit actum"" pelo auditor, diferenciando normas processuais de materiais (0.5 pts).
+    *   Menção, ainda que breve, ao Art. 105 do CTN e/ou Art. 150, III, ""c"" da CF (0.5 pts).
+*   **Conclusão e Medidas a Serem Adotadas (0.0 a 1.0 ponto):**
+    *   Coerência da conclusão com os argumentos (0.5 pts).
+    *   Sugestão de defesa administrativa e/ou judicial (0.5 pts).","A) Não. O auditor fiscal não agiu corretamente, pois o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada, segundo o Art. 144 ou Art. 105 ambos do CTN, ou o Art. 150, inciso III, alínea a, da CRFB/88.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| A. Não, pois o lançamento reporta-se à data da ocorrência do fato gerador da obrigação e rege-se pela lei então vigente, ainda que posteriormente modificada ou revogada (0,55), com base no Art. 144 ou Art. 105 ambos do CTN, ou no Art. 150, inciso III, alínea a, da CRFB/88 (0,10). | 0,00/0,55/0,65 | B) Sim, pois a nova lei ordinária municipal observou a alíquota máxima de ISS de 5%, prevista no Art. 8º, inciso II, da LC nº 116/2003.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| B. Sim, pois a nova lei ordinária municipal observou a alíquota máxima de ISS de 5% (0,50), prevista no Art. 8º, inciso II, da LC nº 116/2003 (0,10). | 0,00/0,50/0,60 |",0.6252854466438293,0.6496134996414185,0.6372172832489014
+42_direito_tributario_questao_3,"Prezado(a) examinando(a),
+
+A presente correção analítica visa a avaliar o seu domínio sobre os princípios do Direito Tributário, a interpretação constitucional e a aplicação da legislação pertinente ao IPVA. Atribuo pontos com base na correção do raciocínio jurídico, na profundidade da fundamentação e na clareza da exposição. A mera citação de artigos não será suficiente para a pontuação máxima.
+
+---
+
+**Padrão de Resposta Esperado e Critérios de Pontuação:**
+
+A questão solicita a análise de duas alterações na lei de IPVA do Estado Alfa:
+1.  Diferenciação de alíquotas com base no *uso* do automóvel (passeio vs. táxi).
+2.  Diferenciação de alíquotas com base na *origem* do automóvel (nacional vs. importado).
+
+**I. Análise da Alíquota Diferenciada em Razão do Uso do Automóvel (Carro de Passeio e Táxi)**
+
+*   **Fundamentação Legal e Raciocínio Jurídico (Pontuação Máxima: 5,00 pontos)**
+
+    *   **Identificação da Natureza do IPVA:** O examinando deve iniciar mencionando que o IPVA é um imposto de competência dos Estados e do Distrito Federal (Art. 155, III, da CF/88) e que possui natureza predominantemente fiscal (arrecadatória), não se sujeitando, em regra, ao princípio da anterioridade nonagesimal (Art. 150, III, c, e Art. 150, § 1º, da CF/88), mas sim à anual.
+
+    *   **Análise da Seletividade em Razão do Uso:**
+        *   **Ponto Chave:** O examinando deve identificar e aplicar o **Art. 155, § 6º, inciso II, da Constituição Federal de 1988**.
+        *   Este dispositivo expressamente estabelece que ""o IPVA poderá ter alíquotas diferenciadas em função do tipo e utilização"".
+        *   **Raciocínio:** A diferenciação de alíquotas para carros de passeio (4%) e táxis (2%) está em perfeita consonância com a autorização constitucional, pois a ""utilização"" do veículo como táxi, que geralmente é um serviço de utilidade pública ou transporte de passageiros, justifica um tratamento tributário diferenciado. Essa diferenciação visa a promover a equidade tributária e, por vezes, incentivar atividades específicas ou reconhecer a menor capacidade econômica de certas categorias profissionais, sem violar o princípio da isonomia tributária, mas sim aplicando-o de forma material.
+
+    *   **Conclusão:** A diferenciação das alíquotas do IPVA em razão do uso (carro de passeio e táxi) é **constitucional** e está amparada pelo Art. 155, § 6º, II, da CF/88.
+
+*   **Critérios de Pontuação:**
+    *   **0,00 ponto:** Ausência de resposta ou resposta totalmente equivocada.
+    *   **1,00 - 2,00 pontos:** Identifica corretamente a constitucionalidade, mas não apresenta fundamentação legal ou a apresenta de forma incompleta/equivocada.
+    *   **2,01 - 3,50 pontos:** Identifica corretamente a constitucionalidade e cita o Art. 155, § 6º, II, da CF/88, mas sem aprofundar o raciocínio sobre a seletividade e a autorização constitucional.
+    *   **3,51 - 5,00 pontos:** Identifica corretamente a constitucionalidade, cita e explica o Art. 155, § 6º, II, da CF/88, desenvolvendo um raciocínio jurídico claro e completo sobre a validade da diferenciação por uso.
+
+---
+
+**II. Análise da Alíquota Majorada em Relação à Origem do Automóvel (Importado vs. Nacional)**
+
+*   **Fundamentação Legal e Raciocínio Jurídico (Pontuação Máxima: 5,00 pontos)**
+
+    *   **Identificação da Natureza do IPVA (Reafirmação):** Mais uma vez, o IPVA é um imposto estadual.
+    *   **Ponto Chave:** O examinando deve identificar e aplicar o **Art. 152 da Constituição Federal de 1988**.
+    *   Este dispositivo proíbe expressamente: ""É vedado aos Estados, ao Distrito Federal e aos Municípios estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino.""
+    *   **Raciocínio:** A Constituição Federal, ao distribuir as competências tributárias, estabeleceu limites ao poder de tributar dos entes federativos. Enquanto a União, em sua competência para impostos como o IPI e o Imposto de Importação (II), pode usar a extrafiscalidade para fins de política industrial ou proteção da indústria nacional (ex: seletividade em função da essencialidade ou procedência, Art. 153, § 3º, I, da CF/88), os Estados e Municípios são vedados de fazê-lo. A vedação do Art. 152 visa a impedir a ""guerra fiscal"" e o protecionismo regional/estadual, garantindo a livre circulação de bens no território nacional e a unidade econômica do país. Impor uma alíquota maior sobre automóveis importados, em comparação com os nacionais, configura uma diferenciação em razão da ""procedência"", o que é expressamente vedado aos Estados.
+
+    *   **Conclusão:** A diferenciação das alíquotas do IPVA em razão da origem (importado vs. nacional) é **inconstitucional** por violar o Art. 152 da CF/88.
+
+*   **Critérios de Pontuação:**
+    *   **0,00 ponto:** Ausência de resposta ou resposta totalmente equivocada.
+    *   **1,00 - 2,00 pontos:** Identifica corretamente a inconstitucionalidade, mas não apresenta fundamentação legal ou a apresenta de forma incompleta/equivocada.
+    *   **2,01 - 3,50 pontos:** Identifica corretamente a inconstitucionalidade e cita o Art. 152 da CF/88, mas sem aprofundar o raciocínio sobre a vedação aos Estados e a razão da proteção do mercado nacional.
+    *   **3,51 - 5,00 pontos:** Identifica corretamente a inconstitucionalidade, cita e explica o Art. 152 da CF/88, desenvolvendo um raciocínio jurídico claro e completo sobre a vedação da diferenciação por procedência e a distinção com a competência da União.
+
+---
+
+**Pontuação Final (Total: 10,00 pontos)**
+
+A pontuação final será a soma dos pontos atribuídos a cada item, conforme a análise detalhada acima.
+
+---
+
+**Exemplo de Resposta Ideal (modelo FGV):**
+
+""**Análise da Constitucionalidade da Lei do IPVA do Estado Alfa**
+
+A questão apresenta duas situações distintas de alteração da alíquota do Imposto sobre a Propriedade de Veículos Automotores (IPVA), que devem ser analisadas sob a ótica da Constituição Federal de 1988. O IPVA é um imposto de competência dos Estados e do Distrito Federal, conforme o Art. 155, inciso III, da CF/88, e possui natureza eminentemente fiscal.
+
+**1. Diferenciação de Alíquotas em Razão do Uso do Automóvel (Carro de Passeio e Táxi)**
+
+A alteração da lei do Estado Alfa que estabelece alíquotas diferenciadas de IPVA (4% para carro de passeio e 2% para táxi) é **constitucional**.
+
+A fundamentação para tal constitucionalidade encontra-se expressamente no **Art. 155, § 6º, inciso II, da Constituição Federal**, que dispõe: ""o imposto previsto no inciso III do caput [IPVA] poderá ter alíquotas diferenciadas em função do tipo e utilização"".
+A norma constitucional concede aos Estados a prerrogativa de instituir seletividade no IPVA com base na ""utilização"" do veículo. A diferenciação entre carro de passeio e táxi se enquadra perfeitamente nesse permissivo constitucional, uma vez que o uso como táxi geralmente envolve uma atividade profissional, por vezes de caráter público ou social, o que pode justificar um tratamento tributário mais favorável. Essa seletividade materializa o princípio da capacidade contributiva de forma mais adequada, ao considerar a finalidade econômica e social do bem.
+
+**2. Alíquota Majorada em Relação à Origem do Automóvel (Importado e Nacional)**
+
+A alteração da lei do Estado Alfa que estabelece uma alíquota majorada de 10% para automóveis importados, em comparação com os nacionais, é **inconstitucional**.
+
+Esta previsão legal viola diretamente o **Art. 152 da Constituição Federal**, que veda aos Estados, ao Distrito Federal e aos Municípios ""estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino"".
+A Constituição Federal, ao distribuir as competências tributárias, impôs limites claros à atuação dos entes federativos. Enquanto a União Federal pode, no exercício de sua competência para impostos como o Imposto de Importação (II) e o Imposto sobre Produtos Industrializados (IPI), utilizar a extrafiscalidade para fins de política industrial e proteção da indústria nacional (ex: Art. 153, § 3º, I, da CF/88), essa prerrogativa não se estende aos Estados e Municípios. A vedação contida no Art. 152 visa a evitar a ""guerra fiscal"" entre os entes federados e o protecionismo regional/estadual, assegurando a livre circulação de bens e a unidade econômica do território nacional. A instituição de uma alíquota maior para veículos importados, por se tratar de uma diferenciação baseada na ""procedência"" do bem, transgride flagrantemente essa vedação constitucional imposta aos Estados.""","A) Sim. A adoção de alíquotas diferenciadas em função do uso do automóvel como carro de passeio e como táxi é válida, pois o IPVA é tributo autorizado a ter alíquotas diferenciadas em função do tipo e da utilização do automóvel, cf. Art. 155, § 6º, inciso II, da CRFB/88.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| A. Sim. O IPVA é tributo autorizado a ter alíquotas diferenciadas em função do tipo e da utilização do automóvel (0,50), cf. Art. 155, § 6º, inciso II, da CRFB/88 (0,10). | 0,00/0,50/0,60 | B) Não é válida. É vedado aos Estados estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino, conforme o Art. 152 da CRFB/88. Assim, o simples fato de o veículo ser de procedência estrangeira não autoriza tal diferenciação na alíquota tributária de IPVA.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| B. Não. É vedado aos Estados estabelecer diferença tributária entre bens e serviços, de qualquer natureza, em razão de sua procedência ou destino (0,55), conforme o Art. 152 da CRFB/88 (0,10). | 0,00/0,55/0,65 |",0.6449666619300842,0.6540057063102722,0.6494547128677368
+42_direito_tributario_questao_4,"A presente questão exige do(a) examinando(a) a análise da constitucionalidade de um projeto de lei estadual que, de iniciativa do Tribunal de Justiça, versava sobre organização judiciária e, cumulativamente, sobre isenção de taxa judiciária. O foco principal recai sobre a adequação da iniciativa legislativa, especialmente em face dos argumentos de veto apresentados pelo Governador.
+
+**Critérios de Correção e Pontuação:**
+
+A correção será analítica, atribuindo pontos pela identificação dos problemas jurídicos, pelo desenvolvimento do raciocínio e pela fundamentação legal pertinente.
+
+*   **Identificação e análise do primeiro argumento do veto (mescla de temas):** (2,00 pontos)
+    *   Capacidade de analisar se a heterogeneidade temática é, por si só, um vício de inconstitucionalidade.
+    *   Conexão desse argumento com a questão da iniciativa legislativa.
+*   **Identificação e análise do segundo argumento do veto (reserva de iniciativa, Art. 61, §1º, II, ""b"", CRFB/88 por simetria):** (5,00 pontos)
+    *   Correta interpretação do Art. 61, §1º, II, ""b"", CRFB/88 e sua inaplicabilidade direta para reserva de iniciativa em matéria tributária (identificação do erro do Governador na citação específica). (2,00 pontos)
+    *   Explicação da reserva de iniciativa do TJ (Art. 96, I, ""d"", CRFB/88) e por que a isenção tributária não se enquadra em ""organização e funcionamento dos seus serviços"" ou ""estrutura dos seus órgãos"". (1,50 pontos)
+    *   Demonstração de que a isenção de taxa judiciária (tributo estadual) configura renúncia de receita e que a iniciativa para tal matéria, embora não diretamente pelo Art. 61, §1º, II, ""b"", é, via de regra, reservada ao Executivo em função de sua responsabilidade fiscal e orçamentária, por força das Constituições Estaduais e da LRF (Art. 14). (1,50 pontos)
+*   **Conclusão sobre a constitucionalidade do veto:** (3,00 pontos)
+    *   Sustentar que, embora o Governador tenha fundamentado seu veto citando um dispositivo incorreto para a matéria tributária (Art. 61, §1º, II, ""b""), o *fundamento material* do veto é constitucionalmente válido, pois a iniciativa do Tribunal de Justiça para instituir isenção de taxa judiciária é de fato inconstitucional por vício de iniciativa.
+
+---
+
+**Padrão de Resposta Esperado:**
+
+O(a) examinando(a) deve analisar a validade dos dois argumentos do Governador para o veto, demonstrando conhecimento sobre iniciativa legislativa, separação de poderes e matéria tributária.
+
+**1. Análise do primeiro argumento do veto (mescla de temas):**
+
+O Governador alegou que a lei isentiva tributária estava ""mesclada com tema de organização judiciária"". Em tese, a unicidade temática é um princípio que visa garantir a coerência e a racionalidade do processo legislativo, evitando que proposições heterogêneas sejam aprovadas em um mesmo diploma legal (""jabutis""). No entanto, a jurisprudência do Supremo Tribunal Federal (STF) tem relativizado a exigência de singularidade temática em leis originárias do Poder Judiciário, desde que as matérias guardem alguma pertinência com a autonomia e funcionamento do respectivo Poder.
+
+Neste caso, a alteração da divisão das comarcas é matéria de organização judiciária, que se insere na iniciativa privativa do Tribunal de Justiça, conforme o Art. 96, I, ""d"", da Constituição Federal. Já a taxa judiciária é um tributo estadual, cujo fato gerador está umbilicalmente ligado à prestação de serviços judiciais. Portanto, uma isenção da taxa judiciária, embora matéria tributária, possui uma conexão funcional com o Poder Judiciário.
+
+Contudo, o problema da ""mescla"" torna-se relevante não pela mera heterogeneidade, mas pela eventual inconstitucionalidade da iniciativa para um dos temas. Se o Tribunal de Justiça não possui iniciativa para a isenção tributária, a inserção desse tema em um projeto de sua autoria acarreta um vício de inconstitucionalidade formal, independentemente da convivência com a matéria de organização judiciária. Assim, o primeiro argumento do veto, embora não seja, por si só, o fundamento mais robusto, sinaliza para o problema da iniciativa legislativa, que é o cerne do segundo argumento.
+
+**2. Análise do segundo argumento do veto (reserva de iniciativa - Art. 61, §1º, II, ""b"", CRFB/88 por simetria):**
+
+Este é o ponto crucial da questão. O Governador fundamentou seu veto na violação da reserva de iniciativa para leis em matéria tributária, aplicando o princípio da simetria ao Art. 61, §1º, inciso II, alínea ""b"", da CRFB/88.
+
+*   **Inaplicabilidade direta do Art. 61, §1º, II, ""b"", CRFB/88 para matéria tributária:**
+    O Art. 61, §1º, II, ""b"", da Constituição Federal estabelece a iniciativa privativa do Presidente da República para leis que ""criem cargos, funções ou empregos públicos na administração direta e autárquica ou aumentem sua remuneração"". Esta alínea *não trata* de matéria tributária ou de instituição de isenções. Portanto, o Governador cometeu um equívoco ao citar *especificamente* este dispositivo para justificar a reserva de iniciativa em matéria tributária. O Art. 61, §1º, II, ""b"", da CRFB/88 trata de matéria administrativa e orçamentária relacionada a pessoal, não a impostos, taxas ou contribuições.
+
+*   **A iniciativa do Tribunal de Justiça e a isenção tributária:**
+    O Tribunal de Justiça possui iniciativa privativa para leis que disponham sobre a ""alteração da organização e da divisão judiciárias"" e ""a organização e o funcionamento dos seus serviços auxiliares"", conforme Art. 96, I, ""d"", da CRFB/88. Essa competência abrange aspectos internos do funcionamento do Judiciário e sua estrutura.
+    No entanto, a criação de uma isenção da taxa judiciária é uma matéria de cunho eminentemente tributário e fiscal, configurando uma *renúncia de receita* por parte do Estado. Embora a taxa judiciária seja cobrada pelo Judiciário, ela compõe a receita do Estado (em regra, não se confunde com as receitas próprias do Fundo de Reaparelhamento da Justiça, se houver, mas sim da Fazenda Pública Estadual). A competência para dispor sobre a política tributária e orçamentária do Estado, especialmente no que tange à arrecadação e renúncia de receitas, recai primariamente sobre o Poder Executivo, que é o responsável pela gestão fiscal do ente federativo.
+
+*   **A reserva de iniciativa para renúncia de receita (ainda que não pelo Art. 61, §1º, II, ""b""):**
+    A Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000), em seu Art. 14, estabelece condições rigorosas para a concessão ou ampliação de incentivo ou benefício de natureza tributária, do qual decorra *renúncia de receita*, como a compensação por meio de aumento de receita ou redução de despesa e a apresentação de estimativa do impacto orçamentário e financeiro. Embora o projeto de lei tenha apresentado a estimativa do impacto, a LRF não dispõe diretamente sobre a *iniciativa* legislativa.
+
+    Contudo, é um princípio consolidado na jurisprudência do STF (ex: ADI 3.394, ADI 3.538, RE 883.160) que, embora o Poder Executivo não detenha, em regra, iniciativa privativa em *toda* e qualquer matéria tributária, as leis que concedem isenções, anistias ou remissões tributárias (ou seja, que importam em renúncia de receita) devem observar o papel do Poder Executivo como principal gestor da política financeira e orçamentária. As Constituições Estaduais frequentemente espelham essa prerrogativa, estabelecendo a iniciativa do Governador para leis que impliquem aumento ou renúncia de receita. A interpretação de que a iniciativa para renúncia de receita, como a isenção tributária, pertence ao Executivo decorre da harmonia e independência dos Poderes e da necessidade de preservar a responsabilidade fiscal do Estado, que é gerenciada pelo Governador.
+
+    Assim, a instituição de uma nova isenção da taxa judiciária, por implicar em renúncia de receita do Estado, escapa à esfera de iniciativa privativa do Tribunal de Justiça, pois transcende a mera ""organização e funcionamento dos seus serviços"" e adentra na seara da política tributária e fiscal estadual, cuja iniciativa é predominantemente reservada ao Poder Executivo ou, no mínimo, exige a sua aquiescência para sua proposição.
+
+**3. Conclusão sobre a constitucionalidade do veto:**
+
+Diante do exposto, verifica-se que o Governador acertou ao vetar a parte referente à instituição da nova isenção da taxa judiciária, apesar de ter invocado um dispositivo legal (Art. 61, §1º, II, ""b"", CRFB/88) que não se aplica diretamente à matéria tributária.
+
+O **fundamento material** do veto é constitucionalmente válido, pois o projeto de lei, ao instituir uma isenção de tributo estadual (renúncia de receita) por iniciativa do Tribunal de Justiça, padece de vício de inconstitucionalidade formal orgânica (iniciativa legislativa), uma vez que essa competência é reservada ao Poder Executivo ou, ao menos, não pertence ao Poder Judiciário. A matéria tributária que implica renúncia de receita é de responsabilidade fiscal do Executivo, e a iniciativa do TJ se restringe à sua organização e funcionamento, não à política fiscal estadual.
+
+Portanto, o veto governamental foi constitucional, pois corrigiu um vício de iniciativa que tornava a parte do projeto de lei referente à isenção da taxa judiciária incompatível com a Constituição Federal e com os princípios da separação de poderes e responsabilidade fiscal.","A) Sim. Para a concessão da isenção tributária sobre a taxa judiciária, deve-se seguir o princípio da legalidade específica previsto no Art. 150, § 6º, da CRFB/88, in verbis: § 6º Qualquer subsídio ou isenção, redução de base de cálculo, concessão de crédito presumido, anistia ou remissão, relativos a impostos, taxas ou contribuições, só poderá ser concedido mediante lei específica, federal, estadual ou municipal, que regule exclusivamente as matérias acima enumeradas ou o correspondente tributo ou contribuição, sem prejuízo do disposto no Art. 155, § 2º, inciso XII, alínea g.
+Portanto, seria necessária uma lei específica que regulasse exclusivamente a isenção ou o correspondente tributo (taxa judiciária). O uso de uma lei que altera a divisão das comarcas e que também trata da isenção de um tributo viola o Art. 150, § 6º, da CRFB/88.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| A. Sim. É necessária uma lei específica para regular exclusivamente tal isenção ou o correspondente tributo (taxa judiciária). O uso de uma lei que trata ao mesmo tempo de organização judicial e de isenção tributária (0,50) viola o Art. 150, §6º, da CRFB/88 (0,10). | 0,00/0,50/0,60 | B) Não. Não existe reserva de iniciativa para leis em matéria tributária ao chefe do Executivo. O Presidente da República, conforme o Art. 61, §1º, inciso II, alínea b, da CRFB/88, detém reserva de iniciativa para leis em matéria tributária apenas em relação aos Territórios Federais.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+| --- | --- |
+| B. Não. Não existe reserva de iniciativa para leis em matéria tributária ao chefe do Executivo (0,35). O Presidente da República, conforme o Art. 61, §1º, inciso II, alínea b, da CRFB/88, detém reserva de iniciativa para leis em matéria tributária apenas em relação aos Territórios Federais (0,30). | 0,00/0,30/0,35 0,65 |",0.7092577815055847,0.704754114151001,0.7069987058639526
+42_direito_empresarial_peca_profissional,"Apresento a correção analítica da peça prático-profissional, atribuindo pontuações conforme os critérios da banca examinadora da FGV.
+
+---
+
+**PEÇA PRÁTICO-PROFISSIONAL: PETIÇÃO INICIAL DE RECUPERAÇÃO JUDICIAL**
+
+**1. ENDEREÇAMENTO E QUALIFICAÇÃO (0.40 pontos)**
+
+*   **Endereçamento:** A peça deve ser endereçada ao Juízo competente da Comarca onde a devedora tem sua sede e principal estabelecimento. No caso, Caxambu, MG, que é de vara única.
+    *   **Pontuação:** 0.20
+    *   **Correção:** EXCELENTÍSSIMO(A) SENHOR(A) DOUTOR(A) JUIZ(A) DE DIREITO DA VARA ÚNICA DA COMARCA DE CAXAMBU, ESTADO DE MINAS GERAIS.
+*   **Qualificação da Devedora:** Completa qualificação da sociedade, incluindo nome, tipo jurídico, CNPJ, endereço, e a representação por seu Diretor-Presidente, conforme poderes concedidos em Assembleia Geral Extraordinária.
+    *   **Pontuação:** 0.20
+    *   **Correção:** COMERCIAL E EXPORTADORA TRÊS PONTAS S.A., pessoa jurídica de direito privado, inscrita no CNPJ sob o nº [inserir CNPJ], com sede em [endereço completo], Caxambu/MG, CEP [inserir CEP], representada legalmente por seu Diretor-Presidente, Dr. Caldas Botelho, conforme procuração anexa e ata da Assembleia Geral Extraordinária que autorizou o ajuizamento da presente medida, vem, respeitosamente, à presença de Vossa Excelência, por seus advogados infra-assinados (procuração anexa), com fulcro nos artigos 47 e seguintes da Lei nº 11.101/2005 (Lei de Recuperação Judicial e Falência – LRF), ajuizar a presente **PETIÇÃO INICIAL DE RECUPERAÇÃO JUDICIAL** pelos fatos e fundamentos a seguir expostos:
+
+**2. FUNDAMENTAÇÃO FÁTICA (0.80 pontos)**
+
+*   **Exposição da Crise e Suas Causas:** Detalhamento claro e objetivo da situação de crise econômico-financeira, mencionando as causas específicas (pandemia 2020/2021, geada 2022).
+    *   **Pontuação:** 0.40
+    *   **Correção:** A sociedade Comercial e Exportadora Três Pontas S.A., regularmente constituída em 1970, com sede e único estabelecimento em Caxambu/MG, dedica-se à exportação de café de alta qualidade. Até o primeiro semestre de 2020, a empresa apresentava receitas crescentes e fluxo de caixa positivo, consolidando-se no mercado internacional. Contudo, a partir do segundo semestre de 2020, a devedora foi severamente atingida por eventos de força maior e imprevisíveis, que culminaram na sua atual situação de crise. A pandemia de COVID-19 (2020/2021) provocou uma drástica queda no volume de exportações, superior a 80% em seu auge, e impactou significativamente seu fluxo de caixa. Em 2022, a situação foi agravada por uma forte geada na região sul de Minas Gerais, que comprometeu severamente as plantações de café de alta qualidade, reduzindo ainda mais a safra. Atualmente, a receita da companhia corresponde a apenas 45% do que era em 2019.
+*   **Medidas Já Tomadas e Perspectivas de Recuperação:** Demonstração das tentativas da empresa para superar a crise (cortes, alienação de bens, aporte do controlador) e a existência de perspectivas de melhora a médio prazo.
+    *   **Pontuação:** 0.40
+    *   **Correção:** A crise resultou em prejuízos líquidos crescentes, passando de R$ 2.000.000,00 em 2020, para R$ 6.000.000,00 em 2021 e R$ 14.000.000,00 em 2022. O passivo total que necessita ser renegociado e novado atinge R$ 17.000.000,00. A companhia enfrenta demandas trabalhistas que comprometem seu fluxo de caixa e está há cinco meses sem Certidão Negativa de Débito (CND), impossibilitada de renová-la. A Comercial e Exportadora Três Pontas S.A. envidou todos os esforços para reverter a situação, incluindo cortes no número de empregados, redução salarial, concessão de férias coletivas e a alienação de um imóvel. Adicionalmente, o acionista controlador realizou um investimento de R$ 2.000.000,00 no segundo semestre de 2022. Embora o valor dependa da atividade para ser recuperado, demonstra a confiança e o comprometimento dos sócios na reestruturação da empresa. Apesar da gravidade da crise, há clara perspectiva de melhora a médio prazo, impulsionada pela alta do preço da commodity no mercado internacional e pela retomada de clientes internacionais na União Europeia, indicando a viabilidade de sua recuperação. A devedora já sofreu dois pedidos de falência, afastados por depósito elisivo, o que demonstra a urgência de uma medida de saneamento para evitar a quebra. A decisão pelo ajuizamento da presente Recuperação Judicial foi devidamente aprovada em Assembleia Geral Extraordinária, conforme documento anexo.
+
+**3. FUNDAMENTAÇÃO JURÍDICA (1.80 pontos)**
+
+*   **Cabimento da RJ - Art. 47 LRF e Função Social da Empresa:** Exposição do propósito da recuperação judicial e sua aplicação ao caso concreto, com base no Art. 47 da LRF, enfatizando a função social da empresa e a preservação da fonte produtora e empregos.
+    *   **Pontuação:** 0.50
+    *   **Correção:** A Lei nº 11.101/2005 (LRF), em seu artigo 47, estabelece que a recuperação judicial tem por objetivo ""superar a situação de crise econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa, sua função social e o estímulo à atividade econômica"". No presente caso, a Comercial e Exportadora Três Pontas S.A. enfrenta uma crise sem precedentes, decorrente de fatores exógenos e alheios à sua gestão ordinária. Contudo, como demonstrado na exposição fática, a empresa possui um histórico de solidez, experiência no mercado, ativo produtivo e, principalmente, perspectivas reais de recuperação a médio prazo. A preservação da devedora é essencial para a manutenção dos empregos diretos e indiretos, para a satisfação dos credores e para o fomento da economia local e nacional, dada a relevância da exportação de café de alta qualidade.
+*   **Requisitos do Art. 48 LRF:** Demonstração do preenchimento de todos os requisitos legais para o ajuizamento da recuperação judicial.
+    *   **Pontuação:** 0.50
+    *   **Correção:** Para fazer jus ao benefício da recuperação judicial, o devedor deve preencher os requisitos do artigo 48 da LRF. A devedora preenche todos os requisitos legais, conforme se demonstra:
+        1.  Exerce regularmente suas atividades há mais de 2 (dois) anos, tendo sido constituída em 1970;
+        2.  Não é falida e, se o foi, teve as responsabilidades declaradas extintas por sentença transitada em julgado. Não há, no presente caso, nenhuma decretação de falência, tendo os pedidos anteriores sido afastados por depósito elisivo;
+        3.  Não obteve concessão de recuperação judicial há menos de 5 (cinco) anos;
+        4.  Não obteve concessão de recuperação judicial com base em plano especial há menos de 8 (oito) anos;
+        5.  Não foi condenado(a) ou não tem administrador ou sócio controlador condenado por qualquer dos crimes previstos na LRF.
+*   **Menção à Aprovação em AGE:** Destaque para a aprovação da medida em Assembleia Geral Extraordinária, conforme exigência legal.
+    *   **Pontuação:** 0.20
+    *   **Correção:** Conforme exige o artigo 48, VIII, da LRF, a decisão de requerer a recuperação judicial foi devidamente aprovada por sua Assembleia Geral Extraordinária, cuja ata e lista de presença seguem anexas.
+*   **Argumento da Recuperabilidade e Distinção com Falência:** Reforçar que a empresa é recuperável e que a falência seria a pior solução, argumentando em favor da preservação da empresa.
+    *   **Pontuação:** 0.60
+    *   **Correção:** A situação da Comercial e Exportadora Três Pontas S.A., embora grave, não configura insolvência irreversível, mas sim uma crise transitória. A distinção entre uma crise que leva à falência e uma passível de recuperação judicial reside, fundamentalmente, na capacidade e na vontade do devedor de se reestruturar e de continuar sua atividade econômica. No caso em tela, a devedora demonstrou, por meio de seu histórico, das medidas já adotadas (cortes de custos, alienação de ativo, aporte de capital do controlador) e das perspectivas de mercado (alta da commodity, retorno de clientes), que possui viabilidade operacional e estratégica para superar o atual revés. A falência, neste cenário, representaria não apenas o fim da empresa e a perda de incontáveis empregos, mas também um prejuízo desnecessário aos credores, que teriam seus créditos satisfeitos de forma parcial e morosa, em contraste com a possibilidade de renegociação e pagamento proporcionada pela recuperação judicial.
+
+**4. REQUISITOS DO ART. 51 LRF E TRATAMENTO DA CND (1.00 ponto)**
+
+*   **Elenco dos Documentos Exigidos pelo Art. 51 LRF:** Listagem completa dos documentos que instruirão a petição inicial, conforme a lei.
+    *   **Pontuação:** 0.40
+    *   **Correção:** A petição inicial de recuperação judicial deve ser instruída com os documentos previstos no artigo 51 da LRF. A devedora junta, com a presente petição, os seguintes documentos:
+        1.  Exposição pormenorizada das causas da situação patrimonial do devedor e das razões da crise econômico-financeira;
+        2.  Demonstrações contábeis relativas aos 3 (três) últimos exercícios sociais e as levantadas especialmente para instruir o pedido, confeccionadas com observância da legislação específica (balanço patrimonial, DRE, DFC, DMPL, DVA);
+        3.  Relação nominal completa dos credores, com endereço, natureza, classificação e valor atualizado do crédito;
+        4.  Relação integral dos bens e direitos, com indicação da localização e descrição dos que estiverem sujeitos a registro;
+        5.  Relação dos sócios e acionistas controladores, com dados pessoais;
+        6.  Extratos atualizados das contas bancárias, com a identificação dos respectivos gerentes;
+        7.  Certidões dos cartórios de protestos das comarcas onde o devedor possui filial ou principal estabelecimento.
+*   **Correto Tratamento da Falta da CND:** Argumentação jurídica que a falta da CND no ajuizamento não impede o processamento da recuperação judicial, distinguindo o requisito para o deferimento do processamento daquele para a concessão da recuperação, e solicitando prazo para regularização.
+    *   **Pontuação:** 0.60
+    *   **Correção:** No que concerne ao inciso V do artigo 51 da LRF, que exige ""certidões dos órgãos de registro público e cartórios de protestos, nas quais conste a inexistência de ações ou execuções contra o devedor"", e em especial à Certidão Negativa de Débito (CND), a devedora informa que está há cinco meses sem condições de renová-la. Contudo, é fundamental destacar que a ausência de CND no momento do ajuizamento da recuperação judicial não pode obstar o processamento do pedido. A jurisprudência, notadamente do Superior Tribunal de Justiça, tem consolidado o entendimento de que a regularidade fiscal exigida pelo artigo 57 da LRF é condição para a **concessão** da recuperação judicial, ou seja, para a homologação do plano e não para o **processamento** do pedido. Entendimento contrário tornaria inviável a própria recuperação, frustrando o objetivo legal de reestruturar a empresa. Assim, requer-se que Vossa Excelência defira o processamento da presente recuperação judicial, concedendo à devedora prazo razoável para a obtenção das CNDs ou para a celebração de parcelamentos fiscais, conforme a exegese sistemática da LRF e o princípio da preservação da empresa.
+
+**5. PEDIDOS (0.80 pontos)**
+
+*   **Pedidos Essenciais da RJ:** Listagem clara e completa dos pedidos inerentes ao processamento da recuperação judicial (deferimento, nomeação AJ, suspensão execuções, intimação MP, expedição edital).
+    *   **Pontuação:** 0.60
+    *   **Correção:** Diante do exposto, e com base na legislação aplicável e nos documentos anexos, requer a devedora:
+        1.  O deferimento do processamento da presente Recuperação Judicial;
+        2.  A nomeação de Administrador Judicial, nos termos do artigo 21 da LRF;
+        3.  A dispensa da apresentação da Certidão Negativa de Débito (CND) para o processamento da Recuperação Judicial ou a concessão de prazo para sua regularização, nos termos da fundamentação supra;
+        4.  A suspensão de todas as ações e execuções contra a devedora, pelo prazo de 180 (cento e oitenta) dias, nos termos do artigo 6º da LRF;
+        5.  A intimação do Ministério Público para manifestar-se sobre o pedido;
+        6.  A comunicação do deferimento da Recuperação Judicial à Junta Comercial de Minas Gerais;
+        7.  A expedição de edital para publicação, nos termos do artigo 52, § 1º, da LRF;
+        8.  A declaração da competência do Juízo da recuperação judicial para todas as ações e execuções relativas à devedora, com exceção das hipóteses legais.
+*   **Valor da Causa:** Indicação do valor da causa, que pode ser o do passivo a ser reestruturado ou um valor simbólico, devidamente justificado.
+    *   **Pontuação:** 0.10
+    *   **Correção:** Atribui-se à causa o valor de R$ 17.000.000,00 (dezessete milhões de reais), correspondente ao passivo a ser renegociado.
+*   **Provas e Fechamento:** Menção genérica às provas e o encerramento padrão da peça.
+    *   **Pontuação:** 0.10
+    *   **Correção:** Protesta provar o alegado por todos os meios de prova em direito admitidos, especialmente documental, pericial e testemunhal.
+        Termos em que,
+        Pede deferimento.
+        Caxambu/MG, [data].
+        [Assinatura do Advogado(a)]
+        [Nome Completo do Advogado(a)]
+        OAB/[Estado] nº [Número da OAB]
+
+**6. DOMÍNIO DA LINGUAGEM JURÍDICA E ESTRUTURA DA PEÇA (0.20 pontos)**
+
+*   **Coerência, Clareza, Coesão, Organização Formal:** Avalia a capacidade de articular o raciocínio jurídico de forma lógica, clara e bem organizada, utilizando a terminologia jurídica adequada e apresentando a peça em formato processual correto.
+    *   **Pontuação:** 0.20
+    *   **Correção:** A peça demonstra um bom domínio da estrutura processual, linguagem jurídica clara e argumentação coesa. Os fatos são bem concatenados com o direito, e os pedidos decorrem logicamente da fundamentação.
+
+---
+
+**PONTUAÇÃO FINAL DETALHADA:**
+
+1.  **Endereçamento e Qualificação:** 0.40
+    *   Endereçamento correto (Vara Única de Caxambu/MG): 0.20
+    *   Qualificação completa da devedora e representante: 0.20
+2.  **Fundamentação Fática:** 0.80
+    *   Exposição da crise e suas causas (pandemia, geada, prejuízos, passivo, CND): 0.40
+    *   Medidas já tomadas e perspectivas de recuperação (cortes, aporte, alta commodity, clientes, afastamento falência, AGE): 0.40
+3.  **Fundamentação Jurídica:** 1.80
+    *   Cabimento da RJ - Art. 47 LRF e função social da empresa (preservação, empregos): 0.50
+    *   Preenchimento dos requisitos do Art. 48 LRF (2 anos, não falida, etc.): 0.50
+    *   Menção à aprovação em AGE (Art. 48, VIII LRF): 0.20
+    *   Argumento da recuperabilidade e distinção com falência (viabilidade, histórico, futuro): 0.60
+4.  **Requisitos do Art. 51 LRF e Tratamento da CND:** 1.00
+    *   Elenco dos documentos exigidos pelo Art. 51 LRF (incisos): 0.40
+    *   Correto tratamento da falta da CND (Art. 51, V c/c Art. 57 LRF, jurisprudência, pedido de prazo/dispensa para *processamento*): 0.60
+5.  **Pedidos:** 0.80
+    *   Deferimento do processamento, nomeação AJ, suspensão de execuções (Art. 6º), intimação MP, expedição de edital, comunicação à Junta Comercial, competência do juízo: 0.60
+    *   Valor da causa (R$ 17.000.000,00 ou simbólico justificado): 0.10
+    *   Provas e fechamento (Termos em que Pede Deferimento, Local, Data, Advogado, OAB): 0.10
+6.  **Domínio da Linguagem Jurídica e Estrutura da Peça:** 0.20
+    *   Coerência, clareza, coesão, organização formal: 0.20
+
+**TOTAL: 5.00 PONTOS**","A peça processual adequada é a petição inicial ou requerimento de recuperação judicial, que tem seu fundamento no Art. 48, caput, da Lei nº 11.101/2005.
+Na elaboração da peça, o examinando deverá observar, no que couber, o conteúdo do Art. 319 do CPC (requisitos da petição inicial) por força do Art. 189 da Lei nº 11.101/2005. Ademais, os requisitos formais do Art. 48 da Lei nº 11.101/2005 devem ser apontados no decorrer da peça, com referência expressa à exposição de motivos, prevista no Art. 51, inciso I, da Lei nº 11.101/2005, e os outros documentos exigidos nos incisos II a XI desse artigo, que devem ser todos nominados de per si.
+A correta instrução da petição inicial da ação de recuperação judicial é condição para o deferimento do seu processamento, nos termos do Art. 52, caput, da Lei nº 11.101/2005. A simples menção genérica a ""documentos em anexo"" ou aos incisos do Art. 51 da Lei nº 11.101/2005 não confere pontuação.
+A estrutura a ser observada na peça é a seguinte:
+I- Endereçamento: Ao Juízo da Comarca de Vara Única de Caxambu, MG, com base nas informações do enunciado e no Art. 3º da Lei nº 11.101/2005.
+II- Qualificação da requerente: Comercial e Exportadora Três Pontas S.A., representada pelo seu Diretor-Presidente Sr. Caldas Botelho etc.
+III- Fundamentos jurídicos:
+A petição deverá adotar como fundamentos jurídicos os requisitos subjetivos e objetivos do Art. 48, caput, da Lei nº
+11.101/2005, além de indicar que já houve a aprovação do pedido pela Assembleia Geral da companhia.
+a) a devedora é uma sociedade empresária que exerce suas atividades regularmente há mais de dois anos (ou desde 1970), podendo requerer recuperação judicial de acordo com o Art. 48, caput, da Lei nº 11.101/2005;
+b) a sociedade não está falida;
+c) a sociedade não obteve concessão de recuperação judicial há menos de cinco anos (ou nunca requereu tal medida); d) nem o acionista controlador nem qualquer dos administradores foram condenados pelos crimes previstos na Lei nº 11.101/2005;
+e) houve aprovação prévia do pedido de recuperação judicial pela Assembleia Geral de acionistas, em cumprimento ao Art. 122, inciso IX, da Lei nº 6.404/1976.
+IV- Exposição das causas concretas da situação patrimonial da sociedade e das razões da crise econômico-financeira, por exigência do Art. 51, inciso I, da Lei nº 11.101/2005.
+V- Menção aos demais documentos a serem anexados à petição inicial, exigidos no Art. 51 da Lei nº 11.101/2005 e à ata da Assembleia Geral que aprovou a medida, de forma expressa e individualizada, a saber:
+a) demonstrações contábeis relativas aos três últimos exercícios sociais e as levantadas para instruir o pedido;
+b) relação nominal completa de todos os credores;
+c) relação integral dos empregados;
+d) Certidão da Junta Comercial comprovando a regularidade e o tempo de exercício da empresa;
+e) estatuto social atualizado;
+f) atas de nomeação dos atuais administradores;
+g) relação dos bens particulares do sócio controlador e dos administradores;
+h) extratos atualizados das contas bancárias da sociedade e de suas aplicações financeiras;
+i) Certidão do Cartório de Protestos da Comarca de Caxambu, MG;
+j) relação das ações judiciais em que a sociedade é parte;
+k) relatório detalhado do passivo fiscal;
+l) relação de bens e direitos integrantes do ativo não circulante;
+m) ata da Assembleia Geral que aprovou o pedido de recuperação judicial.
+VI- Pedidos:
+a) deferimento do processamento da recuperação judicial, com base no caput do Art. 52 da Lei nº 11.101/2005 (o simples pedido de procedência não pontua);
+b) nomeação do administrador judicial;
+c) dispensa da apresentação de certidões negativas para que o devedor exerça suas atividades, nos termos do Art. 52, inciso II, da Lei nº 11.101/2005;
+d) suspensão das execuções em face da devedora, nos termos do Art. 52, inciso III, da Lei nº 11.101/2005;
+e) publicação do edital do processamento e da relação de credores, nos termos do Art. 52, § 1º, da Lei nº 11.101/2005; f) concessão da recuperação judicial.
+VII- Valor da causa (Art. 51, § 5º, da Lei nº 11.101/2005): R$ 17.000.000,00 (dezessete milhões de reais).
+VIII- Fechamento da peça: Local ou Município ... , Data ... , Advogado ... , OAB ...
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| I. Endereçamento |  |
+| Ao Juízo de Vara Única da Comarca de Caxambu/MG (0,10) | 0,00/0,10 |
+| II. Qualificação da Requerente: |  |
+| Comercial e Exportadora Três Pontas S.A., representada por seu Diretor-Presidente Caldas Botelho etc. (0,10). | 0,00/0,10 |
+| III. Fundamentos Jurídicos |  |
+| a) a devedora é uma sociedade empresária que exerce suas atividades regulamente há mais de dois anos (ou desde 1970), podendo requerer recuperação judicial (0,30), de acordo com o Art. 48, caput, da Lei nº 11.101/2005 (0,10); | 0,00/0,30/0,40 |
+| b) a sociedade não está falida (0,30); | 0,00/0,30 |
+| c) a sociedade não obteve, há menos de 5 anos, concessão de recuperação judicial (0,30); | 0,00/0,30 |
+| d) nenhum administrador ou acionista controlador foi condenado por qualquer dos crimes previstos na Lei nº 11.101/2005 (0,30); | 0,00/0,30 |
+| e) houve aprovação prévia do pedido de recuperação judicial pela assembleia-geral de acionistas (0,30), em cumprimento ao Art. 122, inciso IX, da Lei nº 6.404/1976 (0,10). | 0,00/0,30/0,40 |
+| IV. Exposição das causas concretas da situação patrimonial da sociedade e das razões da crise econômico-financeira (0,10), com fundamento no Art. 51, inciso I, da Lei nº 11.101/2005 (0,10). | 0,00/0,10/0,20 |
+| V. Menção expressa e individualizada aos documentos a serem anexados à petição inicial |  |
+| a) demonstrações contábeis relativas aos três últimos exercícios sociais e as levantadas para instruir o pedido (0,10); | 0,00/0,10 |
+| b) relação nominal completa de todos os credores (0,10); | 0,00/0,10 |
+| c) relação integral dos empregados (0,10); | 0,00/0,10 |
+| d) Certidão da Junta Comercial comprovando a regularidade e o tempo de exercício da sociedade empresária (0,10); | 0,00/0,10 |
+| e) estatuto social atualizado (0,10); | 0,00/0,10 |
+| f) atas de nomeação dos atuais administradores (0,10); | 0,00/0,10 |
+| g) relação dos bens particulares do sócio controlador e dos administradores (0,10); | 0,00/0,10 |
+| h) extratos atualizados das contas bancárias da sociedade e de suas aplicações financeiras (0,10); | 0,00/0,10 |
+| i) Certidão do Cartório de Protestos da Comarca de Caxambu, MG (0,10); | 0,00/0,10 |
+| j) relação das ações judiciais em que a sociedade é parte (0,10); | 0,00/0,10 |
+| k) relatório detalhado do passivo fiscal (0,10); | 0,00/0,10 |
+| l) relação de bens e direitos integrantes do ativo não circulante (0,10); | 0,00/0,10 |
+| m) ata da Assembleia Geral que aprovou o pedido de recuperação judicial (0,10). | 0,00/0,10 |
+| VI. Dos Pedidos |  |
+| a) deferimento do processamento da recuperação judicial (0,20), com base no Art. 52, caput, da Lei nº 11.101/2005 (0,10); | 0,00/0,20/0,30 |
+| b) nomeação do administrador judicial (0,20); | 0,00/0,20 |
+| c) dispensa da apresentação de Certidões Negativas para que o devedor exerça suas atividades (0,20); | 0,00/0,20 |
+| d) suspensão das ações e execuções em face do devedor (0,20); | 0,00/0,20 |
+| e) publicação do edital do processamento e da relação de credores (0,20); | 0,00/0,20 |
+| f) concessão da recuperação judicial (0,20). | 0,00/0,20 |
+| VII. Valor da causa |  |
+| R$ 17.000.000,00 (dezessete milhões de reais) (0,10), segundo o Art. 51, § 5º, da Lei nº 11.101/2005 (0,10). | 0,00/0,20 |
+| VIII. Fechamento |  |
+| Local ou Município ... , Data ... , Advogado ... , OAB ... (0,10). | 0,00/0,10 |
+|  |  |",0.6570245027542114,0.7070252299308777,0.6811084747314453
+42_direito_empresarial_questao_1,"Prezado(a) examinando(a),
+
+A correção da presente questão será analítica, atribuindo pontuação tanto pela identificação dos institutos jurídicos pertinentes quanto pelo desenvolvimento do raciocínio jurídico e a correta fundamentação legal. A mera citação de dispositivos legais, sem a sua devida aplicação e explicação ao caso concreto, receberá pontuação reduzida ou nula, conforme indicado no enunciado.
+
+**Enunciado da Questão 1:**
+Os sócios da sociedade limitada Adelândia Bar e Restaurante Ltda. deliberaram por unanimidade a alienação do único estabelecimento, situado na cidade de Trindade, GO.
+Após a alienação, que foi feita sem qualquer notificação prévia aos credores ou sem qualquer pagamento a eles, não restaram no patrimônio da pessoa jurídica bens suficientes para solver o seu passivo.
+Diante da situação narrada, responda aos itens a seguir.
+
+---
+
+**Critérios de Correção e Distribuição de Pontos (Total: 10,00 pontos)**
+
+Para obter a pontuação máxima, o(a) examinando(a) deveria demonstrar conhecimento sobre:
+1.  **O instituto do trespasse (alienação de estabelecimento empresarial).**
+2.  **A proteção legal dos credores no contexto do trespasse.**
+3.  **A sucessão de responsabilidades entre o alienante e o adquirente.**
+4.  **A possibilidade de desconsideração da personalidade jurídica da sociedade.**
+
+---
+
+**Raciocínio Jurídico Esperado e Pontuação Detalhada:**
+
+**1. Identificação do Instituto do Trespasse (Alienação de Estabelecimento): (1,00 ponto)**
+*   O(A) examinando(a) deve iniciar identificando corretamente que a situação narrada configura uma **alienação de estabelecimento empresarial (trespasse)**, conforme previsto nos artigos 1.142 e seguintes do Código Civil. Deve-se explicar brevemente o que é o estabelecimento (complexo de bens organizado para o exercício da empresa).
+
+**2. Proteção Legal dos Credores no Trespasse – Art. 1.145 do CC: (3,00 pontos)**
+*   **Identificação do dispositivo (1,00 ponto):** A peça central para a proteção dos credores é o **Art. 1.145 do Código Civil**.
+*   **Aplicação e Raciocínio (2,00 pontos):** O(A) examinando(a) deve explicar que, dado que após a alienação do único estabelecimento **não restaram bens suficientes no patrimônio da sociedade** Adelândia Bar e Restaurante Ltda. para solver seu passivo, a eficácia da alienação em relação aos credores da sociedade depende da **concordância expressa ou tácita (se não houver oposição fundamentada em 30 dias)** desses credores. A falta de notificação e o pagamento aos credores implicam que a operação foi realizada em desconformidade com este artigo.
+*   **Consequência da inobservância:** A alienação, nessas condições, torna-se **ineficaz em relação aos credores** que não anuiram ou não foram pagos, permitindo que eles busquem seus créditos sobre o próprio estabelecimento alienado.
+
+**3. Sucessão de Responsabilidades por Dívidas: (3,00 pontos)**
+*   **Responsabilidade do adquirente – Art. 1.146 do CC (1,50 ponto):**
+    *   O(A) examinando(a) deve indicar que o adquirente do estabelecimento responde pelo pagamento dos débitos anteriores à transferência, **desde que regularmente contabilizados** ou **devidamente comunicados**.
+    *   Deve-se explicar que esta responsabilidade é limitada aos débitos anteriores e, se não houver a devida publicidade ou comunicação, o adquirente poderia alegar desconhecimento.
+    *   A alienação do único estabelecimento sem notificação aos credores aumenta a probabilidade de que os débitos não estivessem ""regularmente contabilizados"" ou ""comunicados"" de forma que o adquirente soubesse de toda a extensão do passivo.
+*   **Responsabilidade solidária do alienante – Art. 1.147 do CC (1,50 ponto):**
+    *   O(A) examinando(a) deve mencionar que o alienante (Adelândia Bar e Restaurante Ltda.) **permanece solidariamente responsável** pelos débitos vencidos **pelo prazo de um ano** a partir da publicação do ato de transferência.
+    *   A contar da data da transferência quanto aos demais débitos.
+    *   A falta de qualquer notificação ou pagamento reforça essa responsabilidade solidária do alienante.
+
+**4. Possibilidade de Desconsideração da Personalidade Jurídica – Art. 50 do CC: (3,00 pontos)**
+*   **Identificação do instituto (1,00 ponto):** O(A) examinando(a) deve analisar a possibilidade de os credores da Adelândia Bar e Restaurante Ltda. pleitearem a **desconsideração da personalidade jurídica** da sociedade.
+*   **Raciocínio e Fundamentação (2,00 pontos):**
+    *   A situação em que a sociedade aliena seu único ativo, tornando-se insolvente e sem pagar seus credores, pode configurar **abuso da personalidade jurídica**, especialmente nas modalidades de **desvio de finalidade** (utilização da pessoa jurídica com o propósito de lesar credores) ou **confusão patrimonial** (se houver indícios de que os bens dos sócios se misturaram com os da empresa para esvaziar seu patrimônio).
+    *   A deliberada insolvência, resultante da alienação do único bem sem a devida salvaguarda dos credores, é um forte indício de que a pessoa jurídica está sendo utilizada de forma abusiva.
+    *   A desconsideração, prevista no **Art. 50 do Código Civil**, permitiria que os bens particulares dos sócios (que deliberaram por unanimidade a alienação e deixaram a sociedade insolvente) fossem alcançados para saldar as dívidas da empresa.
+    *   É crucial que o(a) examinando(a) conecte os fatos do enunciado (alienação do único estabelecimento, ausência de notificação/pagamento, insolvência) com os requisitos do Art. 50 CC.
+
+---
+
+**Observações Finais para a Correção:**
+
+*   **Fundamentação legal e raciocínio jurídico:** A pontuação será diretamente proporcional à clareza na exposição do raciocínio e à correta aplicação dos dispositivos legais aos fatos narrados.
+*   **Organização e Coerência:** A resposta deve ser bem estruturada, com argumentação lógica e linguagem jurídica adequada.
+*   **Não pontua:** A mera transcrição de artigos de lei sem a devida explicação e aplicação ao caso não será pontuada.
+
+Boa avaliação!","A questão tem por objetivo verificar os conhecimentos do(a) examinando(a) sobre as consequências da alienação de estabelecimento de sociedade limitada, autorizada por deliberação dos sócios, em infração à lei, isto é, sem a notificação ou pagamento prévio aos credores. O Art. 1.145 do CC determina que ""se ao alienante (no caso a sociedade Adelândia Bar e Restaurante Ltda.) não restarem bens suficientes para solver o seu passivo, a eficácia da alienação do estabelecimento depende do pagamento de todos os credores, ou do consentimento destes, de modo expresso ou tácito, em trinta dias a partir de sua notificação."" O ato praticado pela sociedade é considerado ""ato de falência"" e qualquer credor pode requerer a decretação de sua falência. Por se tratar de deliberação infringente da lei - autorizou a alienação sem a notificação/pagamento prévio aos credores - os sócios respondem ilimitadamente perante os credores, como prevê o Art. 1.080 do CC.
+A) A alienação (ou transferência) do estabelecimento sem o consentimento de todos os credores e sem ficar a sociedade com bens suficientes para solver o seu passivo autoriza qualquer credor a requerer a decretação da falência da sociedade, com base no Art. 94, inciso III, alínea c, da Lei nº 11.101/05, OU o credor que se sentir prejudicado poderá pleitear a anulação do negócio jurídico, com fundamento no Art. 159 do CC.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. A alienação (ou transferência) do estabelecimento, sem o consentimento de todos os credores e sem ficar a sociedade com bens suficientes para solver o seu passivo, autoriza qualquer credor a requerer a decretação da falência da sociedade (0,50), com base no Art. 94, inciso III, alínea c, da Lei nº 11.101/05 (0,10) OU o credor que se sentir prejudicado poderá pleitear a anulação do negócio jurídico (0,50), com base no Art. 159 do CC (0,10). | 0,00/0,50/0,60 | B) Por se tratar de deliberação infringente da lei, torna-se ilimitada a responsabilidade dos sócios perante os credores, de acordo com o Art. 1.080 caput do CC.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B2. Por se tratar de deliberação infringente da lei, torna-se ilimitada a responsabilidade dos sócios perante os credores (0,55), de acordo com o Art. 1.080 caput do CC (0,10). | 0,00/0,55/0,65 |",0.699299156665802,0.7227004766464233,0.7108072638511658
+42_direito_empresarial_questao_2,"Como membro da banca examinadora da FGV, procedo à correção analítica da Questão 2, atribuindo pontuação com base no raciocínio jurídico e na fundamentação legal apresentada pelo(a) examinando(a).
+
+---
+
+**PARECER DA BANCA EXAMINADORA – QUESTÃO 2**
+
+**Pontuação Máxima Prevista: 5,0 pontos**
+
+**I. ANÁLISE GERAL DA RESPOSTA:**
+
+A questão exige do(a) examinando(a) a aplicação das normas do contrato de corretagem, especialmente no que tange ao direito à remuneração do corretor em caso de desistência do comitente e à divisão da remuneração quando há pluralidade de corretores. A análise deve perpassar os requisitos para a configuração do ""resultado útil"" e a interpretação do Art. 725 do Código Civil, reforçada pela exclusão da possibilidade de arrependimento como justificativa para o não pagamento.
+
+**II. CRITÉRIOS DE PONTUAÇÃO E DETALHAMENTO DA AVALIAÇÃO:**
+
+**A. Direito à Remuneração dos Corretores (até 2,5 pontos)**
+
+1.  **Reconhecimento do Direito à Remuneração (1,0 ponto):**
+    *   O(A) examinando(a) deve afirmar que ambos os corretores têm direito à remuneração.
+    *   **Pontuação:** Atribuída se a conclusão estiver correta.
+
+2.  **Fundamentação Legal e Raciocínio Jurídico (1,5 pontos):**
+    *   **Art. 725 do Código Civil:** Essencial que o(a) examinando(a) cite e, mais importante, explique a aplicação do Art. 725 do Código Civil, que estabelece que ""a remuneração é devida ao corretor uma vez que tenha conseguido o resultado útil previsto no contrato de corretagem, ou ainda que este não se efetive em virtude de arrependimento das partes.""
+    *   **Conceito de ""Resultado Útil"":** Deve-se demonstrar que o ""resultado útil"" não se confunde necessariamente com a conclusão do contrato principal (a venda dos carros), mas sim com a aproximação das partes e a mediação que torna o negócio viável, com a concordância sobre os termos essenciais, criando as condições para a concretização.
+    *   **Desistência do Comitente:** O(A) examinando(a) precisa argumentar que a desistência de Ubiratã, na véspera da assinatura e **excluída a possibilidade de arrependimento como justificativa para o não pagamento**, não afasta o direito à remuneração. Os corretores cumpriram sua parte da obrigação ao aproximar as partes e mediar o negócio até o ponto de quase concretização. A recusa unilateral do comitente, após o cumprimento da mediação que leva ao resultado útil, não pode prejudicar os corretores.
+    *   **Jurisprudência (não obrigatória, mas valorizada):** Menção à interpretação pacificada pelo Superior Tribunal de Justiça (STJ) que corrobora que a comissão de corretagem é devida mesmo que o negócio não se concretize por arrependimento do comitente, desde que o trabalho de intermediação tenha sido bem-sucedido e as partes tenham chegado a um acordo sobre os termos essenciais.
+    *   **Pontuação:**
+        *   1,5 pontos: Citação do Art. 725 CC e explicação detalhada do conceito de resultado útil, articulando-o com a desistência do comitente e a exclusão da possibilidade de arrependimento.
+        *   0,5 - 1,0 ponto: Citação do Art. 725 CC, mas com explicação superficial ou falha na conexão com os fatos ou com o conceito de resultado útil.
+        *   0,0 ponto: Mera citação do dispositivo legal sem explicação, ou fundamentação incorreta/ausente.
+
+**B. Divisão da Remuneração entre os Corretores (até 2,5 pontos)**
+
+1.  **Reconhecimento da Divisão Equitativa (1,0 ponto):**
+    *   O(A) examinando(a) deve afirmar que a remuneração deve ser dividida igualmente entre os dois corretores.
+    *   **Pontuação:** Atribuída se a conclusão estiver correta.
+
+2.  **Fundamentação Legal e Raciocínio Jurídico (1,5 pontos):**
+    *   **Art. 728 do Código Civil:** Essencial que o(a) examinando(a) cite e explique a aplicação do Art. 728 do Código Civil, que dispõe: ""Se o negócio se concluir com a intermediação de mais de um corretor, a remuneração será paga a todos em partes iguais, salvo ajuste em contrário.""
+    *   **Contribuição dos Corretores:** Deve-se analisar a atuação de cada corretor conforme o enunciado:
+        *   O primeiro corretor foi ""atuante na transmissão das propostas ao cliente"" – essencial para a aproximação inicial e negociação.
+        *   O segundo corretor ""prestou todos os esclarecimentos acerca da segurança do negócio"" – essencial para a construção da confiança e a finalização das condições do negócio.
+    *   **Ausência de Cláusula de Exclusividade/Ajuste em Contrário:** O(A) examinando(a) deve destacar que, como não havia cláusula de exclusividade e o enunciado não menciona ajuste em contrário sobre a forma de divisão, a regra do Art. 728 CC se aplica. Ambos contribuíram de forma relevante para o resultado útil, mesmo que com atuações distintas, justificando a divisão igualitária.
+    *   **Pontuação:**
+        *   1,5 pontos: Citação do Art. 728 CC e explicação detalhada sobre a contribuição de ambos os corretores para o resultado útil, bem como a ausência de ajuste em contrário ou cláusula de exclusividade.
+        *   0,5 - 1,0 ponto: Citação do Art. 728 CC, mas com explicação superficial ou falha na análise da contribuição de cada corretor.
+        *   0,0 ponto: Mera citação do dispositivo legal sem explicação, ou fundamentação incorreta/ausente.
+
+---
+
+**Observações para o(a) Examinando(a):**
+
+*   A mera citação do dispositivo legal sem a devida explanação e articulação com os fatos narrados no enunciado não é suficiente para pontuar integralmente.
+*   É crucial demonstrar a compreensão do ""resultado útil"" no contexto do contrato de corretagem, distinguindo-o da efetiva conclusão do contrato principal.
+*   A leitura atenta do enunciado, em especial a ressalva ""excluída a possibilidade de arrependimento do cliente"", é fundamental para a correta aplicação do Art. 725 do CC.
+
+---
+**(Exemplo de uma possível resposta do examinando e sua pontuação hipotética)**
+
+**Resposta Hipotética do(a) Examinando(a):**
+
+""Sim, os corretores têm direito à remuneração. O art. 725 do Código Civil diz que a remuneração é devida mesmo que o negócio não se concretize por arrependimento. No caso, Ubiratã desistiu, mas os corretores fizeram o trabalho. A remuneração deve ser dividida igualmente entre eles, conforme o art. 728 do Código Civil, já que não tinha exclusividade.""
+
+**Pontuação para Resposta Hipotética:**
+
+*   **A. Direito à Remuneração dos Corretores:**
+    *   Reconhecimento do Direito: 1,0 ponto (Correto)
+    *   Fundamentação Legal e Raciocínio Jurídico: 0,5 ponto (Cita o Art. 725 e menciona arrependimento, mas não explica o conceito de ""resultado útil"" nem aprofunda a irrelevância da desistência de Ubiratã *após* o trabalho de mediação ter atingido seu ápice, especialmente com a cláusula de exclusão do arrependimento como justificativa).
+    *   **Subtotal A: 1,5/2,5 pontos**
+
+*   **B. Divisão da Remuneração entre os Corretores:**
+    *   Reconhecimento da Divisão Equitativa: 1,0 ponto (Correto)
+    *   Fundamentação Legal e Raciocínio Jurídico: 0,5 ponto (Cita o Art. 728 e a ausência de exclusividade, mas não detalha como as diferentes atuações de cada corretor contribuíram para o resultado útil e se encaixam no ""intermediação de mais de um corretor"").
+    *   **Subtotal B: 1,5/2,5 pontos**
+
+**Pontuação Total Hipotética: 3,0/5,0 pontos**
+
+---","A questão tem por objetivo aferir se o(a) examinando(a) é capaz de identificar a regra legal quanto á repartição equânime da comissão em caso de pluralidade de corretores. Também se espera que o(a) examinando(a) esteja apto(a) a reconhecer que o contrato de corretagem traz para o corretor uma obrigação de resultado - obter para o cliente a concretização do negócio - sob pena de não auferir a comissão em caso de desistência antes de sua concretização. Este é o entendimento consolidado da jurisprudência do STJ e, conforme previsto no item 3.5.12 do Edital, ""as questões da prova prático-profissional poderão ser formuladas de modo que, necessariamente, a resposta reflita a jurisprudência pacificada dos Tribunais Superiores.""
+Conforme reiteradas decisões do STJ, ""Esta Corte Superior de Justiça tem entendimento consolidado em sua jurisprudência no sentido que o contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que é exigível o pagamento da comissão quando a aproximação resulta na efetiva contratação"" (trecho da ementa do AgInt no AREsp 1992038/SP, Quarta Turma, Relator Ministro Luis Felipe Salomão, Data do Julgamento 23/05/2022, Data da Publicação/Fonte DJe 27/05/2022). No mesmo sentido, foi afirmado no julgamento do AgRg no AREsp n. 514.317/SP (Relator Ministro Raul Araújo, Quarta Turma, julgado em 25/8/2015, DJe 16/9/2015) que o ""contrato de corretagem não impõe simples obrigação de meio, mas de resultado, de maneira que somente é cabível a comissão de corretagem quando o corretor efetua a aproximação entre comprador e vendedor, resultando na efetiva venda do imóvel"".
+A) Não. Como a desistência do negócio por parte de Ubiratã ocorreu antes do dia marcado para a assinatura do contrato, não se verificou o resultado previsto, ou seja, a venda dos veículos, de acordo com o Art. 725 do Código Civil.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| A. Não. Como a desistência do negócio por parte de Ubiratã ocorreu antes do dia marcado para a assinatura do contrato, não ser verificou o resultado previsto, ou seja, a venda dos veículos (0,55), de acordo com o Art. 725 do Código Civil (0,10). | 0,00/0,55/0,65 | B) Se o negócio pretendido se concluísse com a intermediação dos dois corretores, a comissão seria paga a ambos em partes iguais, de acordo com o Art. 728 do Código Civil.
+
+DISTRIBUIÇÃO DE PONTOS
+
+| ITEM | PONTUAÇÃO |
+|---|---|
+| B. Se o negócio pretendido se concluísse com a intermediação dos dois corretores, a remuneração/comissão seria paga a ambos em partes iguais (0,50), de acordo com o Art. 728 do Código Civil (0,10). | 0,00/0,50/0,60 |",0.6713244915008545,0.6916565299034119,0.6813388466835022

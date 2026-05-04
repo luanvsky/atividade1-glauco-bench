@@ -1,0 +1,289 @@
+id_pergunta,modelo_avaliado,nota_final,erro
+107,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+107,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+107,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+108,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+108,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+108,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+109,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+109,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+109,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+110,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+110,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+110,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+111,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+111,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+111,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+112,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+112,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+112,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+113,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+113,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+113,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+114,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+114,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+114,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+115,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+115,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+115,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+116,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+116,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+116,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+117,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+117,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+117,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+118,phi-3-mini,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+118,qwen2-1.5b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
+118,tinyllama-1.1b,0.0,"Erro API HF (Gemma): 404 - <!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<title>Error</title>
+</head>
+<body>
+<"
