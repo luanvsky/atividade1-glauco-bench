@@ -1,1 +1,3 @@
-# `Aqui também posso coloco os COLABS`
+# Diário para alimentar ideias soltas
+
+...
